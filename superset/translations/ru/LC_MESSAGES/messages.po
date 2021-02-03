@@ -1,0 +1,3956 @@
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-06-07 00:22-0700\n"
+"PO-Revision-Date: 2018-03-09 22:26+0200\n"
+"Last-Translator: Vladimir Gladkov <oxydash@github.com>\n"
+"Language: ru\n"
+"Language-Team: Russian <>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: superset/assets/src/explore/controls.jsx:818 superset/db_engine_specs.py:343
+#: superset/db_engine_specs.py:393 superset/db_engine_specs.py:422
+#: superset/db_engine_specs.py:447 superset/db_engine_specs.py:499
+#: superset/db_engine_specs.py:561 superset/db_engine_specs.py:625
+#: superset/db_engine_specs.py:1190 superset/db_engine_specs.py:1232
+#: superset/db_engine_specs.py:1287 superset/db_engine_specs.py:1332
+#: superset/db_engine_specs.py:1365 superset/db_engine_specs.py:1395
+#: superset/db_engine_specs.py:1413
+msgid "Time Column"
+msgstr "Столбец с датой"
+
+#: superset/db_engine_specs.py:344 superset/db_engine_specs.py:394
+#: superset/db_engine_specs.py:448 superset/db_engine_specs.py:562
+#: superset/db_engine_specs.py:626 superset/db_engine_specs.py:1191
+#: superset/db_engine_specs.py:1233 superset/db_engine_specs.py:1333
+#: superset/db_engine_specs.py:1396 superset/db_engine_specs.py:1414
+msgid "second"
+msgstr "секунда"
+
+#: superset/db_engine_specs.py:346 superset/db_engine_specs.py:395
+#: superset/db_engine_specs.py:423 superset/db_engine_specs.py:452
+#: superset/db_engine_specs.py:566 superset/db_engine_specs.py:629
+#: superset/db_engine_specs.py:1194 superset/db_engine_specs.py:1236
+#: superset/db_engine_specs.py:1288 superset/db_engine_specs.py:1334
+#: superset/db_engine_specs.py:1366 superset/db_engine_specs.py:1397
+#: superset/db_engine_specs.py:1417
+msgid "minute"
+msgstr "минута"
+
+#: superset/db_engine_specs.py:348 superset/db_engine_specs.py:396
+#: superset/db_engine_specs.py:424 superset/db_engine_specs.py:457
+#: superset/db_engine_specs.py:500 superset/db_engine_specs.py:569
+#: superset/db_engine_specs.py:632 superset/db_engine_specs.py:1203
+#: superset/db_engine_specs.py:1239 superset/db_engine_specs.py:1297
+#: superset/db_engine_specs.py:1335 superset/db_engine_specs.py:1367
+#: superset/db_engine_specs.py:1398 superset/db_engine_specs.py:1420
+msgid "hour"
+msgstr "час"
+
+#: superset/db_engine_specs.py:350 superset/db_engine_specs.py:397
+#: superset/db_engine_specs.py:425 superset/db_engine_specs.py:463
+#: superset/db_engine_specs.py:503 superset/db_engine_specs.py:572
+#: superset/db_engine_specs.py:635 superset/db_engine_specs.py:1206
+#: superset/db_engine_specs.py:1242 superset/db_engine_specs.py:1300
+#: superset/db_engine_specs.py:1336 superset/db_engine_specs.py:1368
+#: superset/db_engine_specs.py:1399 superset/db_engine_specs.py:1423
+msgid "day"
+msgstr "день"
+
+#: superset/db_engine_specs.py:352 superset/db_engine_specs.py:398
+#: superset/db_engine_specs.py:426 superset/db_engine_specs.py:470
+#: superset/db_engine_specs.py:504 superset/db_engine_specs.py:573
+#: superset/db_engine_specs.py:638 superset/db_engine_specs.py:1209
+#: superset/db_engine_specs.py:1245 superset/db_engine_specs.py:1337
+#: superset/db_engine_specs.py:1369 superset/db_engine_specs.py:1400
+#: superset/db_engine_specs.py:1426
+msgid "week"
+msgstr "неделя"
+
+#~ msgid "month"
+#~ msgstr "месяц"
+
+#~ msgid "quarter"
+#~ msgstr "квартал"
+
+#~ msgid "year"
+#~ msgstr "год"
+
+#~ msgid "week_start_monday"
+#~ msgstr "неделя_начало_понедельник"
+
+#~ msgid "week_ending_saturday"
+#~ msgstr "неделя_конец_суббота"
+
+#~ msgid "week_start_sunday"
+#~ msgstr "неделя_начало_воскресенье"
+
+#~ msgid "5 minute"
+#~ msgstr "5 минут"
+
+#~ msgid "half hour"
+#~ msgstr "полчаса"
+
+#~ msgid "10 minute"
+#~ msgstr "10 минут"
+
+#~ msgid "Table Name"
+#~ msgstr "Имя Таблицы"
+
+#~ msgid "Name of table to be created from csv data."
+#~ msgstr "Имя таблицы, которая будет сформирована из данных csv."
+
+#~ msgid "CSV File"
+#~ msgstr "CSV Файл"
+
+#~ msgid "Select a CSV file to be uploaded to a database."
+#~ msgstr "Выберите файл CSV, который будет загружен в БД."
+
+#~ msgid "CSV Files Only!"
+#~ msgstr "Только CSV-файлы!"
+
+#~ msgid "Delimiter"
+#~ msgstr "Разделитель"
+
+#~ msgid "Delimiter used by CSV file (for whitespace use \\s+)."
+#~ msgstr "Разделитель, используемый CSV-файлом (для пробелов используется \\s+)."
+
+#~ msgid "Table Exists"
+#~ msgstr "Метод добавления"
+
+#~ msgid ""
+#~ "If table exists do one of the "
+#~ "following: Fail (do nothing), Replace "
+#~ "(drop and recreate table) or Append "
+#~ "(insert data)."
+#~ msgstr ""
+#~ "Если таблица уже существует, выполните "
+#~ "одно из следующих действий: Fail (ничего"
+#~ " не делать), Replace (удалить и "
+#~ "заново создать таблицу) или Append "
+#~ "(добавить данные)."
+
+#~ msgid "Fail"
+#~ msgstr ""
+
+#~ msgid "Replace"
+#~ msgstr ""
+
+#~ msgid "Append"
+#~ msgstr ""
+
+#~ msgid "Schema"
+#~ msgstr "Схема"
+
+#~ msgid "Specify a schema (if database flavour supports this)."
+#~ msgstr "Укажите схему (если это поддерживается базой данных)."
+
+#~ msgid "Header Row"
+#~ msgstr "Строка заголовков"
+
+#~ msgid ""
+#~ "Row containing the headers to use "
+#~ "as column names (0 is first line"
+#~ " of data). Leave empty if there "
+#~ "is no header row."
+#~ msgstr ""
+#~ "Строка, содержащая заголовки для использования"
+#~ " в качестве имен столбцов (0 - "
+#~ "первая строка данных). Оставьте пустым, "
+#~ "если строка заголовка отсутствует."
+
+#~ msgid "Index Column"
+#~ msgstr "Столбец индекса"
+
+#~ msgid ""
+#~ "Column to use as the row labels"
+#~ " of the dataframe. Leave empty if "
+#~ "no index column."
+#~ msgstr ""
+#~ "Столбец для использования в качестве "
+#~ "меток строк данных. Оставьте пустым, "
+#~ "если столбец индекса отсутствует."
+
+#~ msgid "Mangle Duplicate Columns"
+#~ msgstr "Дубликаты"
+
+#~ msgid "Specify duplicate columns as \"X.0, X.1\"."
+#~ msgstr ""
+#~ "Если есть столбцы с одинаковым именем,"
+#~ " то присвоить им порядковые номера -"
+#~ " столбец1, столбец2, … и т.д."
+
+#~ msgid "Skip Initial Space"
+#~ msgstr "Убрать пробелы"
+
+#~ msgid "Skip spaces after delimiter."
+#~ msgstr "Пропустить пробелы после разделителя."
+
+#~ msgid "Skip Rows"
+#~ msgstr "Игнорировать"
+
+#~ msgid "Number of rows to skip at start of file."
+#~ msgstr "Количество первых строк, которые нужно проигнорировать."
+
+#~ msgid "Rows to Read"
+#~ msgstr "Строки для чтения"
+
+#~ msgid "Number of rows of file to read."
+#~ msgstr "Количество строк файла для чтения."
+
+#~ msgid "Skip Blank Lines"
+#~ msgstr "Пропустить пустые строки"
+
+#~ msgid "Skip blank lines rather than interpreting them as NaN values."
+#~ msgstr "Пропустите пустые строки, а не интерпретировать их как значения NaN."
+
+#~ msgid "Parse Dates"
+#~ msgstr "Разбор Дат"
+
+#~ msgid "Parse date values."
+#~ msgstr "Разбор значений дат."
+
+#~ msgid "Infer Datetime Format"
+#~ msgstr "Формат даты и времени"
+
+#~ msgid "Use Pandas to interpret the datetime format automatically."
+#~ msgstr ""
+#~ "Используйте Pandas для автоматической "
+#~ "интерпретации формата даты и времени."
+
+#~ msgid "Decimal Character"
+#~ msgstr "Десятичный символ"
+
+#~ msgid "Character to interpret as decimal point."
+#~ msgstr "Символ, который интерпретируется как десятичная точка."
+
+#~ msgid "Dataframe Index"
+#~ msgstr "Индекс"
+
+#~ msgid "Write dataframe index as a column."
+#~ msgstr "Записывайте индекс данных в виде столбца."
+
+#~ msgid "Column Label(s)"
+#~ msgstr "Обозначения столбцов"
+
+#~ msgid ""
+#~ "Column label for index column(s). If "
+#~ "None is given and Dataframe Index "
+#~ "is True, Index Names are used."
+#~ msgstr ""
+#~ "Обозначение столбца для столбцов с "
+#~ "индексами. Если поле пустое, а настройка"
+#~ " [Индекс] включена, то используются имена"
+#~ " индексов."
+
+#~ msgid "[Superset] Access to the datasource %(name)s was granted"
+#~ msgstr "Доступ к базе данных предоставлен для пользователя — %(name)s"
+
+#~ msgid "Viz is missing a datasource"
+#~ msgstr "У визуализации отсутствует источник данных"
+
+#~ msgid "From date cannot be larger than to date"
+#~ msgstr "Невозможно выбрать дату [from], которая позже текущего дня"
+
+#~ msgid "Table View"
+#~ msgstr "Табличный вид"
+
+#~ msgid "Pick a granularity in the Time section or uncheck 'Include Time'"
+#~ msgstr ""
+#~ "Выберите столбец с датой и необходимый"
+#~ " период в секции «Время» или снимите"
+#~ " флажок «Включая дату»"
+
+#~ msgid "Choose either fields to [Group By] and [Metrics] or [Columns], not both"
+#~ msgstr ""
+#~ "Выберите срез данных в полях "
+#~ "[Показатели] или [Столбцы], но не в "
+#~ "обоих одновременно"
+
+#~ msgid "Time Table View"
+#~ msgstr ""
+
+#~ msgid "Pick at least one metric"
+#~ msgstr "Выберите хотя бы одно значение"
+
+#~ msgid "When using 'Group By' you are limited to use a single metric"
+#~ msgstr ""
+#~ "При использовании поля [Группировка] вы "
+#~ "не ограничены использованием одного среза"
+
+#~ msgid "Pivot Table"
+#~ msgstr "Сводная таблица"
+
+#~ msgid "Please choose at least one 'Group by' field "
+#~ msgstr "Выберите хотя бы один срез в поле [Группировка]"
+
+#~ msgid "Please choose at least one metric"
+#~ msgstr "Пожалуйста, выберите хотя бы один показатель"
+
+#~ msgid "Group By' and 'Columns' can't overlap"
+#~ msgstr "Нельзя использовать один и тот же срез в двух полях"
+
+#~ msgid "Markup"
+#~ msgstr ""
+
+#~ msgid "Separator"
+#~ msgstr "Разделитель"
+
+#~ msgid "Word Cloud"
+#~ msgstr "Облако тегов"
+
+#~ msgid "Treemap"
+#~ msgstr "Дерево"
+
+#~ msgid "Calendar Heatmap"
+#~ msgstr ""
+
+#~ msgid "Box Plot"
+#~ msgstr ""
+
+#~ msgid "Bubble Chart"
+#~ msgstr "Пузырьковая диаграмма"
+
+#~ msgid "Pick a metric for x, y and size"
+#~ msgstr "Выберите срез для X, Y и размер"
+
+#~ msgid "Bullet Chart"
+#~ msgstr ""
+
+#~ msgid "Pick a metric to display"
+#~ msgstr "Выберите показатель для отображения"
+
+#~ msgid "Big Number with Trendline"
+#~ msgstr ""
+
+#~ msgid "Pick a metric!"
+#~ msgstr "Выберите показатель!"
+
+#~ msgid "Big Number"
+#~ msgstr ""
+
+#~ msgid "Time Series - Line Chart"
+#~ msgstr ""
+
+#~ msgid "Pick a time granularity for your time series"
+#~ msgstr "Выберите период для временных рядов"
+
+#~ msgid ""
+#~ "`Since` and `Until` time bounds should"
+#~ " be specified when using the `Time"
+#~ " Shift` feature."
+#~ msgstr ""
+
+#~ msgid "Time Series - Dual Axis Line Chart"
+#~ msgstr ""
+
+#~ msgid "Pick a metric for left axis!"
+#~ msgstr "Выберите значение для левой оси!"
+
+#~ msgid "Pick a metric for right axis!"
+#~ msgstr "Выберите значение для правой оси!"
+
+#~ msgid "Please choose different metrics on left and right axis"
+#~ msgstr "Пожалуйста, выберите разные срезы данных для левой и правой оси"
+
+#~ msgid "Time Series - Bar Chart"
+#~ msgstr ""
+
+#~ msgid "Time Series - Period Pivot"
+#~ msgstr ""
+
+#~ msgid "Time Series - Percent Change"
+#~ msgstr ""
+
+#~ msgid "Time Series - Stacked"
+#~ msgstr ""
+
+#~ msgid "Distribution - NVD3 - Pie Chart"
+#~ msgstr ""
+
+#~ msgid "Histogram"
+#~ msgstr "Гистограмма"
+
+#~ msgid "Must have one numeric column specified"
+#~ msgstr "Должен быть указан хотя бы один числовой столбец"
+
+#~ msgid "Distribution - Bar Chart"
+#~ msgstr ""
+
+#~ msgid "Can't have overlap between Series and Breakdowns"
+#~ msgstr "Срезы в полях [Столбцы данных] и [Ряды данных] должны быть разными"
+
+#~ msgid "Pick at least one field for [Series]"
+#~ msgstr "Выберите хотя бы одно значение для поля [Столбцы данных]"
+
+#~ msgid "Sunburst"
+#~ msgstr ""
+
+#~ msgid "Sankey"
+#~ msgstr ""
+
+#~ msgid "Pick exactly 2 columns as [Source / Target]"
+#~ msgstr "Выберите ровно два среза в поле [Источник / Назначение]"
+
+#~ msgid ""
+#~ "There's a loop in your Sankey, "
+#~ "please provide a tree. Here's a "
+#~ "faulty link: {}"
+#~ msgstr ""
+#~ "В полях [Источника] и [Назначения] есть"
+#~ " одинаковый срез данных - {}. Срезы"
+#~ " не должны пересекаться!"
+
+#~ msgid "Directed Force Layout"
+#~ msgstr ""
+
+#~ msgid "Pick exactly 2 columns to 'Group By'"
+#~ msgstr "Выберите ровно два столбца в поле [Группировка]"
+
+#~ msgid "Country Map"
+#~ msgstr "Карта Стран"
+
+#~ msgid "World Map"
+#~ msgstr "Карта Мира"
+
+#~ msgid "Filters"
+#~ msgstr "Фильтры"
+
+#~ msgid "Pick at least one filter field"
+#~ msgstr "Выберите хотя бы одно значение из списка"
+
+#~ msgid "iFrame"
+#~ msgstr ""
+
+#~ msgid "Parallel Coordinates"
+#~ msgstr ""
+
+#~ msgid "Heatmap"
+#~ msgstr ""
+
+#~ msgid "Horizon Charts"
+#~ msgstr ""
+
+#~ msgid "Mapbox"
+#~ msgstr ""
+
+#~ msgid "Must have a [Group By] column to have 'count' as the [Label]"
+#~ msgstr ""
+
+#~ msgid "Choice of [Label] must be present in [Group By]"
+#~ msgstr ""
+
+#~ msgid "Choice of [Point Radius] must be present in [Group By]"
+#~ msgstr "Срез [Радиуса точки] должен присутствовать в поле [Группировка]"
+
+#~ msgid "[Longitude] and [Latitude] columns must be present in [Group By]"
+#~ msgstr "Столбцы [Долгота] и [Широта] должны присутствовать в поле [Группировка]"
+
+#~ msgid "Deck.gl - Multiple Layers"
+#~ msgstr ""
+
+#~ msgid "Bad spatial key"
+#~ msgstr ""
+
+#~ msgid "Deck.gl - Scatter plot"
+#~ msgstr ""
+
+#~ msgid "Deck.gl - Screen Grid"
+#~ msgstr ""
+
+#~ msgid "Deck.gl - 3D Grid"
+#~ msgstr ""
+
+#~ msgid "Deck.gl - Paths"
+#~ msgstr ""
+
+#~ msgid "Deck.gl - Polygon"
+#~ msgstr ""
+
+#~ msgid "Deck.gl - 3D HEX"
+#~ msgstr ""
+
+#~ msgid "Deck.gl - GeoJSON"
+#~ msgstr ""
+
+#~ msgid "Deck.gl - Arc"
+#~ msgstr ""
+
+#~ msgid "Event flow"
+#~ msgstr ""
+
+#~ msgid "Time Series - Paired t-test"
+#~ msgstr ""
+
+#~ msgid "Time Series - Nightingale Rose Chart"
+#~ msgstr ""
+
+#~ msgid "Partition Diagram"
+#~ msgstr ""
+
+#~ msgid "Your query was saved"
+#~ msgstr "Ваш запрос был сохранен"
+
+#~ msgid "Your query could not be saved"
+#~ msgstr "Ваш запрос не может быть сохранен"
+
+#~ msgid "Failed at retrieving results from the results backend"
+#~ msgstr "Невозможно выполнить запрос"
+
+#~ msgid "Unknown error"
+#~ msgstr "Неизвестная ошибка"
+
+#~ msgid "Your session timed out, please refresh your page and try again."
+#~ msgstr "Время сессии истекло, пожалуйста, обновите страницу и попробуйте снова."
+
+#~ msgid "Query was stopped."
+#~ msgstr "Запрос прерван."
+
+#~ msgid "Failed at stopping query."
+#~ msgstr "Не получилось прервать запрос."
+
+#~ msgid "Error occurred while fetching table metadata"
+#~ msgstr "Произошла ошибка при получении метаданных из таблицы"
+
+#~ msgid "shared query"
+#~ msgstr "общий запрос"
+
+#~ msgid "The query couldn't be loaded"
+#~ msgstr "Запрос невозможно загрузить"
+
+#~ msgid "An error occurred while creating the data source"
+#~ msgstr "Произошла ошибка при создании источника данных"
+
+#~ msgid "Pick a chart type!"
+#~ msgstr "Выберите тип графика!"
+
+#~ msgid "To use this chart type you need at least one column flagged as a date"
+#~ msgstr ""
+#~ "Для использования этого типа графика "
+#~ "необходимо выбрать хотя бы один столбец"
+#~ " со значением даты или времени"
+
+#~ msgid "To use this chart type you need at least one dimension"
+#~ msgstr ""
+#~ "Для использования этого типа графика "
+#~ "необходимо выбрать хотя бы один срез "
+#~ "данных"
+
+#~ msgid "To use this chart type you need at least one aggregation function"
+#~ msgstr ""
+#~ "Для использования данного типа графика "
+#~ "выберите хотя бы один вычисляемый срез"
+#~ " данных"
+
+#~ msgid "Untitled Query"
+#~ msgstr "Запрос без имени"
+
+#~ msgid "Copy of %s"
+#~ msgstr "Копирование %s"
+
+#~ msgid "share query"
+#~ msgstr "Скопировать запрос"
+
+#~ msgid "copy URL to clipboard"
+#~ msgstr "скопировать ссылку в буфер обмена"
+
+#~ msgid "Raw SQL"
+#~ msgstr "Raw SQL"
+
+#~ msgid "Source SQL"
+#~ msgstr "Источник SQL"
+
+#~ msgid "SQL"
+#~ msgstr "SQL"
+
+#~ msgid "No query history yet..."
+#~ msgstr "История запросов пуста…"
+
+#~ msgid "It seems you don't have access to any database"
+#~ msgstr "Кажется у Вас нет доступа к базе данных"
+
+#~ msgid "Search Results"
+#~ msgstr "Результаты поиска"
+
+#~ msgid "[From]-"
+#~ msgstr "[С]-"
+
+#~ msgid "[To]-"
+#~ msgstr "[До]-"
+
+#~ msgid "[Query Status]"
+#~ msgstr "[Статус запроса]"
+
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Open in SQL Editor"
+#~ msgstr "Открыть редакторе"
+
+#~ msgid "view results"
+#~ msgstr "посмотреть результаты"
+
+#~ msgid "Data preview"
+#~ msgstr "Предпросмотр данных"
+
+#~ msgid "Visualize the data out of this query"
+#~ msgstr "Построить график на основе запроса"
+
+#~ msgid "Overwrite text in editor with a query on this table"
+#~ msgstr "Перезаписать текст в редакторе с запросом к этой таблице"
+
+#~ msgid "Run query in a new tab"
+#~ msgstr "Выполнить запрос на новой вкладке"
+
+#~ msgid "Remove query from log"
+#~ msgstr "Удалить запрос из журнала"
+
+#~ msgid ".CSV"
+#~ msgstr "Экспорт в CSV"
+
+#~ msgid "Visualize"
+#~ msgstr "Построить график"
+
+#~ msgid "Table"
+#~ msgstr "Таблица"
+
+#~ msgid "was created"
+#~ msgstr "создан"
+
+#~ msgid "Query in a new tab"
+#~ msgstr "Запрос в отдельной вкладке"
+
+#~ msgid "Fetch data preview"
+#~ msgstr "Получить данные для просмотра"
+
+#~ msgid "Track Job"
+#~ msgstr "Отслеживать работу"
+
+#~ msgid "Loading..."
+#~ msgstr "Идет загрузка…"
+
+#~ msgid "Run Selected Query"
+#~ msgstr "Выполнить выбранный запрос"
+
+#~ msgid "Run Query"
+#~ msgstr "Выполнить запрос"
+
+#~ msgid "Run query synchronously"
+#~ msgstr "Выполнить синхронный запрос"
+
+#~ msgid "Run query asynchronously"
+#~ msgstr "Выполнить асинхронный запрос"
+
+#~ msgid "Stop"
+#~ msgstr "Стоп"
+
+#~ msgid "Undefined"
+#~ msgstr "Не определено"
+
+#~ msgid "Label"
+#~ msgstr "Метка"
+
+#~ msgid "Label for your query"
+#~ msgstr "Метка для вашего запроса"
+
+#~ msgid "Description"
+#~ msgstr "Описание"
+
+#~ msgid "Write a description for your query"
+#~ msgstr "Заполните описание к вашему запросу"
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
+
+#~ msgid "Cancel"
+#~ msgstr "Отменить"
+
+#~ msgid "Save Query"
+#~ msgstr "Сохранить запрос"
+
+#~ msgid "Run a query to display results here"
+#~ msgstr "Выполнить запрос для отображения результатов"
+
+#~ msgid "Preview for %s"
+#~ msgstr "Предпросмотр %s"
+
+#~ msgid "Results"
+#~ msgstr "Результаты"
+
+#~ msgid "Query History"
+#~ msgstr "История запросов"
+
+#~ msgid "Create table as with query results"
+#~ msgstr "Создать таблицу на основе запроса"
+
+#~ msgid "new table name"
+#~ msgstr "новое название таблицы"
+
+#~ msgid "Error while fetching table list"
+#~ msgstr "Ошибка при получении списка таблиц"
+
+#~ msgid "Error while fetching schema list"
+#~ msgstr "Ошибка при получении списка схем"
+
+#~ msgid "Error while fetching database list"
+#~ msgstr "Ошибка при получении списка баз данных"
+
+#~ msgid "Database:"
+#~ msgstr "База данных:"
+
+#~ msgid "Select a database"
+#~ msgstr "Выберите базу данных"
+
+#~ msgid "Select a schema (%s)"
+#~ msgstr "Выберите схему (%s)"
+
+#~ msgid "Schema:"
+#~ msgstr "Схема:"
+
+#~ msgid "Add a table (%s)"
+#~ msgstr "Добавить таблицу (%s)"
+
+#~ msgid "Type to search ..."
+#~ msgstr "Введите для поиска…"
+
+#~ msgid "Reset State"
+#~ msgstr "Сбросить текущее состояние"
+
+#~ msgid "Enter a new title for the tab"
+#~ msgstr "Введите название для таблицы"
+
+#~ msgid "Untitled Query %s"
+#~ msgstr "Запрос без имени %s"
+
+#~ msgid "close tab"
+#~ msgstr "Закрыть вкладку"
+
+#~ msgid "rename tab"
+#~ msgstr "Переименовать вкладку"
+
+#~ msgid "expand tool bar"
+#~ msgstr "Показать панель инструментов"
+
+#~ msgid "hide tool bar"
+#~ msgstr "Скрыть панель инструментов"
+
+#~ msgid "Copy partition query to clipboard"
+#~ msgstr "Скопировать часть запроса в буфер обмена"
+
+#~ msgid "latest partition:"
+#~ msgstr "последний раздел:"
+
+#~ msgid "Keys for table"
+#~ msgstr "Ключевые поля таблицы"
+
+#~ msgid "View keys & indexes (%s)"
+#~ msgstr "Посмотреть ключи и индексы (%s)"
+
+#~ msgid "Sort columns alphabetically"
+#~ msgstr "Отсортировать столбцы в алфавитном порядке"
+
+#~ msgid "Original table column order"
+#~ msgstr "Расположение столбцов как в исходной таблице"
+
+#~ msgid "Copy SELECT statement to clipboard"
+#~ msgstr "Скопировать выражение SELECT в буфер обмена"
+
+#~ msgid "Remove table preview"
+#~ msgstr "Убрать предпросмотр таблицы"
+
+#~ msgid "Template Parameters"
+#~ msgstr "Параметры шаблона"
+
+#~ msgid "Edit template parameters"
+#~ msgstr "Изменить параметры шаблона"
+
+#~ msgid "Invalid JSON"
+#~ msgstr "Недопустимый формат json"
+
+#~ msgid ""
+#~ "%s is not right as a column "
+#~ "name, please alias it (as in "
+#~ "SELECT count(*) "
+#~ msgstr ""
+#~ "%s неверно в качестве имени столбца, "
+#~ "пожалуйста, используйте его например, в "
+#~ "SELECT COUNT (*) "
+
+#~ msgid "AS my_alias"
+#~ msgstr "AS новое_название_столбца"
+
+#~ msgid "using only alphanumeric characters and underscores"
+#~ msgstr ""
+#~ "разрешается использование только букв, цифр"
+#~ " и знака нижнего подчеркивание"
+
+#~ msgid "Creating a data source and popping a new tab"
+#~ msgstr "Создание источника данных и добавление новой вкладки"
+
+#~ msgid "No results available for this query"
+#~ msgstr "Результаты для этого запроса недоступны"
+
+#~ msgid "Chart Type"
+#~ msgstr "Тип графика"
+
+#~ msgid "[Chart Type]"
+#~ msgstr "[Тип графика]"
+
+#~ msgid "Datasource Name"
+#~ msgstr "Название таблицы"
+
+#~ msgid "datasource name"
+#~ msgstr "название источника данных"
+
+#~ msgid "Create a new slice"
+#~ msgstr "Создать новый срез"
+
+#~ msgid "Choose a datasource"
+#~ msgstr "Выберите источник данных"
+
+#~ msgid "Choose a visualization type"
+#~ msgstr "Выберите тип диаграммы"
+
+#~ msgid "Create new slice"
+#~ msgstr "Создать новый срез"
+
+#~ msgid "Updating chart was stopped"
+#~ msgstr "Обновление графика остановлено"
+
+#~ msgid "An error occurred while rendering the visualization: %s"
+#~ msgstr "Произошла ошибка при построении графика: %s"
+
+#~ msgid "visualization queries are set to timeout at ${action.timeout} seconds. "
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Perhaps your data has grown, your "
+#~ "database is under unusual load, or "
+#~ "you are simply querying a data "
+#~ "source that is too large to be "
+#~ "processed within the timeout range. If"
+#~ " that is the case, we recommend "
+#~ "that you summarize your data further."
+#~ msgstr ""
+#~ "База данных находится под высокой "
+#~ "нагрузкой. Возможно, объём данных сильно "
+#~ "вырос, или вы запрашиваете источник "
+#~ "данных, который достаточно большой, чтобы "
+#~ "обрабатывать запрос в диапазоне тайм-аута. "
+#~ "Если это так, мы рекомендуем вам "
+#~ "агрегировать ваши данные или оптимизировать"
+#~ " запрос."
+
+#~ msgid "Network error."
+#~ msgstr "Ошибка сети."
+
+#~ msgid "Click to see difference"
+#~ msgstr "Нажмите, чтобы увидеть разницу"
+
+#~ msgid "Altered"
+#~ msgstr "Изменения"
+
+#~ msgid "Slice changes"
+#~ msgstr "Изменения среза"
+
+#~ msgid "Select ..."
+#~ msgstr "Выбрать …"
+
+#~ msgid "Loaded data cached"
+#~ msgstr "Данные были загружены в кэш"
+
+#~ msgid "Loaded from cache"
+#~ msgstr "Загружается из кэша"
+
+#~ msgid "Click to force-refresh"
+#~ msgstr "Нажмите для принудительного обновления"
+
+#~ msgid "Copy to clipboard"
+#~ msgstr "Скопировать в буфер обмена"
+
+#~ msgid "Not successful"
+#~ msgstr "Неудачно"
+
+#~ msgid "Sorry, your browser does not support copying. Use Ctrl / Cmd + C!"
+#~ msgstr ""
+#~ "Извините, Ваш браузер не поддерживание "
+#~ "копирование. Используйте сочетание клавиш "
+#~ "[CTRL + C] для WIN или [CMD "
+#~ "+ C] для MAC"
+
+#~ msgid "Copied!"
+#~ msgstr "Копирование завершено"
+
+#~ msgid "Title"
+#~ msgstr "Заголовок"
+
+#~ msgid "click to edit title"
+#~ msgstr "нажмите для изменения заголовка"
+
+#~ msgid "You don't have the rights to alter this title."
+#~ msgstr "Недостаточно прав для изменения заголовка."
+
+#~ msgid "Click to favorite/unfavorite"
+#~ msgstr "Отметить как избранное"
+
+#~ msgid "Active Dashboard Filters"
+#~ msgstr "Фильтр активного отчёта"
+
+#~ msgid "Checkout this dashboard: %s"
+#~ msgstr "Отладка отчёта: %s"
+
+#~ msgid "Save as"
+#~ msgstr "Сохранить как"
+
+#~ msgid "Force Refresh"
+#~ msgstr "Принудительное обновление"
+
+#~ msgid "Force refresh the whole dashboard"
+#~ msgstr "Принудительно обновить отчет"
+
+#~ msgid "Set autorefresh"
+#~ msgstr "Интервал обновления"
+
+#~ msgid "Set the auto-refresh interval for this session"
+#~ msgstr "Установите интервал автоматического обновления для этого сеанса"
+
+#~ msgid "Save the dashboard"
+#~ msgstr "Сохранить отчёт"
+
+#~ msgid "Edit properties"
+#~ msgstr "Редактирование свойств"
+
+#~ msgid "Edit the dashboards's properties"
+#~ msgstr "Редактировать свойства отчёта"
+
+#~ msgid "Email"
+#~ msgstr "Отправить ссылку по почте"
+
+#~ msgid "Email a link to this dashboard"
+#~ msgstr "Отправить ссылку на этот отчёт"
+
+#~ msgid "Add Slices"
+#~ msgstr "Добавить график"
+
+#~ msgid "Add some slices to this dashboard"
+#~ msgstr "Добавить диаграмму в отчёт"
+
+#~ msgid "Edit CSS"
+#~ msgstr "Редактировать CSS"
+
+#~ msgid "Change the style of the dashboard using CSS code"
+#~ msgstr "Измените оформление отчёта с помощью CSS-кода"
+
+#~ msgid "Load a template"
+#~ msgstr "Загрузить шаблон"
+
+#~ msgid "Load a CSS template"
+#~ msgstr "Загрузить шаблон стилей (CSS)"
+
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "Live CSS Editor"
+#~ msgstr "Редактор CSS"
+
+#~ msgid "You have unsaved changes."
+#~ msgstr "У вас есть несохраненные изменения."
+
+#~ msgid "Unsaved changes"
+#~ msgstr "Изменения не сохранены"
+
+#~ msgid "Don't refresh"
+#~ msgstr "Не обновлять"
+
+#~ msgid "10 seconds"
+#~ msgstr "10 секунд"
+
+#~ msgid "30 seconds"
+#~ msgstr "30 секунд"
+
+#~ msgid "1 minute"
+#~ msgstr "1 минута"
+
+#~ msgid "5 minutes"
+#~ msgstr "5 минут"
+
+#~ msgid "Refresh Interval"
+#~ msgstr "Интервал обновления"
+
+#~ msgid "Choose the refresh frequency for this dashboard"
+#~ msgstr "Выберите частоту обновления для этого отчёта"
+
+#~ msgid "This dashboard was saved successfully."
+#~ msgstr "Отчёт успешно сохранен."
+
+#~ msgid "Sorry, there was an error saving this dashboard: "
+#~ msgstr "К сожалению, произошла ошибка при сохранения этого отчета "
+
+#~ msgid "Error"
+#~ msgstr "Ошибка"
+
+#~ msgid "You must pick a name for the new dashboard"
+#~ msgstr "Вы должны выбрать имя для нового отчёта"
+
+#~ msgid "Save Dashboard"
+#~ msgstr "Сохранить отчёт"
+
+#~ msgid "Overwrite Dashboard [%s]"
+#~ msgstr "Перезаписать отчёт [%s]"
+
+#~ msgid "Save as:"
+#~ msgstr "Сохранить как:"
+
+#~ msgid "[dashboard name]"
+#~ msgstr "[название отчёта]"
+
+#~ msgid "Sorry, there was an error fetching slices to this dashboard: "
+#~ msgstr "К сожалению, произошла ошибка при загрузке виджета:"
+
+#~ msgid "Sorry, there was an error adding slices to this dashboard: "
+#~ msgstr "К сожалению, возникла ошибка при добавлении графика в отчёт: "
+
+#~ msgid "Name"
+#~ msgstr "Название"
+
+#~ msgid "Viz"
+#~ msgstr "Визуализация"
+
+#~ msgid "Datasource"
+#~ msgstr "Источник данных"
+
+#~ msgid "Modified"
+#~ msgstr "Изменено"
+
+#~ msgid "Add a new slice to the dashboard"
+#~ msgstr "Добавить новый график в отчёт"
+
+#~ msgid "Add Slices to Dashboard"
+#~ msgstr "Добавить график в отчёт"
+
+#~ msgid "Served from data cached %s . Click to force refresh."
+#~ msgstr ""
+#~ "Данные находятся в кэше %s. Нажмите "
+#~ "кнопку для принудительного обновления."
+
+#~ msgid "Force refresh data"
+#~ msgstr "Принудительное обновление данных"
+
+#~ msgid "Annotation layers are still loading."
+#~ msgstr "Слои аннотаций загружаются."
+
+#~ msgid "One ore more annotation layers failed loading."
+#~ msgstr "Один или несколько слоев аннотации не удалось загрузить."
+
+#~ msgid "Move chart"
+#~ msgstr "Переместить график"
+
+#~ msgid "Toggle chart description"
+#~ msgstr "Переключить описание графика"
+
+#~ msgid "Edit chart"
+#~ msgstr "Редактировать график"
+
+#~ msgid "Export CSV"
+#~ msgstr "Export CSV"
+
+#~ msgid "Explore chart"
+#~ msgstr "Обзор графика"
+
+#~ msgid "Remove chart from dashboard"
+#~ msgstr "Удалить график из отчёта"
+
+#~ msgid "is expected to be a number"
+#~ msgstr "ожидается число"
+
+#~ msgid "is expected to be an integer"
+#~ msgstr "ожидается целочисленное значение (integer)"
+
+#~ msgid "cannot be empty"
+#~ msgstr "не может быть пустым"
+
+#~ msgid "description"
+#~ msgstr "описание"
+
+#~ msgid "bolt"
+#~ msgstr ""
+
+#~ msgid "Changing this control takes effect instantly"
+#~ msgstr "Изменение этого элемента применяется сразу"
+
+#~ msgid "Error..."
+#~ msgstr "Ошибка…"
+
+#~ msgid "Query"
+#~ msgstr "Запрос"
+
+#~ msgid "Height"
+#~ msgstr "Высота"
+
+#~ msgid "Width"
+#~ msgstr "Ширина"
+
+#~ msgid "Export to .json"
+#~ msgstr "Экспортировать в JSON формат"
+
+#~ msgid "Export to .csv format"
+#~ msgstr "Экспортировать в CSV формат"
+
+#~ msgid "%s - untitled"
+#~ msgstr "%s - без названия"
+
+#~ msgid "Edit slice properties"
+#~ msgstr "Редактировать свойства графика"
+
+#~ msgid "Limit reached"
+#~ msgstr "Достигнут предел"
+
+#~ msgid "Please enter a slice name"
+#~ msgstr "Введите название диаграммы"
+
+#~ msgid "Please select a dashboard"
+#~ msgstr "Выберите отчёт"
+
+#~ msgid "Please enter a dashboard name"
+#~ msgstr "Введите имя отчёта"
+
+#~ msgid "Save A Slice"
+#~ msgstr "Сохранить диаграмму"
+
+#~ msgid "Overwrite slice %s"
+#~ msgstr "Перезаписать диаграмму %s"
+
+#~ msgid "[slice name]"
+#~ msgstr "[название диаграммы]"
+
+#~ msgid "Do not add to a dashboard"
+#~ msgstr "Не добавлять в отчёт"
+
+#~ msgid "Add slice to existing dashboard"
+#~ msgstr "Добавить график в существующий отчёт"
+
+#~ msgid "Add to new dashboard"
+#~ msgstr "Добавить в новый отчёт"
+
+#~ msgid "Save & go to dashboard"
+#~ msgstr "Сохранить и перейти к отчёту"
+
+#~ msgid "Check out this slice: %s"
+#~ msgstr "Проверка диаграммы: %s"
+
+#~ msgid "Add Annotation Layer"
+#~ msgstr "Добавить слой аннотации"
+
+#~ msgid "`Min` value should be numeric or empty"
+#~ msgstr "Значение «Минимум» должно быть числовым или пустым"
+
+#~ msgid "`Max` value should be numeric or empty"
+#~ msgstr "Значение « Максимум» должно быть числовым или пустым"
+
+#~ msgid "Min"
+#~ msgstr "Минимум"
+
+#~ msgid "Max"
+#~ msgstr "Максимум"
+
+#~ msgid "Something went wrong while fetching the datasource list"
+#~ msgstr "Что-то пошло не так при получении списка источников данных"
+
+#~ msgid "Select a datasource"
+#~ msgstr "Выбор источника данных"
+
+#~ msgid "Search / Filter"
+#~ msgstr "Поиск / Фильтр"
+
+#~ msgid "Click to point to another datasource"
+#~ msgstr "Нажмите, чтобы указать на другой источник данных"
+
+#~ msgid "Edit the datasource's configuration"
+#~ msgstr "Изменение настроек таблицы"
+
+#~ msgid "Show datasource configuration"
+#~ msgstr "Показать конфигурацию источника данных"
+
+#~ msgid "Filter value"
+#~ msgstr "Значение фильтра"
+
+#~ msgid "Select metric"
+#~ msgstr "Выбрать показатель"
+
+#~ msgid "Select column"
+#~ msgstr "Выбрать столбец"
+
+#~ msgid "Select operator"
+#~ msgstr "Выбрать оператор"
+
+#~ msgid "Add Filter"
+#~ msgstr "Добавить фильтр"
+
+#~ msgid "Error while fetching data"
+#~ msgstr "Возникла ошибка при получение данных"
+
+#~ msgid "%s option(s)"
+#~ msgstr "%s параметр(ы)"
+
+#~ msgid "Invalid lat/long configuration."
+#~ msgstr "Неверная конфигурация широты и долготы."
+
+#~ msgid "Longitude & Latitude columns"
+#~ msgstr "Долгота и Широта"
+
+#~ msgid "Delimited long & lat single column"
+#~ msgstr "Широта и Долгота в одном столбце с разделителем"
+
+#~ msgid ""
+#~ "Multiple formats accepted, look the "
+#~ "geopy.points Python library for more "
+#~ "details"
+#~ msgstr ""
+#~ "Для уточнения форматов и получения более"
+#~ " подробной информации, посмотрите "
+#~ "Python-библиотеку geopy.points"
+
+#~ msgid "Reverse lat/long "
+#~ msgstr "Поменять местами широту и долготу"
+
+#~ msgid "Geohash"
+#~ msgstr ""
+
+#~ msgid "textarea"
+#~ msgstr "текстовая область"
+
+#~ msgid "Edit"
+#~ msgstr "Редактировать"
+
+#~ msgid "in modal"
+#~ msgstr ""
+
+#~ msgid "Select a visualization type"
+#~ msgstr "Выберите тип визуализации"
+
+#~ msgid ""
+#~ "A reference to the [Time] configuration,"
+#~ " taking granularity into account"
+#~ msgstr ""
+
+#~ msgid "Group by"
+#~ msgstr "Группировка"
+
+#~ msgid "One or many controls to group by"
+#~ msgstr "Выберите один или несколько срезов в поле группировки данных"
+
+#~ msgid ""
+#~ "For more information about objects are"
+#~ " in context in the scope of "
+#~ "this function, refer to the"
+#~ msgstr ""
+
+#~ msgid " source code of Superset's sandboxed parser"
+#~ msgstr " source code of sandboxed parser"
+
+#~ msgid ""
+#~ "This functionality is disabled in your"
+#~ " environment for security reasons."
+#~ msgstr "Из соображений безопасности эта функция отключена в вашей среде."
+
+#~ msgid "Visualization Type"
+#~ msgstr "Тип диаграммы"
+
+#~ msgid "The type of visualization to display"
+#~ msgstr "Выберите необходимый тип диаграммы"
+
+#~ msgid "Metrics"
+#~ msgstr "Показатели"
+
+#~ msgid "One or many metrics to display"
+#~ msgstr "Выберите один или несколько показателей для отображения"
+
+#~ msgid "Percentage Metrics"
+#~ msgstr "Процентные показатели"
+
+#~ msgid "Metrics for which percentage of total are to be displayed"
+#~ msgstr "Показатели, для которых будет отображаться процент от общего количества"
+
+#~ msgid "Y Axis Bounds"
+#~ msgstr "Границы Оси Y"
+
+#~ msgid ""
+#~ "Bounds for the Y axis. When left"
+#~ " empty, the bounds are dynamically "
+#~ "defined based on the min/max of "
+#~ "the data. Note that this feature "
+#~ "will only expand the axis range. "
+#~ "It won't narrow the data's extent."
+#~ msgstr ""
+#~ "Установить жесткие границы для оси Y."
+#~ " Когда границы не заданы, производится "
+#~ "их автоматическая подстройка на основе "
+#~ "минимальных и максимальных значениях исходных"
+#~ " данных."
+
+#~ msgid "Ordering"
+#~ msgstr "Упорядоченность"
+
+#~ msgid "Fixed Color"
+#~ msgstr "Цвет"
+
+#~ msgid "Use this to define a static color for all circles"
+#~ msgstr "Используйте это цвет для заливки всех кругов одним цветом"
+
+#~ msgid "Fill Color"
+#~ msgstr "Цвет заливки"
+
+#~ msgid ""
+#~ " Set the opacity to 0 if you"
+#~ " do not want to override the "
+#~ "color specified in the GeoJSON"
+#~ msgstr ""
+#~ "Установите непрозрачность на 0, если вы"
+#~ " не хотите переопределять цвет, указанный"
+#~ " в GeoJSON"
+
+#~ msgid "Stroke Color"
+#~ msgstr "Цвет обводки"
+
+#~ msgid "Metric"
+#~ msgstr "Показатель"
+
+#~ msgid "Choose the metric"
+#~ msgstr "Выберите показатель"
+
+#~ msgid "Right Axis Metric"
+#~ msgstr "Показатель для правой оси"
+
+#~ msgid "Choose a metric for right axis"
+#~ msgstr "Выберите показатель для правой оси"
+
+#~ msgid "Stacked Style"
+#~ msgstr "Стиль области"
+
+#~ msgid "Sort X Axis"
+#~ msgstr ""
+
+#~ msgid "Sort Y Axis"
+#~ msgstr ""
+
+#~ msgid "Linear Color Scheme"
+#~ msgstr "Цветовая Схема"
+
+#~ msgid "Normalize Across"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Color will be rendered based on a"
+#~ " ratio of the cell against the "
+#~ "sum of across this criteria"
+#~ msgstr "Цвет будет рассчитываться на основе отношения ячейки к сумме"
+
+#~ msgid "Horizon Color Scale"
+#~ msgstr "Расчет цвета"
+
+#~ msgid "Defines how the color are attributed."
+#~ msgstr "Определяет, как рассчитывается цвет."
+
+#~ msgid "Rendering"
+#~ msgstr "Рендеринг"
+
+#~ msgid ""
+#~ "image-rendering CSS attribute of the "
+#~ "canvas object that defines how the "
+#~ "browser scales up the image"
+#~ msgstr ""
+
+#~ msgid "XScale Interval"
+#~ msgstr "Интевал XScale"
+
+#~ msgid "Number of steps to take between ticks when displaying the X scale"
+#~ msgstr "Количество шагов между делениями горизонтальной оси X"
+
+#~ msgid "YScale Interval"
+#~ msgstr "Интервал YScale"
+
+#~ msgid "Number of steps to take between ticks when displaying the Y scale"
+#~ msgstr "Количество шагов между делениями на вертикальной оси X"
+
+#~ msgid "Include Time"
+#~ msgstr "Включая дату"
+
+#~ msgid "Whether to include the time granularity as defined in the time section"
+#~ msgstr "Установить временной период, как указано в разделе «Время»"
+
+#~ msgid "Auto Zoom"
+#~ msgstr "Авто Масштаб"
+
+#~ msgid "When checked, the map will zoom to your data after each query"
+#~ msgstr ""
+#~ "Если этот флажок установлен, карта будет"
+#~ " масштабироваться после каждого запроса"
+
+#~ msgid "Show percentage"
+#~ msgstr "Показать процент"
+
+#~ msgid "Whether to include the percentage in the tooltip"
+#~ msgstr "Включить значение процента в всплывающую подсказку"
+
+#~ msgid "Stacked Bars"
+#~ msgstr "С накоплением"
+
+#~ msgid "Show totals"
+#~ msgstr "Показать итоги"
+
+#~ msgid "Display total row/column"
+#~ msgstr "Показать итоги строк / столбцов"
+
+#~ msgid "Show Markers"
+#~ msgstr "Показать маркеры"
+
+#~ msgid "Show data points as circle markers on the lines"
+#~ msgstr "Показывать на линиях точки данных в виде небольших окружностей"
+
+#~ msgid "Bar Values"
+#~ msgstr "Подписи"
+
+#~ msgid "Show the value on top of the bar"
+#~ msgstr "Добавить на график значение данных в виде подписи"
+
+#~ msgid "Sort Bars"
+#~ msgstr "Сортировка гистограммы"
+
+#~ msgid "Sort bars by x labels."
+#~ msgstr "Сортировать гистограмму по названию столбцов."
+
+#~ msgid "Combine Metrics"
+#~ msgstr "Сгруппировать показатели"
+
+#~ msgid ""
+#~ "Display metrics side by side within "
+#~ "each column, as opposed to each "
+#~ "column being displayed side by side "
+#~ "for each metric."
+#~ msgstr ""
+#~ "Сгруппировать и отобразить показатели в "
+#~ "рамках значения одного колоночного среза. "
+#~ "Легче один раз попробовать, чем "
+#~ "обьяснить )"
+
+#~ msgid "Extra Controls"
+#~ msgstr "Доп.Элементы"
+
+#~ msgid ""
+#~ "Whether to show extra controls or "
+#~ "not. Extra controls include things like"
+#~ " making mulitBar charts stacked or "
+#~ "side by side."
+#~ msgstr ""
+#~ "Показывать дополнительные элементы управления, "
+#~ "которые позволяют переключаться между разными"
+#~ " видами графика - гистограмма с "
+#~ "накоплением или с группировкой."
+
+#~ msgid "Reduce X ticks"
+#~ msgstr "Сжать шкалу X"
+
+#~ msgid ""
+#~ "Reduces the number of X axis ticks"
+#~ " to be rendered. If true, the x"
+#~ " axis wont overflow and labels may"
+#~ " be missing. If false, a minimum "
+#~ "width will be applied to columns "
+#~ "and the width may overflow into an"
+#~ " horizontal scroll."
+#~ msgstr ""
+#~ "Если опция включена, то график будет "
+#~ "сжат по горизонтали, таким образом, "
+#~ "чтобы уместиться целиком на одном "
+#~ "виджете, при этом промежуточные подписи "
+#~ "на оси X могут пропасть. При "
+#~ "выключенной опции, графики с большим "
+#~ "количеством данных отображаются с "
+#~ "горизонтальной полосой прокрутки."
+
+#~ msgid "Include Series"
+#~ msgstr "Включить название"
+
+#~ msgid "Include series name as an axis"
+#~ msgstr "Включить название показателя в подписи оси"
+
+#~ msgid "Color Metric"
+#~ msgstr "Цвет показателя"
+
+#~ msgid "A metric to use for color"
+#~ msgstr "Показатель, используемый для расчета цвета"
+
+#~ msgid "Country Name"
+#~ msgstr "Страна"
+
+#~ msgid "The name of country that Superset should display"
+#~ msgstr "Выберите страну, которую хотите визуализировать"
+
+#~ msgid "Country Field Type"
+#~ msgstr "Стандарт кода страны"
+
+#~ msgid ""
+#~ "The country code standard that Superset"
+#~ " should expect to find in the "
+#~ "[country] column"
+#~ msgstr "Выберите стандарт с помощью которого, кодируются страны в поле [Страна]"
+
+#~ msgid "Frequency"
+#~ msgstr "Частота"
+
+#~ msgid ""
+#~ "The periodicity over which to pivot time. Users can provide\n"
+#~ "      \"Pandas\" offset alias.\n"
+#~ "      Click on the info bubble for"
+#~ " more details on accepted \"freq\" "
+#~ "expressions."
+#~ msgstr "Периодичность для оси времени."
+
+#~ msgid "Dimension"
+#~ msgstr "Измерение"
+
+#~ msgid "Select a dimension"
+#~ msgstr "Выбор измерения"
+
+#~ msgid "Columns"
+#~ msgstr "Столбцы"
+
+#~ msgid "One or many controls to pivot as columns"
+#~ msgstr ""
+#~ "Выберите один или несколько срезов для"
+#~ " отображения показателей в столбцах сводной"
+#~ " таблицы"
+
+#~ msgid "Columns to display"
+#~ msgstr "Столбцы для отображения"
+
+#~ msgid "Longitude & Latitude"
+#~ msgstr "Долгота и Широта"
+
+#~ msgid "Point to your spatial columns"
+#~ msgstr "Выберите столбцы, содержащие геоданные"
+
+#~ msgid "Start Longitude & Latitude"
+#~ msgstr "Долгота и Широта [Начало]"
+
+#~ msgid "End Longitude & Latitude"
+#~ msgstr "Долгота и Широта [Конец]"
+
+#~ msgid "Longitude"
+#~ msgstr "Долгота"
+
+#~ msgid "Select the longitude column"
+#~ msgstr "Выберите столбец долготы"
+
+#~ msgid "Latitude"
+#~ msgstr "Широта"
+
+#~ msgid "Select the latitude column"
+#~ msgstr "Выберите столбец широты"
+
+#~ msgid "GeoJson Column"
+#~ msgstr "Столбец GeoJson"
+
+#~ msgid "Select the geojson column"
+#~ msgstr "Выберите столбец geojson"
+
+#~ msgid "Polygon Column"
+#~ msgstr "Столбец полигонов"
+
+#~ msgid ""
+#~ "Select the polygon column. Each row "
+#~ "should contain JSON.array(N) of [longitude,"
+#~ " latitude] points"
+#~ msgstr ""
+#~ "Выберите столбец с массивом полигонов. "
+#~ "Каждая строка должна содержать JSON.array(N)"
+#~ " [долгота, широта]."
+
+#~ msgid "Point Radius Scale"
+#~ msgstr "Точечный радиус"
+
+#~ msgid "Stroke Width"
+#~ msgstr "Ширина обводки"
+
+#~ msgid "Origin"
+#~ msgstr "Источник"
+
+#~ msgid ""
+#~ "Defines the origin where time buckets"
+#~ " start, accepts natural dates as in"
+#~ " `now`, `sunday` or `1970-01-01`"
+#~ msgstr ""
+
+#~ msgid "Bottom Margin"
+#~ msgstr "Нижняя граница"
+
+#~ msgid "Bottom margin, in pixels, allowing for more room for axis labels"
+#~ msgstr ""
+#~ "Высота нижней области графика в "
+#~ "пикселах, позволяющая регулировать место под"
+#~ " подписи данных горизонтальной оси X"
+
+#~ msgid "Left Margin"
+#~ msgstr "Левая область"
+
+#~ msgid "Left margin, in pixels, allowing for more room for axis labels"
+#~ msgstr ""
+#~ "Ширина левой области графика в пикселах,"
+#~ " позволяющая регулировать место под подписи"
+#~ " данных вертикальной оси Y"
+
+#~ msgid "Time Granularity"
+#~ msgstr "Временной интервал"
+
+#~ msgid ""
+#~ "The time granularity for the "
+#~ "visualization. Note that you can type"
+#~ " and use simple natural language as"
+#~ " in `10 seconds`, `1 day` or "
+#~ "`56 weeks`"
+#~ msgstr ""
+#~ "Интервал времени, в границах которого "
+#~ "строится график. Обратите внимание, что "
+#~ "для определения диапазона времени, вы "
+#~ "можете использовать естественный язык. "
+#~ "Например, можно указать словосочетания - "
+#~ "«10 seconds», «1 day» или «56 "
+#~ "weeks»"
+
+#~ msgid "Domain"
+#~ msgstr "Домен"
+
+#~ msgid "The time unit used for the grouping of blocks"
+#~ msgstr "Единица времени, используемая для группировки"
+
+#~ msgid "Subdomain"
+#~ msgstr "Субдомен"
+
+#~ msgid ""
+#~ "The time unit for each block. "
+#~ "Should be a smaller unit than "
+#~ "domain_granularity. Should be larger or "
+#~ "equal to Time Grain"
+#~ msgstr ""
+#~ "Единица времени для каждого блока. "
+#~ "Должнa быть меньше временной шкалы "
+#~ "домена."
+
+#~ msgid "Link Length"
+#~ msgstr "Длина связи"
+
+#~ msgid "Link length in the force layout"
+#~ msgstr "Устанавливает указанное расстояние между связанными узлами"
+
+#~ msgid "Charge"
+#~ msgstr "Сила заряда узла"
+
+#~ msgid "Charge in the force layout"
+#~ msgstr ""
+#~ "Отрицательное значение силы заряда приводит"
+#~ " к отталкиванию узлов, а положительное "
+#~ "значение приводит к притяжению узлов. "
+#~ "Установка силы заряда равной 0 отключает"
+#~ " вычисление дерева квадрантов, что может"
+#~ " заметно улучшить производительность, если "
+#~ "вам такая функциональность не требуется."
+
+#~ msgid ""
+#~ "The time column for the visualization."
+#~ " Note that you can define arbitrary"
+#~ " expression that return a DATETIME "
+#~ "column in the table. Also note "
+#~ "that the filter below is applied "
+#~ "against this column or expression"
+#~ msgstr "Столбец данных с датой или временем."
+
+#~ msgid "Time Grain"
+#~ msgstr "Период времени"
+
+#~ msgid ""
+#~ "The time granularity for the "
+#~ "visualization. This applies a date "
+#~ "transformation to alter your time column"
+#~ " and defines a new time granularity."
+#~ " The options here are defined on "
+#~ "a per database engine basis in the"
+#~ " Superset source code."
+#~ msgstr "Группировка по периоду времени - день, месяц, год, … и т.д"
+
+#~ msgid "Resample Rule"
+#~ msgstr "Resample Rule"
+
+#~ msgid "Pandas resample rule"
+#~ msgstr ""
+#~ "Одна из функций (Resample) библиотеки "
+#~ "Pandas, которая определяет период, к "
+#~ "которому применяется функция агрегации."
+
+#~ msgid "Resample How"
+#~ msgstr "Resample How"
+
+#~ msgid "Pandas resample how"
+#~ msgstr ""
+#~ "Одна из функций (Resample) библиотеки "
+#~ "Pandas, которая определяет способ агрегации"
+#~ " данных."
+
+#~ msgid "Resample Fill Method"
+#~ msgstr "Resample Fill"
+
+#~ msgid "Pandas resample fill method"
+#~ msgstr ""
+#~ "Одна из функций (Resample) библиотеки "
+#~ "Pandas, которая определяет метод обработки "
+#~ "данных. "
+
+#~ msgid "Since"
+#~ msgstr "Начиная с"
+
+#~ msgid "7 days ago"
+#~ msgstr "7 дней назад"
+
+#~ msgid "Until"
+#~ msgstr "До"
+
+#~ msgid "Max Bubble Size"
+#~ msgstr "Макс. размер пузырька"
+
+#~ msgid "Whisker/outlier options"
+#~ msgstr "Варианты биржевого графика"
+
+#~ msgid "Determines how whiskers and outliers are calculated."
+#~ msgstr ""
+#~ "Определяет вид и параметры отображения "
+#~ "свечного графика (японские свечи)."
+
+#~ msgid "Ratio"
+#~ msgstr "Соотношение"
+
+#~ msgid "Target aspect ratio for treemap tiles."
+#~ msgstr "Соотношение сторон для составных прямоугольников графика."
+
+#~ msgid "Number format"
+#~ msgstr "Формат числа"
+
+#~ msgid "Row limit"
+#~ msgstr "Лимит рядов"
+
+#~ msgid "Series limit"
+#~ msgstr "Лимит кол-ва рядов"
+
+#~ msgid ""
+#~ "Limits the number of time series "
+#~ "that get displayed. A sub query "
+#~ "(or an extra phase where sub "
+#~ "queries are not supported) is applied"
+#~ " to limit the number of time "
+#~ "series that get fetched and displayed."
+#~ " This feature is useful when grouping"
+#~ " by high cardinality dimension(s)."
+#~ msgstr "Ограничивает количество отображаемых временных рядов."
+
+#~ msgid "Sort By"
+#~ msgstr "Сортировка"
+
+#~ msgid "Metric used to define the top series"
+#~ msgstr ""
+#~ "Показатель, используемый для определения какие"
+#~ " временные ряды будут отображаться при "
+#~ "ограничении количества выводимых рядов"
+
+#~ msgid "Sort Descending"
+#~ msgstr "Сортировать"
+
+#~ msgid "Whether to sort descending or ascending"
+#~ msgstr "Сортировка по убыванию или по возрастанию"
+
+#~ msgid "Rolling"
+#~ msgstr "Rolling"
+
+#~ msgid ""
+#~ "Defines a rolling window function to "
+#~ "apply, works along with the [Periods]"
+#~ " text box"
+#~ msgstr ""
+#~ "Одна из функций (Rolling) библиотеки "
+#~ "Pandas, которая определяет способ агрегации"
+#~ " данных."
+
+#~ msgid "Multiplier"
+#~ msgstr "Множитель"
+
+#~ msgid "Factor to multiply the metric by"
+#~ msgstr "Коэффициент умножения"
+
+#~ msgid "Periods"
+#~ msgstr "Период"
+
+#~ msgid ""
+#~ "Defines the size of the rolling "
+#~ "window function, relative to the time"
+#~ " granularity selected"
+#~ msgstr ""
+#~ "Одна из функций (Rolling) библиотеки "
+#~ "Pandas, которая определяет период, к "
+#~ "которому применяется функция агрегации."
+
+#~ msgid "Grid Size"
+#~ msgstr "Размер сетки"
+
+#~ msgid "Defines the grid size in pixels"
+#~ msgstr "Определяет размер сетки в пикселях"
+
+#~ msgid "Min Periods"
+#~ msgstr "HIde Periods"
+
+#~ msgid ""
+#~ "The minimum number of rolling periods"
+#~ " required to show a value. For "
+#~ "instance if you do a cumulative "
+#~ "sum on 7 days you may want "
+#~ "your \"Min Period\" to be 7, so"
+#~ " that all data points shown are "
+#~ "the total of 7 periods. This will"
+#~ " hide the \"ramp up\" taking place"
+#~ " over the first 7 periods"
+#~ msgstr ""
+#~ "Скрыть необходимое количество периодов. "
+#~ "Например, если вы делаете накопительную "
+#~ "сумму показателя за 7 дней, но "
+#~ "хотите скрыть нарастающий итог за первые"
+#~ " 6 дней, то указав в данном "
+#~ "столбце «6», вы скроете нарастание, "
+#~ "происходящее в течение первых 6 "
+#~ "периодов."
+
+#~ msgid "Series"
+#~ msgstr "Ряд данных"
+
+#~ msgid ""
+#~ "Defines the grouping of entities. Each"
+#~ " series is shown as a specific "
+#~ "color on the chart and has a "
+#~ "legend toggle"
+#~ msgstr ""
+#~ "Группировка в ряды данных. Каждый ряд"
+#~ " отображается в виде определенного цвета"
+#~ " и имеет легенду."
+
+#~ msgid "Entity"
+#~ msgstr "Элемент"
+
+#~ msgid "This defines the element to be plotted on the chart"
+#~ msgstr "Элемент, который будет отражен на графике"
+
+#~ msgid "X Axis"
+#~ msgstr "Ось X"
+
+#~ msgid "Metric assigned to the [X] axis"
+#~ msgstr "Показатель, отраженный на оси X"
+
+#~ msgid "Y Axis"
+#~ msgstr "Ось Y"
+
+#~ msgid "Metric assigned to the [Y] axis"
+#~ msgstr "Показатель, отраженный на оси Y"
+
+#~ msgid "Bubble Size"
+#~ msgstr "Размер пузырька"
+
+#~ msgid "URL"
+#~ msgstr "Ссылка (URL)"
+
+#~ msgid ""
+#~ "The URL, this control is templated, "
+#~ "so you can integrate {{ width }}"
+#~ " and/or {{ height }} in your "
+#~ "URL string."
+#~ msgstr ""
+#~ "URL-адрес, в который вы можете "
+#~ "интегрировать переменные {{ width }} или"
+#~ " {{ height }}."
+
+#~ msgid "X Axis Label"
+#~ msgstr "Подпись Оси X"
+
+#~ msgid "Y Axis Label"
+#~ msgstr "Подпись Оси Y"
+
+#~ msgid "Custom WHERE clause"
+#~ msgstr "Пользовательское условие WHERE"
+
+#~ msgid ""
+#~ "The text in this box gets included"
+#~ " in your query's WHERE clause, as "
+#~ "an AND to other criteria. You can"
+#~ " include complex expression, parenthesis "
+#~ "and anything else supported by the "
+#~ "backend it is directed towards."
+#~ msgstr ""
+#~ "Текст в этом поле включается в "
+#~ "секцию WHERE SQL-запроса. Вы можете "
+#~ "включить сколь угодно сложное выражение. "
+#~ "Главное чтобы оно поддерживалось вашей "
+#~ "БД."
+
+#~ msgid "Custom HAVING clause"
+#~ msgstr "Пользовательское условие HAVING"
+
+#~ msgid ""
+#~ "The text in this box gets included"
+#~ " in your query's HAVING clause, as"
+#~ " an AND to other criteria. You "
+#~ "can include complex expression, parenthesis"
+#~ " and anything else supported by the"
+#~ " backend it is directed towards."
+#~ msgstr ""
+#~ "Текст в этом поле включается в "
+#~ "секцию HAVING SQL-запроса. Вы можете "
+#~ "включить сколь угодно сложное выражение. "
+#~ "Главное чтобы оно поддерживалось вашей "
+#~ "БД."
+
+#~ msgid "Comparison Period Lag"
+#~ msgstr "Временной лаг"
+
+#~ msgid "Based on granularity, number of time periods to compare against"
+#~ msgstr ""
+#~ "Сдвиг временного периода, с которым "
+#~ "производится сравнение показателя. Единица "
+#~ "периода, устанавливается в разделе [Время]."
+
+#~ msgid "Comparison suffix"
+#~ msgstr "Постфикс"
+
+#~ msgid "Suffix to apply after the percentage display"
+#~ msgstr "Текст для отображения после процента сравнения. Например - «год к году»"
+
+#~ msgid "Table Timestamp Format"
+#~ msgstr "Формат Даты / Времени"
+
+#~ msgid "Timestamp Format"
+#~ msgstr "Формат Даты / Времени"
+
+#~ msgid "Series Height"
+#~ msgstr "Высота ряда данных"
+
+#~ msgid "Pixel height of each series"
+#~ msgstr "Высота в пикселях каждого ряда данных"
+
+#~ msgid "Page Length"
+#~ msgstr "Длина страницы"
+
+#~ msgid "Rows per page, 0 means no pagination"
+#~ msgstr ""
+#~ "Количество строк на странице. Значение 0"
+#~ " означает отсутствие разбиения на страницы."
+
+#~ msgid "X Axis Format"
+#~ msgstr "Формат Оси X"
+
+#~ msgid "Y Axis Format"
+#~ msgstr "Формат Оси Y"
+
+#~ msgid "Right Axis Format"
+#~ msgstr "Формат Правой Оси"
+
+#~ msgid "Date Time Format"
+#~ msgstr "Формат даты"
+
+#~ msgid "Markup Type"
+#~ msgstr "Тип Разметки"
+
+#~ msgid "Pick your favorite markup language"
+#~ msgstr "Выберите свой любимый язык разметки"
+
+#~ msgid "Rotation"
+#~ msgstr "Вращение"
+
+#~ msgid "Rotation to apply to words in the cloud"
+#~ msgstr "Тип поворота для применения к словам в облаке"
+
+#~ msgid "Line Style"
+#~ msgstr "Тип Линии"
+
+#~ msgid "Line interpolation as defined by d3.js"
+#~ msgstr ""
+#~ "Методы интерполяции и сглаживания графиков."
+#~ " Linear -идентичен стандартному графику, "
+#~ "где точки соединены линиями. Basis - "
+#~ "образует b-сплайн с дублированием контрольных"
+#~ " точек на концах отрезков. Cardinal-"
+#~ "open - образует открытый cardinal-сплайн. "
+#~ "Monotone: кубическая интерполяция. Step-"
+#~ "before: пошаговая интерполяция между "
+#~ "вертикальными и горизонтальными сегментами. "
+#~ "Step-after: пошаговая интерполяция между "
+#~ "горизонтальными и вертикальными сегментами."
+
+#~ msgid "Label Type"
+#~ msgstr "Тип Подписи"
+
+#~ msgid "What should be shown on the label?"
+#~ msgstr "Что должно быть указано в подписи?"
+
+#~ msgid "Code"
+#~ msgstr "Редактор"
+
+#~ msgid "Put your code here"
+#~ msgstr "Введите произвольный текст в формате html или markdown"
+
+#~ msgid "Aggregation function"
+#~ msgstr "Функция агрегации"
+
+#~ msgid ""
+#~ "Aggregate function to apply when "
+#~ "pivoting and computing the total rows"
+#~ " and columns"
+#~ msgstr ""
+#~ "Агрегатная функция, применяемая при вычислении"
+#~ " итоговых строк и столбцов"
+
+#~ msgid "Font Size From"
+#~ msgstr "Мин. Размер Шрифта"
+
+#~ msgid "Font size for the smallest value in the list"
+#~ msgstr "Размер шрифта для наименьшего значения в списке"
+
+#~ msgid "Font Size To"
+#~ msgstr "Макс. Размер Шрифта"
+
+#~ msgid "Font size for the biggest value in the list"
+#~ msgstr "Размер шрифта для наибольшего значения в списке"
+
+#~ msgid "Instant Filtering"
+#~ msgstr "Мгновенная Фильтрация"
+
+#~ msgid "Extruded"
+#~ msgstr ""
+
+#~ msgid "Range Filter"
+#~ msgstr "Диапазон"
+
+#~ msgid "Whether to display the time range interactive selector"
+#~ msgstr ""
+#~ "Отображение интерактивного слайдера для выбора"
+#~ " на графике определенного временного "
+#~ "диапазона."
+
+#~ msgid "Date Filter"
+#~ msgstr "Временной фильтр"
+
+#~ msgid "Whether to include a time filter"
+#~ msgstr "Включить фильтр на определенный интервал/диапазон времени"
+
+#~ msgid "Show SQL Granularity Dropdown"
+#~ msgstr ""
+
+#~ msgid "Check to include SQL Granularity dropdown"
+#~ msgstr ""
+
+#~ msgid "Show SQL Time Column"
+#~ msgstr ""
+
+#~ msgid "Check to include Time Column dropdown"
+#~ msgstr ""
+
+#~ msgid "Show Druid Granularity Dropdown"
+#~ msgstr ""
+
+#~ msgid "Check to include Druid Granularity dropdown"
+#~ msgstr ""
+
+#~ msgid "Show Druid Time Origin"
+#~ msgstr ""
+
+#~ msgid "Check to include Time Origin dropdown"
+#~ msgstr ""
+
+#~ msgid "Data Table"
+#~ msgstr "Таблица Данных"
+
+#~ msgid "Whether to display the interactive data table"
+#~ msgstr "Отображение интерактивной таблицы данных"
+
+#~ msgid "Search Box"
+#~ msgstr "Поиск"
+
+#~ msgid "Whether to include a client side search box"
+#~ msgstr "Включить текстовое поле для фильтрации данных в таблице"
+
+#~ msgid "Table Filter"
+#~ msgstr "Глобальный фильтр"
+
+#~ msgid "Whether to apply filter when table cell is clicked"
+#~ msgstr "Применять глобальный фильтр при выборе показателя в таблице"
+
+#~ msgid "Show Bubbles"
+#~ msgstr "Отображать окружность"
+
+#~ msgid "Whether to display bubbles on top of countries"
+#~ msgstr "Отображать окружность отдельным слоем поверх стран"
+
+#~ msgid "Legend"
+#~ msgstr "Легенда"
+
+#~ msgid "Whether to display the legend (toggles)"
+#~ msgstr "Отображение легенды"
+
+#~ msgid "Show Values"
+#~ msgstr "Показать значения"
+
+#~ msgid "Whether to display the numerical values within the cells"
+#~ msgstr "Отображать ли числовые значения в ячейках"
+
+#~ msgid "X bounds"
+#~ msgstr "Границы X"
+
+#~ msgid "Whether to display the min and max values of the X axis"
+#~ msgstr "Отображать минимальные и максимальные значения оси X"
+
+#~ msgid "Y bounds"
+#~ msgstr "Границы Y"
+
+#~ msgid "Whether to display the min and max values of the Y axis"
+#~ msgstr "Отображать минимальные и максимальные значения оси Y"
+
+#~ msgid "Rich Tooltip"
+#~ msgstr "Расширенная подсказка"
+
+#~ msgid "The rich tooltip shows a list of all series for that point in time"
+#~ msgstr ""
+#~ "Во всплывающей подсказке отображается список"
+#~ " всех рядов данных на выбранный "
+#~ "момент времени"
+
+#~ msgid "Y Log Scale"
+#~ msgstr "Log шкала Y"
+
+#~ msgid "Use a log scale for the Y axis"
+#~ msgstr "Использовать логарифмическую шкалу для оси Y"
+
+#~ msgid "X Log Scale"
+#~ msgstr "Log шкала Х"
+
+#~ msgid "Use a log scale for the X axis"
+#~ msgstr "Использовать логарифмическую шкалу для оси Х"
+
+#~ msgid "Log Scale"
+#~ msgstr "Лог. Масштаб"
+
+#~ msgid "Use a log scale"
+#~ msgstr "Использовать логарифмическую шкалу"
+
+#~ msgid "Donut"
+#~ msgstr "Кольцевая диаграмма"
+
+#~ msgid "Do you want a donut or a pie?"
+#~ msgstr "Преобразовать в кольцевую диаграмму"
+
+#~ msgid "Put labels outside"
+#~ msgstr "Подписи снаружи"
+
+#~ msgid "Put the labels outside the pie?"
+#~ msgstr "Показать подписи снаружи графика"
+
+#~ msgid "Contribution"
+#~ msgstr "Доля"
+
+#~ msgid "Compute the contribution to the total"
+#~ msgstr ""
+#~ "Вычислить вклад в общую сумму (долю)."
+#~ " Установите формат показателя в проценты."
+
+#~ msgid "Period Ratio"
+#~ msgstr "Период для сравнения"
+
+#~ msgid ""
+#~ "[integer] Number of period to compare"
+#~ " against, this is relative to the "
+#~ "granularity selected"
+#~ msgstr ""
+#~ "Сдвиг временного периода, с которым "
+#~ "производится сравнение показателя. Единица "
+#~ "периода, устанавливается в разделе [Время]."
+
+#~ msgid "Period Ratio Type"
+#~ msgstr "Тип сравнения"
+
+#~ msgid ""
+#~ "`factor` means (new/previous), `growth` is "
+#~ "((new/previous) - 1), `value` is "
+#~ "(new-previous)"
+#~ msgstr ""
+#~ "«factor» означает (текущий / предыдущий)%, "
+#~ "«growth» - (текущий / предыдущий - "
+#~ "1)% , «value» - (текущий-предыдущий)"
+
+#~ msgid "Time Shift"
+#~ msgstr "Временной сдвиг"
+
+#~ msgid ""
+#~ "Overlay a timeseries from a relative "
+#~ "time period. Expects relative time delta"
+#~ " in natural language (example:  24 "
+#~ "hours, 7 days, 56 weeks, 365 days)"
+#~ msgstr ""
+
+#~ msgid "Subheader"
+#~ msgstr "Постфикс"
+
+#~ msgid "Description text that shows up below your Big Number"
+#~ msgstr "Tекст, который отображается ниже вашего числа"
+
+#~ msgid "label"
+#~ msgstr "Подпись"
+
+#~ msgid ""
+#~ "`count` is COUNT(*) if a group by"
+#~ " is used. Numerical columns will be"
+#~ " aggregated with the aggregator. Non-"
+#~ "numerical columns will be used to "
+#~ "label points. Leave empty to get a"
+#~ " count of points in each cluster."
+#~ msgstr ""
+#~ "«count» это тоже самое, что и "
+#~ "COUNT(*) если используются группы. Числовые"
+#~ " столбцы будут агрегированы. Не числовые"
+#~ " столбцы будут использоваться для подписи"
+#~ " точек. Оставьте пустым, чтобы получить "
+#~ "количество элементов в каждом кластере."
+
+#~ msgid "Map Style"
+#~ msgstr "Стиль Карты"
+
+#~ msgid "Base layer map style"
+#~ msgstr "Выбрать стиль карты"
+
+#~ msgid "Clustering Radius"
+#~ msgstr "Радиус Кластеризации"
+
+#~ msgid ""
+#~ "The radius (in pixels) the algorithm "
+#~ "uses to define a cluster. Choose 0"
+#~ " to turn off clustering, but beware"
+#~ " that a large number of points "
+#~ "(>1000) will cause lag."
+#~ msgstr ""
+#~ "Радиус (в пикселях), используемый алгоритмом"
+#~ " для группировки отдельных точек в "
+#~ "кластера. Выберите 0, чтобы отключить "
+#~ "кластеризацию, но помните, что большое "
+#~ "количество точек (>1000) вызовет существенную"
+#~ " задержку при рендеринге карты."
+
+#~ msgid "Point Size"
+#~ msgstr "Размер точки"
+
+#~ msgid "Fixed point radius"
+#~ msgstr "Радиус Точки"
+
+#~ msgid "Point Radius"
+#~ msgstr "Радиус Точки"
+
+#~ msgid ""
+#~ "The radius of individual points (ones"
+#~ " that are not in a cluster). "
+#~ "Either a numerical column or `Auto`, "
+#~ "which scales the point based on "
+#~ "the largest cluster"
+#~ msgstr ""
+#~ "Радиус отдельных точек (тех, которые не"
+#~ " находятся в кластере). Числовой столбец"
+#~ " или режим «авто», который масштабирует "
+#~ "точку на основе наибольшего кластера."
+
+#~ msgid "Point Radius Unit"
+#~ msgstr "Единица измерения"
+
+#~ msgid "The unit of measure for the specified point radius"
+#~ msgstr "Единица измерения для указанной точки"
+
+#~ msgid "Point Unit"
+#~ msgstr ""
+
+#~ msgid "Opacity"
+#~ msgstr "Прозрачность"
+
+#~ msgid "Opacity of all clusters, points, and labels. Between 0 and 1."
+#~ msgstr ""
+#~ "Установить прозрачность для кластеров и "
+#~ "точек. Значения прозрачности лежат в "
+#~ "диапазоне [0,1]."
+
+#~ msgid "Viewport"
+#~ msgstr "Область просмотра"
+
+#~ msgid "Parameters related to the view and perspective on the map"
+#~ msgstr ""
+
+#~ msgid "Zoom"
+#~ msgstr "Масштаб"
+
+#~ msgid "Zoom level of the map"
+#~ msgstr "Уровень масштабирования карты"
+
+#~ msgid "Default latitude"
+#~ msgstr "Широта по умолчанию"
+
+#~ msgid "Latitude of default viewport"
+#~ msgstr "Широта, которая используется при первом отображении карты"
+
+#~ msgid "Default longitude"
+#~ msgstr "Долгота по умолчанию"
+
+#~ msgid "Longitude of default viewport"
+#~ msgstr "Долгота, которая используется при первом отображении карты"
+
+#~ msgid "Live render"
+#~ msgstr "Рендер в реальном времени"
+
+#~ msgid "Points and clusters will update as viewport is being changed"
+#~ msgstr "Точки и кластеры будут обновляться по мере изменения окна просмотра"
+
+#~ msgid "RGB Color"
+#~ msgstr "Цвет"
+
+#~ msgid "The color for points and clusters in RGB"
+#~ msgstr "Цвет точек и кластеров в RGB"
+
+#~ msgid "Color"
+#~ msgstr "Цвет"
+
+#~ msgid "Pick a color"
+#~ msgstr "Выберите цвет"
+
+#~ msgid "Ranges"
+#~ msgstr "Диапазон"
+
+#~ msgid "Ranges to highlight with shading"
+#~ msgstr "Диапазон для выделения с затенением"
+
+#~ msgid "Range labels"
+#~ msgstr "Подписи диапазона"
+
+#~ msgid "Labels for the ranges"
+#~ msgstr "Добавить подписи диапазона"
+
+#~ msgid "Markers"
+#~ msgstr "Маркеры"
+
+#~ msgid "List of values to mark with triangles"
+#~ msgstr "Список значений для маркировки треугольниками"
+
+#~ msgid "Marker labels"
+#~ msgstr "Подписи маркеров"
+
+#~ msgid "Labels for the markers"
+#~ msgstr "Добавить подписи к маркерам"
+
+#~ msgid "Marker lines"
+#~ msgstr "Линии маркеров"
+
+#~ msgid "List of values to mark with lines"
+#~ msgstr "Список значений для маркировки линиями"
+
+#~ msgid "Marker line labels"
+#~ msgstr "Подписи линий маркеров"
+
+#~ msgid "Labels for the marker lines"
+#~ msgstr "Метки для линий маркеров"
+
+#~ msgid "Slice ID"
+#~ msgstr "Slice ID"
+
+#~ msgid "The id of the active slice"
+#~ msgstr "Идентификатор активного среза"
+
+#~ msgid "Cache Timeout (seconds)"
+#~ msgstr "Тайм-аут кэша (секунды)"
+
+#~ msgid "The number of seconds before expiring the cache"
+#~ msgstr "Количество секунд до истечения срока действия кэша"
+
+#~ msgid "Order by entity id"
+#~ msgstr "Упорядочить по идентификатору элемента"
+
+#~ msgid ""
+#~ "Important! Select this if the table "
+#~ "is not already sorted by entity "
+#~ "id, else there is no guarantee "
+#~ "that all events for each entity "
+#~ "are returned."
+#~ msgstr ""
+#~ "Важно! Выберите этот параметр, если "
+#~ "таблица еще не отсортирована по "
+#~ "идентификатору, иначе нет гарантии, что "
+#~ "будут возвращены все события для каждого"
+#~ " элемента."
+
+#~ msgid "Minimum leaf node event count"
+#~ msgstr "Минимальное количество событий"
+
+#~ msgid ""
+#~ "Leaf nodes that represent fewer than "
+#~ "this number of events will be "
+#~ "initially hidden in the visualization"
+#~ msgstr ""
+#~ "Конечные узлы, представляющие меньшее "
+#~ "количество событий, будут изначально скрыты"
+
+#~ msgid "Color Scheme"
+#~ msgstr "Цветовая схема"
+
+#~ msgid "The color scheme for rendering chart"
+#~ msgstr "Цветовая схема, применяемая для раскрашивания диаграммы"
+
+#~ msgid "Significance Level"
+#~ msgstr "Уровень значимости"
+
+#~ msgid "Threshold alpha level for determining significance"
+#~ msgstr "Пороговый уровень для определения значимости"
+
+#~ msgid "p-value precision"
+#~ msgstr "точность p-значения"
+
+#~ msgid "Number of decimal places with which to display p-values"
+#~ msgstr "Количество знаков после запятой, для отображаения p-значения"
+
+#~ msgid "Lift percent precision"
+#~ msgstr ""
+
+#~ msgid "Number of decimal places with which to display lift values"
+#~ msgstr ""
+
+#~ msgid "Time Series Columns"
+#~ msgstr "Столбцы Временных Рядов"
+
+#~ msgid "Use Area Proportions"
+#~ msgstr "Площадь сегмента"
+
+#~ msgid ""
+#~ "Check if the Rose Chart should use"
+#~ " segment area instead of segment "
+#~ "radius for proportioning"
+#~ msgstr "Диаграмма использует площадь сегмента вместо радиуса"
+
+#~ msgid "Options"
+#~ msgstr "Опции"
+
+#~ msgid "Not Time Series"
+#~ msgstr "Не временный ряд"
+
+#~ msgid "Ignore time"
+#~ msgstr "Игнорировать время"
+
+#~ msgid "Time Series"
+#~ msgstr "Временные ряды"
+
+#~ msgid "Standard time series"
+#~ msgstr "Стандартные временные ряды"
+
+#~ msgid "Aggregate Mean"
+#~ msgstr "Среднее"
+
+#~ msgid "Mean of values over specified period"
+#~ msgstr "Среднее значений за указанный период"
+
+#~ msgid "Aggregate Sum"
+#~ msgstr "Сумма"
+
+#~ msgid "Sum of values over specified period"
+#~ msgstr "Сумма значений за указанный период"
+
+#~ msgid "Difference"
+#~ msgstr "Разница"
+
+#~ msgid "Metric change in value from `since` to `until`"
+#~ msgstr "Разница значения"
+
+#~ msgid "Percent Change"
+#~ msgstr "Процентное изменение"
+
+#~ msgid "Metric percent change in value from `since` to `until`"
+#~ msgstr "Процент изменения значения показателя"
+
+#~ msgid "Factor"
+#~ msgstr "Фактор"
+
+#~ msgid "Metric factor change from `since` to `until`"
+#~ msgstr "Изменения фактора"
+
+#~ msgid "Advanced Analytics"
+#~ msgstr "Расширенный анализ"
+
+#~ msgid "Use the Advanced Analytics options below"
+#~ msgstr "Используйте дополнительные параметры расчета"
+
+#~ msgid "Settings for time series"
+#~ msgstr "Настройки временных рядов"
+
+#~ msgid "Equal Date Sizes"
+#~ msgstr ""
+
+#~ msgid "Check to force date partitions to have the same height"
+#~ msgstr ""
+
+#~ msgid "Partition Limit"
+#~ msgstr "Ограничение Разделов"
+
+#~ msgid ""
+#~ "The maximum number of subdivisions of"
+#~ " each group; lower values are pruned"
+#~ " first"
+#~ msgstr ""
+#~ "Максимальное число разбиений для каждой "
+#~ "группы. Сначала убираются более низкие "
+#~ "значения"
+
+#~ msgid "Partition Threshold"
+#~ msgstr "Порог размера"
+
+#~ msgid ""
+#~ "Partitions whose height to parent height"
+#~ " proportions are below this value are"
+#~ " pruned"
+#~ msgstr "Части, размеры которых ниже этого значения, обрезаются"
+
+#~ msgid "Lines column"
+#~ msgstr ""
+
+#~ msgid "The database columns that contains lines information"
+#~ msgstr "Столбцы БД, содержащие информацию о строках"
+
+#~ msgid "Lines encoding"
+#~ msgstr "Кодирование строк"
+
+#~ msgid "The encoding format of the lines"
+#~ msgstr "Формат кодирования строк"
+
+#~ msgid "Line width"
+#~ msgstr "Толщина линии"
+
+#~ msgid "The width of the lines"
+#~ msgstr "Задать толщину линии"
+
+#~ msgid "Reverse Lat & Long"
+#~ msgstr "Поменять Широту и Долготу"
+
+#~ msgid "deck.gl charts"
+#~ msgstr ""
+
+#~ msgid "Pick a set of deck.gl charts to layer on top of one another"
+#~ msgstr ""
+
+#~ msgid "Select charts"
+#~ msgstr "Выбрать диаграммы"
+
+#~ msgid "Error while fetching charts"
+#~ msgstr "Ошибка при загрузке графики"
+
+#~ msgid "Javascript data interceptor"
+#~ msgstr "Перехватчик данных Javascript"
+
+#~ msgid ""
+#~ "Define a javascript function that "
+#~ "receives the data array used in "
+#~ "the visualization and is expected to "
+#~ "return a modified version of that "
+#~ "array. This can be used to alter"
+#~ " properties of the data, filter, or"
+#~ " enrich the array."
+#~ msgstr ""
+#~ "Определите функцию javascript, которая "
+#~ "получает массив данных, используемый в "
+#~ "визуализации, и, как ожидается, возвратит "
+#~ "измененную версию этого массива. Это "
+#~ "может пригодиться для изменения свойств "
+#~ "данных, фильтра или обогащения массива."
+
+#~ msgid "Javascript data mutator"
+#~ msgstr "Мутатор данных Javascript"
+
+#~ msgid ""
+#~ "Define a function that receives "
+#~ "intercepts the data objects and can "
+#~ "mutate it"
+#~ msgstr ""
+#~ "Определите функцию, которая перехватывает "
+#~ "объекты данных для последующей мутации"
+
+#~ msgid "Javascript tooltip generator"
+#~ msgstr "Генератор подсказок Javascript"
+
+#~ msgid ""
+#~ "Define a function that receives the "
+#~ "input and outputs the content for "
+#~ "a tooltip"
+#~ msgstr ""
+#~ "Определение функции, которая получает входные"
+#~ " данные и выводит содержимое подсказки"
+
+#~ msgid "Javascript onClick href"
+#~ msgstr "JavaScript onclick атрибут"
+
+#~ msgid "Define a function that returns a URL to navigate to when user clicks"
+#~ msgstr "Определение функции, возвращающей URL для перехода при нажатии"
+
+#~ msgid "Extra data for JS"
+#~ msgstr "Доп. данные для JS"
+
+#~ msgid "List of extra columns made available in Javascript functions"
+#~ msgstr "Список дополнительных столбцов, доступных в функциях Javascript"
+
+#~ msgid "Stroked"
+#~ msgstr "Штриховать"
+
+#~ msgid "Whether to display the stroke"
+#~ msgstr "Отображать штриховать"
+
+#~ msgid "Filled"
+#~ msgstr "Закраска"
+
+#~ msgid "Whether to fill the objects"
+#~ msgstr "Закрашивать объекты"
+
+#~ msgid "Time"
+#~ msgstr "Время"
+
+#~ msgid "Time related form attributes"
+#~ msgstr ""
+#~ "В этом разделе можно установить "
+#~ "параметры диаграммы, связанные с временем"
+
+#~ msgid "Datasource & Chart Type"
+#~ msgstr "Источник данных & Тип графика"
+
+#~ msgid "This section exposes ways to include snippets of SQL in your query"
+#~ msgstr ""
+#~ "В этом разделе представлены способы "
+#~ "включения фрагментов кода SQL в ваш "
+#~ "запрос."
+
+#~ msgid "Annotations and Layers"
+#~ msgstr "Аннотация"
+
+#~ msgid ""
+#~ "This section contains options that allow"
+#~ " for advanced analytical post processing"
+#~ " of query results"
+#~ msgstr ""
+#~ "В этом разделе содержатся параметры, "
+#~ "которые позволяют производить аналитическую "
+#~ "пост-обработку результатов запроса"
+
+#~ msgid "Result Filters"
+#~ msgstr "Фильтр результатов"
+
+#~ msgid ""
+#~ "The filters to apply after post-"
+#~ "aggregation.Leave the value control empty "
+#~ "to filter empty strings or nulls"
+#~ msgstr "Фильтры, применяемые после агрегации."
+
+#~ msgid "Chart Options"
+#~ msgstr "Параметры диаграммы"
+
+#~ msgid "Breakdowns"
+#~ msgstr "Ряды данных (сегментировать)"
+
+#~ msgid "Defines how each series is broken down"
+#~ msgstr "Определяет на какие сегменты будет разбит каждый столбец данных"
+
+#~ msgid "Pie Chart"
+#~ msgstr "Круговая диаграмма"
+
+#~ msgid "Time Series - Periodicity Pivot"
+#~ msgstr ""
+
+#~ msgid "Dual Axis Line Chart"
+#~ msgstr "Линейный график с двумя осями"
+
+#~ msgid "Y Axis 1"
+#~ msgstr "Первая ось Y"
+
+#~ msgid "Y Axis 2"
+#~ msgstr "Вторая ось Y"
+
+#~ msgid "Left Axis Metric"
+#~ msgstr "Показатель для левой оси"
+
+#~ msgid "Choose a metric for left axis"
+#~ msgstr "Выбрать показатель для левой оси"
+
+#~ msgid "Left Axis Format"
+#~ msgstr "Формат левой оси"
+
+#~ msgid "Axes"
+#~ msgstr "Оси"
+
+#~ msgid "Map"
+#~ msgstr "Карта"
+
+#~ msgid "Deck.gl - Hexagons"
+#~ msgstr ""
+
+#~ msgid "Advanced"
+#~ msgstr "Дополнительно"
+
+#~ msgid "Metric used to control height"
+#~ msgstr "Показатель используемый для контроля высоты"
+
+#~ msgid "Deck.gl - Grid"
+#~ msgstr ""
+
+#~ msgid "Deck.gl - Screen grid"
+#~ msgstr ""
+
+#~ msgid "Grid"
+#~ msgstr "Сетка"
+
+#~ msgid "Weight"
+#~ msgstr "Вес"
+
+#~ msgid "Metric used as a weight for the grid's coloring"
+#~ msgstr "Показатель, используемый в качестве веса для раскраски сетки"
+
+#~ msgid "Deck.gl - geoJson"
+#~ msgstr ""
+
+#~ msgid "GeoJson Settings"
+#~ msgstr "Настройки Geojson "
+
+#~ msgid "Polygon Settings"
+#~ msgstr "Параметры Полигона"
+
+#~ msgid "Arc"
+#~ msgstr "Дуга"
+
+#~ msgid "Point Color"
+#~ msgstr "Цвет Точки"
+
+#~ msgid "Categorical Color"
+#~ msgstr ""
+
+#~ msgid "Pick a dimension from which categorical colors are defined"
+#~ msgstr ""
+
+#~ msgid "GROUP BY"
+#~ msgstr "АГРЕГАЦИЯ"
+
+#~ msgid "Use this section if you want a query that aggregates"
+#~ msgstr ""
+#~ "Используйте этот раздел, если необходимо "
+#~ "предварительно агрегировать данные"
+
+#~ msgid "NOT GROUPED BY"
+#~ msgstr "БЕЗ АГРЕГАЦИИ"
+
+#~ msgid "Use this section if you want to query atomic rows"
+#~ msgstr ""
+#~ "Используйте этот раздел, если необходимо "
+#~ "использовать исходные данные как есть, "
+#~ "без предварительной агрегации"
+
+#~ msgid "Time Series Table"
+#~ msgstr "Таблица временных рядов"
+
+#~ msgid ""
+#~ "Templated link, it's possible to include"
+#~ " {{ metric }} or other values "
+#~ "coming from the controls."
+#~ msgstr ""
+#~ "Шаблонная ссылка, можно включить {{ "
+#~ "metric }} или другие значения, "
+#~ "поступающие из элементов управления."
+
+#~ msgid "Pivot Options"
+#~ msgstr "Опции"
+
+#~ msgid "Bubbles"
+#~ msgstr "Пузырьки"
+
+#~ msgid "Numeric Column"
+#~ msgstr "Числовой столбец"
+
+#~ msgid "Select the numeric column to draw the histogram"
+#~ msgstr "Выберите числовой столбец, чтобы построить гистограмму"
+
+#~ msgid "No of Bins"
+#~ msgstr "Количество ячеек"
+
+#~ msgid "Select number of bins for the histogram"
+#~ msgstr "Выберите количество ячеек"
+
+#~ msgid "Primary Metric"
+#~ msgstr "Первый показатель"
+
+#~ msgid "The primary metric is used to define the arc segment sizes"
+#~ msgstr "Первый показатель используется для определения размеров сегмента дуги"
+
+#~ msgid "Secondary Metric"
+#~ msgstr "Второй показатель"
+
+#~ msgid ""
+#~ "[optional] this secondary metric is used"
+#~ " to define the color as a ratio"
+#~ " against the primary metric. When "
+#~ "omitted, the color is categorical and"
+#~ " based on labels"
+#~ msgstr ""
+#~ "Необязательный параметр. Используется для "
+#~ "формирования цвета на основе отношения к"
+#~ " первому показателю. "
+
+#~ msgid "Hierarchy"
+#~ msgstr "Иерархическая структура"
+
+#~ msgid "This defines the level of the hierarchy"
+#~ msgstr "Каждый срез определяет уровень иерархии"
+
+#~ msgid "Source / Target"
+#~ msgstr "Источник / Назначение"
+
+#~ msgid "Choose a source and a target"
+#~ msgstr "Выберите срез данных для источника и назначения"
+
+#~ msgid "Chord Diagram"
+#~ msgstr ""
+
+#~ msgid "Choose a number format"
+#~ msgstr "Выберите формат чисел"
+
+#~ msgid "Source"
+#~ msgstr "Источник"
+
+#~ msgid "Choose a source"
+#~ msgstr "Выберите срез источника"
+
+#~ msgid "Target"
+#~ msgstr "Назначение"
+
+#~ msgid "Choose a target"
+#~ msgstr "Выберите срез назначения"
+
+#~ msgid "ISO 3166-2 codes of region/province/department"
+#~ msgstr "Геокод по стандарту ISO 3166-2"
+
+#~ msgid ""
+#~ "It's ISO 3166-2 of your "
+#~ "region/province/department in your table. (see"
+#~ " documentation for list of ISO "
+#~ "3166-2)"
+#~ msgstr ""
+#~ "Стандарт ISO 3166-2 — часть стандарта"
+#~ " ISO 3166, определяющего геокоды для "
+#~ "основных единиц первого и второго уровня"
+#~ " деления территории всех стран."
+
+#~ msgid "Country Control"
+#~ msgstr "Геокод страны"
+
+#~ msgid "3 letter code of the country"
+#~ msgstr "Трехбуквенный код страны"
+
+#~ msgid "Metric for color"
+#~ msgstr "Показатель / Цвет"
+
+#~ msgid "Metric that defines the color of the country"
+#~ msgstr "Показатель, определяющий цвет страны"
+
+#~ msgid "Bubble size"
+#~ msgstr "Размер маркера"
+
+#~ msgid "Metric that defines the size of the bubble"
+#~ msgstr "Показатель, определяющий размер маркера (окружность)"
+
+#~ msgid "Filter Box"
+#~ msgstr "Фильтр"
+
+#~ msgid "Filter controls"
+#~ msgstr "Фильтруемые срезы"
+
+#~ msgid ""
+#~ "The controls you want to filter "
+#~ "on. Note that only columns checked "
+#~ "as \"filterable\" will show up on "
+#~ "this list."
+#~ msgstr ""
+#~ "Срезы данных, на которые вы хотите "
+#~ "включить фильтр. Обратите внимание, что "
+#~ "в этом списке будут отображаться только"
+#~ " столбцы, отмеченные в свойствах таблицы"
+#~ " как «фильтруемые»."
+
+#~ msgid "Heatmap Options"
+#~ msgstr "Параметры тепловой карты"
+
+#~ msgid "Value bounds"
+#~ msgstr "Границы значения"
+
+#~ msgid "Value Format"
+#~ msgstr "Формат значения"
+
+#~ msgid "Horizon"
+#~ msgstr ""
+
+#~ msgid "Points"
+#~ msgstr "Точки"
+
+#~ msgid "Labelling"
+#~ msgstr "Маркировка"
+
+#~ msgid "Visual Tweaks"
+#~ msgstr "Визуальные твики"
+
+#~ msgid "Column containing longitude data"
+#~ msgstr "Столбец, содержащий данные долготы"
+
+#~ msgid "Column containing latitude data"
+#~ msgstr "Столбец, содержащий данные широты"
+
+#~ msgid "Cluster label aggregator"
+#~ msgstr "Агрегатор меток кластера"
+
+#~ msgid ""
+#~ "Aggregate function applied to the list"
+#~ " of points in each cluster to "
+#~ "produce the cluster label."
+#~ msgstr ""
+#~ "Агрегатная функция применяется к списку "
+#~ "точек в каждом кластере для создания "
+#~ "метки кластера."
+
+#~ msgid "Tooltip"
+#~ msgstr "Подсказка"
+
+#~ msgid ""
+#~ "Show a tooltip when hovering over "
+#~ "points and clusters describing the label"
+#~ msgstr ""
+#~ "Показывать всплывающую подсказку при наведении"
+#~ " курсора на точки и кластеры"
+
+#~ msgid ""
+#~ "One or many controls to group by."
+#~ " If grouping, latitude and longitude "
+#~ "columns must be present."
+#~ msgstr ""
+#~ "Один или несколько элементов в группе."
+#~ " Должны присутствовать столбцы широты и "
+#~ "долготы."
+
+#~ msgid "Event definition"
+#~ msgstr "Определение события"
+
+#~ msgid "Additional meta data"
+#~ msgstr "Дополнительные метаданные"
+
+#~ msgid "Column containing entity ids"
+#~ msgstr "Столбец, содержащий идентификатор"
+
+#~ msgid "e.g., a \"user id\" column"
+#~ msgstr "например, столбец «user id»"
+
+#~ msgid "Column containing event names"
+#~ msgstr "Столбец, содержащий имена событий"
+
+#~ msgid "Event count limit"
+#~ msgstr "Ограничение количества событий"
+
+#~ msgid "The maximum number of events to return, equivalent to number of rows"
+#~ msgstr "Максимальное число возвращаемых событий, эквивалентное числу строк"
+
+#~ msgid "Meta data"
+#~ msgstr "Метаданные"
+
+#~ msgid "Select any columns for meta data inspection"
+#~ msgstr "Выберите любые столбцы для проверки метаданных"
+
+#~ msgid "Paired t-test"
+#~ msgstr ""
+
+#~ msgid "Time Series Options"
+#~ msgstr ""
+
+#~ msgid "Favorites"
+#~ msgstr "Избранное"
+
+#~ msgid "Created Content"
+#~ msgstr "Созданный контент"
+
+#~ msgid "Recent Activity"
+#~ msgstr "Последние действия"
+
+#~ msgid "Security & Access"
+#~ msgstr "Безопасность и Доступ"
+
+#~ msgid "No slices"
+#~ msgstr "Нет срезов данных"
+
+#~ msgid "No dashboards"
+#~ msgstr "Нет отчётов"
+
+#~ msgid "Dashboards"
+#~ msgstr "Отчёты"
+
+#~ msgid "Slices"
+#~ msgstr "Срезы данных"
+
+#~ msgid "No favorite charts yet, go click on stars!"
+#~ msgstr ""
+#~ "Нет избранных диаграмм. Нажмите звёздочку "
+#~ "напротив названия необходимого графика, чтобы"
+#~ " он появился в списке избранных "
+#~ "диаграмм."
+
+#~ msgid "No favorite dashboards yet, go click on stars!"
+#~ msgstr ""
+#~ "Нет избранных отчётов. Нажмите звёздочку "
+#~ "напротив названия необходимого отчета, чтобы"
+#~ " он появился в этом списке."
+
+#~ msgid "Charts"
+#~ msgstr "Графики"
+
+#~ msgid "Roles"
+#~ msgstr "Роли"
+
+#~ msgid "Databases"
+#~ msgstr "Базы данных"
+
+#~ msgid "Datasources"
+#~ msgstr "Источники данных"
+
+#~ msgid "Profile picture provided by Gravatar"
+#~ msgstr "Изображение профиля, сгенерированное сервисом Gravatar"
+
+#~ msgid "joined"
+#~ msgstr "присоединился"
+
+#~ msgid "id:"
+#~ msgstr "идентификатор:"
+
+#~ msgid "Sorry, there appears to be no data"
+#~ msgstr "Извините, похоже, нет данных"
+
+#~ msgid "Data has no time steps"
+#~ msgstr "Данные не имеют временной шкалы"
+
+#~ msgid "Select starting date"
+#~ msgstr "Выберите дату начала"
+
+#~ msgid "Select end date"
+#~ msgstr "Выберите дату окончания"
+
+#~ msgid "Select [%s]"
+#~ msgstr "Выбрать [%s]"
+
+#~ msgid "Apply"
+#~ msgstr "Применить"
+
+#~ msgid "No data was returned."
+#~ msgstr "Данных не было."
+
+#~ msgid "List Druid Column"
+#~ msgstr "Список колонок Druid"
+
+#~ msgid "Show Druid Column"
+#~ msgstr "Показать колонку Druid"
+
+#~ msgid "Add Druid Column"
+#~ msgstr "Добавить колонку Druid"
+
+#~ msgid "Edit Druid Column"
+#~ msgstr "Редактировать колонку Druid"
+
+#~ msgid "Column"
+#~ msgstr "Колонка"
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "Groupable"
+#~ msgstr "Группируемый"
+
+#~ msgid "Filterable"
+#~ msgstr "Фильтрующийся"
+
+#~ msgid "Count Distinct"
+#~ msgstr "Count Distinct"
+
+#~ msgid "Sum"
+#~ msgstr "Sum"
+
+#~ msgid ""
+#~ "Whether this column is exposed in "
+#~ "the `Filters` section of the explore "
+#~ "view."
+#~ msgstr ""
+#~ "Необходимо отметить, если столбец должен "
+#~ "быть доступен в разделе «Фильтры»."
+
+#~ msgid "List Druid Metric"
+#~ msgstr "Список Druid Метрик"
+
+#~ msgid "Show Druid Metric"
+#~ msgstr "Показать Druid Метрики"
+
+#~ msgid "Add Druid Metric"
+#~ msgstr "Добавить Druid Метрику"
+
+#~ msgid "Edit Druid Metric"
+#~ msgstr "Редактировать Druid Метрику"
+
+#~ msgid ""
+#~ "Whether the access to this metric "
+#~ "is restricted to certain roles. Only "
+#~ "roles with the permission 'metric access"
+#~ " on XXX (the name of this "
+#~ "metric)' are allowed to access this "
+#~ "metric"
+#~ msgstr ""
+#~ "Ограничен ли доступ к этому показателю"
+#~ " определенными ролями. Только роли с "
+#~ "разрешением «metric access on [название "
+#~ "этой метрики]» могут получить доступ к"
+#~ " этому показателю."
+
+#~ msgid "Verbose Name"
+#~ msgstr "Полное имя"
+
+#~ msgid "JSON"
+#~ msgstr "JSON"
+
+#~ msgid "Druid Datasource"
+#~ msgstr "Druid - Источники Данных"
+
+#~ msgid "Warning Message"
+#~ msgstr "Предупреждающее сообщение"
+
+#~ msgid "List Druid Cluster"
+#~ msgstr "Список Кластеров Druid"
+
+#~ msgid "Show Druid Cluster"
+#~ msgstr "Показать Кластер Druid"
+
+#~ msgid "Add Druid Cluster"
+#~ msgstr "Добавить Кластер Druid"
+
+#~ msgid "Edit Druid Cluster"
+#~ msgstr "Редактировать Кластер Druid"
+
+#~ msgid "Cluster"
+#~ msgstr "Кластер"
+
+#~ msgid "Broker Host"
+#~ msgstr "Брокер-Хост"
+
+#~ msgid "Broker Port"
+#~ msgstr "Брокер-Порт"
+
+#~ msgid "Broker Endpoint"
+#~ msgstr "Брокер-Конечная Точка"
+
+#~ msgid "Druid Clusters"
+#~ msgstr "Список Кластеров Druid"
+
+#~ msgid "Sources"
+#~ msgstr "Источники"
+
+#~ msgid "List Druid Datasource"
+#~ msgstr "Список Источников Данных Druid"
+
+#~ msgid "Show Druid Datasource"
+#~ msgstr "Показать Источники Данных Druid"
+
+#~ msgid "Add Druid Datasource"
+#~ msgstr "Добавить Источник Данных Druid"
+
+#~ msgid "Edit Druid Datasource"
+#~ msgstr "Редактировать Источник Данных Druid"
+
+#~ msgid ""
+#~ "The list of slices associated with "
+#~ "this table. By altering this datasource,"
+#~ " you may change how these associated"
+#~ " slices behave. Also note that slices"
+#~ " need to point to a datasource, "
+#~ "so this form will fail at saving"
+#~ " if removing slices from a "
+#~ "datasource. If you want to change "
+#~ "the datasource for a slice, overwrite"
+#~ " the slice from the 'explore view'"
+#~ msgstr ""
+#~ "Список графиков, связанных с этой "
+#~ "таблицей. Изменяя этот источник данных, "
+#~ "можно изменить поведение связанных с ним"
+#~ " графиков. Также обратите внимание, что "
+#~ "графики должны указывать на источник "
+#~ "данных, поэтому эта форма не будет "
+#~ "сохранена при удалении срезов из "
+#~ "источника данных. Если вы хотите "
+#~ "изменить источник данных для среза, "
+#~ "сделайте это в свойствах самого графика."
+
+#~ msgid "Timezone offset (in hours) for this datasource"
+#~ msgstr "Смещение часового пояса (в часах) для этого источника данных"
+
+#~ msgid ""
+#~ "Time expression to use as a "
+#~ "predicate when retrieving distinct values "
+#~ "to populate the filter component. Only"
+#~ " applies when `Enable Filter Select` "
+#~ "is on. If you enter `7 days "
+#~ "ago`, the distinct list of values "
+#~ "in the filter will be populated "
+#~ "based on the distinct value over "
+#~ "the past week"
+#~ msgstr ""
+#~ "Выражение времени для использования в "
+#~ "качестве предиката при получении различных "
+#~ "значений для заполнения компонента фильтра."
+#~ " Применяется только в том случае, "
+#~ "если включен параметр «включить выбор "
+#~ "фильтра». Если Вы введете «7 дней "
+#~ "назад», то список различных значений в"
+#~ " фильтре будет заполнен на основе "
+#~ "определенного значения за последнюю неделю"
+
+#~ msgid ""
+#~ "Whether to populate the filter's "
+#~ "dropdown in the explore view's filter"
+#~ " section with a list of distinct "
+#~ "values fetched from the backend on "
+#~ "the fly"
+#~ msgstr "Получение списка фильтруемых значений, выполняя онлайн-запрос к серверу"
+
+#~ msgid ""
+#~ "Redirects to this endpoint when clicking"
+#~ " on the datasource from the "
+#~ "datasource list"
+#~ msgstr ""
+#~ "Перенаправление на эту конечную точку "
+#~ "при нажатии на источник данных из "
+#~ "списка источников данных"
+
+#~ msgid "Associated Charts"
+#~ msgstr "Связанные диаграммы"
+
+#~ msgid "Data Source"
+#~ msgstr "Источник данных"
+
+#~ msgid "Owner"
+#~ msgstr "Владелец"
+
+#~ msgid "Is Hidden"
+#~ msgstr "Скрыто"
+
+#~ msgid "Enable Filter Select"
+#~ msgstr "Включить Онлайн Фильтр"
+
+#~ msgid "Default Endpoint"
+#~ msgstr "Конечная точка по умолчанию"
+
+#~ msgid "Time Offset"
+#~ msgstr "Смещение Времени"
+
+#~ msgid "Cache Timeout"
+#~ msgstr "Тайм-аут Кэша"
+
+#~ msgid "Druid Datasources"
+#~ msgstr "Источники Данных Druid"
+
+#~ msgid "Scan New Datasources"
+#~ msgstr "Сканирование Новых Источников"
+
+#~ msgid "Refresh Druid Metadata"
+#~ msgstr "Обновить Метаданные Druid"
+
+#~ msgid ""
+#~ "Datetime column not provided as part "
+#~ "table configuration and is required by"
+#~ " this type of chart"
+#~ msgstr ""
+#~ "Для данной диаграммы необходим временной "
+#~ "ряд. Укажите столбец с датой в "
+#~ "соответствующем поле раздела [Время]"
+
+#~ msgid "Empty query?"
+#~ msgstr "Пустой запрос?"
+
+#~ msgid "Metric '{}' is not valid"
+#~ msgstr "Показатель ‘{}’ не является допустимым"
+
+#~ msgid ""
+#~ "Table [{}] doesn't seem to exist "
+#~ "in the specified database, couldn't "
+#~ "fetch column information"
+#~ msgstr ""
+#~ "Таблица [{}], похоже, не существует в"
+#~ " указанной базе данных. Не удается "
+#~ "получить сведения о столбце."
+
+#~ msgid "List Columns"
+#~ msgstr "Список столбцов"
+
+#~ msgid "Show Column"
+#~ msgstr "Показать столбец"
+
+#~ msgid "Add Column"
+#~ msgstr "Добавить столбец"
+
+#~ msgid "Edit Column"
+#~ msgstr "Редактировать столбец"
+
+#~ msgid ""
+#~ "Whether to make this column available"
+#~ " as a [Time Granularity] option, "
+#~ "column has to be DATETIME or "
+#~ "DATETIME-like"
+#~ msgstr ""
+#~ "Сделать этот столбец доступным в разделе"
+#~ " [Время]. Столбец должен быть в "
+#~ "формате DATETIME"
+
+#~ msgid ""
+#~ "The data type that was inferred by"
+#~ " the database. It may be necessary"
+#~ " to input a type manually for "
+#~ "expression-defined columns in some cases."
+#~ " In most case users should not "
+#~ "need to alter this."
+#~ msgstr ""
+#~ "Задать тип данных. В некоторых случаях"
+#~ " может потребоваться ввести тип вручную "
+#~ "для столбцов, которые формируются специальными"
+#~ " запросами. В большинстве случаев изменять"
+#~ " содержимое этого поля не обязательно."
+
+#~ msgid "Expression"
+#~ msgstr "Выражение SQL"
+
+#~ msgid "Is temporal"
+#~ msgstr "Содержит дату /время"
+
+#~ msgid "Datetime Format"
+#~ msgstr "Формат Datetime"
+
+#~ msgid "Database Expression"
+#~ msgstr "Database Expression"
+
+#~ msgid "List Metrics"
+#~ msgstr "Список показателей"
+
+#~ msgid "Show Metric"
+#~ msgstr "Показать показатель"
+
+#~ msgid "Add Metric"
+#~ msgstr "Добавить показатель"
+
+#~ msgid "Edit Metric"
+#~ msgstr "Редактировать показатель"
+
+#~ msgid "SQL Expression"
+#~ msgstr "Выражение SQL"
+
+#~ msgid "D3 Format"
+#~ msgstr "Формат D3"
+
+#~ msgid "Is Restricted"
+#~ msgstr "Ограничено"
+
+#~ msgid "List Tables"
+#~ msgstr "Список таблиц"
+
+#~ msgid "Show Table"
+#~ msgstr "Показать таблицу"
+
+#~ msgid "Add Table"
+#~ msgstr "Добавить таблицу"
+
+#~ msgid "Edit Table"
+#~ msgstr "Редактировать таблицу"
+
+#~ msgid "Name of the table that exists in the source database"
+#~ msgstr "Имя таблицы, которая существует в исходной базе данных"
+
+#~ msgid "Schema, as used only in some databases like Postgres, Redshift and DB2"
+#~ msgstr ""
+#~ "Схема, используется только в некоторых "
+#~ "базах данных, таких как Postgres, "
+#~ "Redshift и DB2"
+
+#~ msgid ""
+#~ "This fields acts a Superset view, "
+#~ "meaning that Superset will run a "
+#~ "query against this string as a "
+#~ "subquery."
+#~ msgstr "Это поле будет выполнять запрос в качестве подзапроса."
+
+#~ msgid ""
+#~ "Predicate applied when fetching distinct "
+#~ "value to populate the filter control "
+#~ "component. Supports jinja template syntax. "
+#~ "Applies only when `Enable Filter Select`"
+#~ " is on."
+#~ msgstr ""
+#~ "Предикат применяется при получении значений"
+#~ " для компонента - «Фильтр». Поддерживает"
+#~ " синтаксис jinja. Применяется только в "
+#~ "том случае, если включен параметр "
+#~ "«Включить Онлайн Фильтр»."
+
+#~ msgid ""
+#~ "Redirects to this endpoint when clicking"
+#~ " on the table from the table "
+#~ "list"
+#~ msgstr ""
+#~ "Перенаправление на эту конечную точку "
+#~ "при нажатии на таблицу в общем "
+#~ "списке"
+
+#~ msgid "Changed By"
+#~ msgstr "Изменено"
+
+#~ msgid "Database"
+#~ msgstr "БД"
+
+#~ msgid "Last Changed"
+#~ msgstr "Последнее изменение"
+
+#~ msgid "Offset"
+#~ msgstr "Смещение"
+
+#~ msgid "Fetch Values Predicate"
+#~ msgstr "Извлечь Значения Предиката"
+
+#~ msgid "Main Datetime Column"
+#~ msgstr "Основной столбец с датой"
+
+#~ msgid ""
+#~ "Table [{}] could not be found, "
+#~ "please double check your database "
+#~ "connection, schema, and table name"
+#~ msgstr ""
+#~ "Не удалось найти таблицу [{}]. Проверьте"
+#~ " подключение к базе данных, схему и"
+#~ " имя таблицы."
+
+#~ msgid ""
+#~ "The table was created. As part of"
+#~ " this two phase configuration process, "
+#~ "you should now click the edit "
+#~ "button by the new table to "
+#~ "configure it."
+#~ msgstr ""
+#~ "Таблица была создана. Нажмите на кнопку"
+#~ " редактирования напротив новой таблицы, "
+#~ "чтобы настроить её."
+
+#~ msgid "Refresh Metadata"
+#~ msgstr "Обновить метаданные"
+
+#~ msgid "Refresh column metadata"
+#~ msgstr "Обновить метаданные столбцов"
+
+#~ msgid "Metadata refreshed for the following table(s): %(tables)s"
+#~ msgstr "Метаданные обновлены для следующих таблиц: %(tables)s"
+
+#~ msgid "Tables"
+#~ msgstr "Таблицы"
+
+#~ msgid "Profile"
+#~ msgstr "Профиль"
+
+#~ msgid "Logout"
+#~ msgstr "Выход из системы"
+
+#~ msgid "Login"
+#~ msgstr "Вход в систему"
+
+#~ msgid "Record Count"
+#~ msgstr "Количество записей"
+
+#~ msgid "No records found"
+#~ msgstr "Записи не найдены"
+
+#~ msgid "Import"
+#~ msgstr "Импорт"
+
+#~ msgid "No Access!"
+#~ msgstr "Нет доступа!"
+
+#~ msgid "You do not have permissions to access the datasource(s): %(name)s."
+#~ msgstr "У вас нет разрешений на доступ к источнику данных: %(name)s."
+
+#~ msgid "Request Permissions"
+#~ msgstr "Запросить права доступа"
+
+#~ msgid "Test Connection"
+#~ msgstr "Тестовое соединение"
+
+#~ msgid "Annotation Layers"
+#~ msgstr "Слои аннотаций"
+
+#~ msgid "Manage"
+#~ msgstr "Управление"
+
+#~ msgid "Annotations"
+#~ msgstr "Аннотации"
+
+#~ msgid "Datasource %(name)s already exists"
+#~ msgstr "Источник данных %(name)s уже существует"
+
+#~ msgid "json isn't valid"
+#~ msgstr "json не валиден"
+
+#~ msgid "Export to YAML"
+#~ msgstr "Экспорт в YAML"
+
+#~ msgid "Export to YAML?"
+#~ msgstr "Экспорт в YAML?"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "Delete all Really?"
+#~ msgstr "Удалить все?"
+
+#~ msgid "This endpoint requires the `all_datasource_access` permission"
+#~ msgstr "Эта конечная точка требует разрешения «all_datasource_access»"
+
+#~ msgid "The datasource seems to have been deleted"
+#~ msgstr "Источник данных, похоже, был удален"
+
+#~ msgid "The access requests seem to have been deleted"
+#~ msgstr "Запросы доступа, похоже, были удалены"
+
+#~ msgid "The user seems to have been deleted"
+#~ msgstr "Пользователь, кажется, был удален"
+
+#~ msgid ""
+#~ "You don't have access to this "
+#~ "datasource. <a href='{}'>(Gain access)</a>"
+#~ msgstr ""
+#~ "У вас нет доступа к этому "
+#~ "источнику данных. <a href=‘{}’>(Gain "
+#~ "access)</a>"
+
+#~ msgid "You don't have access to this datasource"
+#~ msgstr "У вас нет доступа к этому источнику данных"
+
+#~ msgid ""
+#~ "This view requires the database %(name)s"
+#~ " or `all_datasource_access` permission"
+#~ msgstr ""
+#~ "Для просмотра базы данных %(name)s "
+#~ "необходимо иметь соответствующий доступ или"
+#~ " разрешение «all_datasource_access»"
+
+#~ msgid ""
+#~ "This endpoint requires the datasource "
+#~ "%(name)s, database or `all_datasource_access` "
+#~ "permission"
+#~ msgstr ""
+#~ "Для этой конечной точки %(name)s "
+#~ "необходимо иметь соответствующий доступ или"
+#~ " разрешение «all_datasource_access»"
+
+#~ msgid "List Databases"
+#~ msgstr "Список БД"
+
+#~ msgid "Show Database"
+#~ msgstr "Показать Базу Данных"
+
+#~ msgid "Add Database"
+#~ msgstr "Добавить Базу Данных"
+
+#~ msgid "Edit Database"
+#~ msgstr "Редактировать Базу Данных"
+
+#~ msgid "Expose this DB in SQL Lab"
+#~ msgstr "Показать базу данных в SQL Редакторе"
+
+#~ msgid ""
+#~ "Allow users to run synchronous queries,"
+#~ " this is the default and should "
+#~ "work well for queries that can be"
+#~ " executed within a web request scope"
+#~ " (<~1 minute)"
+#~ msgstr ""
+#~ "Разрешить пользователям выполнять синхронные "
+#~ "запросы. Это значение установлено по "
+#~ "умолчанию и должно хорошо работать для"
+#~ " запросов, которые могут быть выполнены "
+#~ "в пределах одной минуты."
+
+#~ msgid ""
+#~ "Allow users to run queries, against "
+#~ "an async backend. This assumes that "
+#~ "you have a Celery worker setup as"
+#~ " well as a results backend."
+#~ msgstr ""
+#~ "Разрешить пользователям выполнять асинхронные "
+#~ "запросы к серверной части. Это "
+#~ "предполагает, что у вас настроена "
+#~ "очередь запросов Celery Worker."
+
+#~ msgid "Allow CREATE TABLE AS option in SQL Lab"
+#~ msgstr "Разрешить выполнять инструкцию CREATE TABLE AS в редакторе SQL"
+
+#~ msgid ""
+#~ "Allow users to run non-SELECT "
+#~ "statements (UPDATE, DELETE, CREATE, ...) "
+#~ "in SQL Lab"
+#~ msgstr ""
+#~ "Позволяет пользователям запускать инструкции "
+#~ "(UPDATE, DELETE, CREATE, …) без SELECT"
+#~ " в редакторе SQL"
+
+#~ msgid ""
+#~ "When allowing CREATE TABLE AS option "
+#~ "in SQL Lab, this option forces the"
+#~ " table to be created in this "
+#~ "schema"
+#~ msgstr ""
+#~ "При разрешении опции CREATE TABLE AS "
+#~ "в редакторе SQL эта опция создаст "
+#~ "таблицу в выбранной схеме"
+
+#~ msgid ""
+#~ "If Presto, all the queries in SQL"
+#~ " Lab are going to be executed "
+#~ "as the currently logged on user "
+#~ "who must have permission to run "
+#~ "them.<br/>If Hive and hive.server2.enable.doAs "
+#~ "is enabled, will run the queries "
+#~ "as service account, but impersonate the"
+#~ " currently logged on user via "
+#~ "hive.server2.proxy.user property."
+#~ msgstr ""
+#~ "Если вы используете Presto, все запросы"
+#~ " в SQL-Редакторе будут выполняться от "
+#~ "авторизованного пользователя, который должен "
+#~ "иметь разрешение на их выполнение. <br/>"
+#~ " Если включен Hive, то запросы будут"
+#~ " выполняться через техническую учетную "
+#~ "запись, но ассоциировать зарегистрированного "
+#~ "пользователя можно через свойство "
+#~ "hive.server2.proxy.user."
+
+#~ msgid "Expose in SQL Lab"
+#~ msgstr "Открыть в SQL редакторе"
+
+#~ msgid "Allow CREATE TABLE AS"
+#~ msgstr "Разрешить CREATE TABLE AS"
+
+#~ msgid "Allow DML"
+#~ msgstr "Allow DML"
+
+#~ msgid "CTAS Schema"
+#~ msgstr "Схема по умолчанию"
+
+#~ msgid "Creator"
+#~ msgstr "Автор"
+
+#~ msgid "SQLAlchemy URI"
+#~ msgstr "SQLAlchemy URI"
+
+#~ msgid "Extra"
+#~ msgstr "Дополнительные параметры"
+
+#~ msgid "Allow Run Sync"
+#~ msgstr "Allow Run Sync"
+
+#~ msgid "Allow Run Async"
+#~ msgstr "Allow Run Async"
+
+#~ msgid "Impersonate the logged on user"
+#~ msgstr "Ассоциировать пользователя"
+
+#~ msgid "Import Dashboards"
+#~ msgstr "Импорт Отчетов"
+
+#~ msgid "CSV to Database configuration"
+#~ msgstr "Настройка CSV для БД"
+
+#~ msgid ""
+#~ "CSV file \"%(csv_filename)s\" uploaded to "
+#~ "table \"%(table_name)s\" in database "
+#~ "\"%(db_name)s\""
+#~ msgstr ""
+#~ "CSV-файл \"%(csv_filename)s\" загружен в "
+#~ "таблицу \"%(table_name)s\" базы данных "
+#~ "\"%(db_name)s\""
+
+#~ msgid "User"
+#~ msgstr "Пользователь"
+
+#~ msgid "User Roles"
+#~ msgstr "Роли пользователей"
+
+#~ msgid "Database URL"
+#~ msgstr "URL базы данных"
+
+#~ msgid "Roles to grant"
+#~ msgstr "Роли для предоставления"
+
+#~ msgid "Created On"
+#~ msgstr "Дата создания"
+
+#~ msgid "Access requests"
+#~ msgstr "Запросы доступа"
+
+#~ msgid "Security"
+#~ msgstr "Безопасность"
+
+#~ msgid "List Charts"
+#~ msgstr "Список диаграмм"
+
+#~ msgid "Show Chart"
+#~ msgstr "Показать диаграмму"
+
+#~ msgid "Add Chart"
+#~ msgstr "Добавить диаграмму"
+
+#~ msgid "Edit Chart"
+#~ msgstr "Редактировать диаграмму"
+
+#~ msgid ""
+#~ "These parameters are generated dynamically "
+#~ "when clicking the save or overwrite "
+#~ "button in the explore view. This "
+#~ "JSON object is exposed here for "
+#~ "reference and for power users who "
+#~ "may want to alter specific parameters."
+#~ msgstr ""
+#~ "Эти параметры генерируются автоматически при"
+#~ " нажатии кнопки сохранения. Опытные "
+#~ "пользователи могут изменить определенные "
+#~ "объекты в формате JSON."
+
+#~ msgid "Duration (in seconds) of the caching timeout for this slice."
+#~ msgstr "Продолжительность (в секундах) таймаута кэширования для этого графика."
+
+#~ msgid "Last Modified"
+#~ msgstr "Изменено"
+
+#~ msgid "Owners"
+#~ msgstr "Владельцы"
+
+#~ msgid "Parameters"
+#~ msgstr "Параметры"
+
+#~ msgid "Chart"
+#~ msgstr "График"
+
+#~ msgid "List Dashboards"
+#~ msgstr "Список Отчётов"
+
+#~ msgid "Show Dashboard"
+#~ msgstr "Показать Отчёт"
+
+#~ msgid "Add Dashboard"
+#~ msgstr "Добавить Отчёт"
+
+#~ msgid "Edit Dashboard"
+#~ msgstr "Редактировать Отчёт"
+
+#~ msgid ""
+#~ "This json object describes the "
+#~ "positioning of the widgets in the "
+#~ "dashboard. It is dynamically generated "
+#~ "when adjusting the widgets size and "
+#~ "positions by using drag & drop in"
+#~ " the dashboard view"
+#~ msgstr ""
+#~ "Этот объект JSON описывает расположение "
+#~ "виджетa в отчёте. Он автоматически "
+#~ "генерируется при настройке размера и "
+#~ "позиций виджета на листе отчёта."
+
+#~ msgid ""
+#~ "The css for individual dashboards can"
+#~ " be altered here, or in the "
+#~ "dashboard view where changes are "
+#~ "immediately visible"
+#~ msgstr "В этом поле можно задать индивидуальный стиль для отчёта с помощью CSS"
+
+#~ msgid "To get a readable URL for your dashboard"
+#~ msgstr "Получить читаемый URL-адрес для отчёта"
+
+#~ msgid ""
+#~ "This JSON object is generated "
+#~ "dynamically when clicking the save or"
+#~ " overwrite button in the dashboard "
+#~ "view. It is exposed here for "
+#~ "reference and for power users who "
+#~ "may want to alter specific parameters."
+#~ msgstr "Параметры отчёта в формате JSON."
+
+#~ msgid "Owners is a list of users who can alter the dashboard."
+#~ msgstr "Владельцы - это список пользователей, которые могут изменять отчёт."
+
+#~ msgid "Dashboard"
+#~ msgstr "Отчёт"
+
+#~ msgid "Slug"
+#~ msgstr "Читаемый URL"
+
+#~ msgid "Position JSON"
+#~ msgstr "Позиция JSON"
+
+#~ msgid "JSON Metadata"
+#~ msgstr "Параметры JSON"
+
+#~ msgid "Underlying Tables"
+#~ msgstr "Базовые таблицы"
+
+#~ msgid "Export"
+#~ msgstr "Экспорт"
+
+#~ msgid "Export dashboards?"
+#~ msgstr "Экспортировать отчет?"
+
+#~ msgid "Action"
+#~ msgstr "Действия"
+
+#~ msgid "dttm"
+#~ msgstr "Время"
+
+#~ msgid "Action Log"
+#~ msgstr "Журнал Действий"
+
+#~ msgid "Access was requested"
+#~ msgstr "Запрошен доступ"
+
+#~ msgid ""
+#~ "%(user)s was granted the role %(role)s"
+#~ " that gives access to the "
+#~ "%(datasource)s"
+#~ msgstr ""
+#~ "%(user)s была предоставлена роль %(role)s, "
+#~ "которая дает доступ к ресурсам "
+#~ "%(datasource)s"
+
+#~ msgid "Role %(r)s was extended to provide the access to the datasource %(ds)s"
+#~ msgstr ""
+#~ "Роль %(r) s была расширена для "
+#~ "обеспечения доступа к источнику данных "
+#~ "%(ds)s"
+
+#~ msgid "You have no permission to approve this request"
+#~ msgstr "У вас нет разрешения на утверждение этого запроса"
+
+#~ msgid "You don't have the rights to "
+#~ msgstr "У вас нет прав на "
+
+#~ msgid "alter this "
+#~ msgstr "изменить этот "
+
+#~ msgid "chart"
+#~ msgstr "график"
+
+#~ msgid "create a "
+#~ msgstr "создать "
+
+#~ msgid "dashboard"
+#~ msgstr "отчёт"
+
+#~ msgid ""
+#~ "Malformed request. slice_id or table_name "
+#~ "and db_name arguments are expected"
+#~ msgstr ""
+#~ "Неправильный запрос. Ожидаются аргументы "
+#~ "slice_id или table_name и db_name"
+
+#~ msgid "Slice %(id)s not found"
+#~ msgstr "Отчёт %(id)s не найден"
+
+#~ msgid "Table %(t)s wasn't found in the database %(d)s"
+#~ msgstr "Таблица %(t)s не найдена в базе данных %(d)s"
+
+#~ msgid "Can't find User '%(name)s', please ask your admin to create one."
+#~ msgstr ""
+#~ "Не удалось найти пользователя ‘%(name)s’. "
+#~ "Обратитесь к администратору, чтобы создать "
+#~ "его."
+
+#~ msgid "Can't find DruidCluster with cluster_name = '%(name)s'"
+#~ msgstr "Не удалось найти DruidCluster с именем cluster_name = ‘%(name)s’"
+
+#~ msgid "Query record was not created as expected."
+#~ msgstr "Запись запроса не была создана должным образом."
+
+#~ msgid "Template Name"
+#~ msgstr "Имя Шаблона"
+
+#~ msgid "CSS Templates"
+#~ msgstr "Шаблоны CSS"
+
+#~ msgid "SQL Editor"
+#~ msgstr "Редактор SQL"
+
+#~ msgid "SQL Lab"
+#~ msgstr "Лаборатория"
+
+#~ msgid "Query Search"
+#~ msgstr "Поиск запросов"
+
+#~ msgid "Upload a CSV"
+#~ msgstr "Загрузить CSV"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Start Time"
+#~ msgstr "Время начала"
+
+#~ msgid "End Time"
+#~ msgstr "Время окончания"
+
+#~ msgid "Queries"
+#~ msgstr "Запросы"
+
+#~ msgid "List Saved Query"
+#~ msgstr "Список сохраненных запросов"
+
+#~ msgid "Show Saved Query"
+#~ msgstr "Показать сохраненный запрос"
+
+#~ msgid "Add Saved Query"
+#~ msgstr "Добавить сохраненный запрос"
+
+#~ msgid "Edit Saved Query"
+#~ msgstr "Изменить сохраненный запрос"
+
+#~ msgid "Pop Tab Link"
+#~ msgstr "Открыть"
+
+#~ msgid "Changed on"
+#~ msgstr "Изменено"
+
+#~ msgid "Saved Queries"
+#~ msgstr "Сохраненные запросы"

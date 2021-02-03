@@ -1,0 +1,3330 @@
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-06-07 00:22-0700\n"
+"PO-Revision-Date: 2018-02-23 13:55-0300\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: superset/assets/src/explore/controls.jsx:818 superset/db_engine_specs.py:343
+#: superset/db_engine_specs.py:393 superset/db_engine_specs.py:422
+#: superset/db_engine_specs.py:447 superset/db_engine_specs.py:499
+#: superset/db_engine_specs.py:561 superset/db_engine_specs.py:625
+#: superset/db_engine_specs.py:1190 superset/db_engine_specs.py:1232
+#: superset/db_engine_specs.py:1287 superset/db_engine_specs.py:1332
+#: superset/db_engine_specs.py:1365 superset/db_engine_specs.py:1395
+#: superset/db_engine_specs.py:1413
+msgid "Time Column"
+msgstr "Coluna de tempo"
+
+#: superset/db_engine_specs.py:344 superset/db_engine_specs.py:394
+#: superset/db_engine_specs.py:448 superset/db_engine_specs.py:562
+#: superset/db_engine_specs.py:626 superset/db_engine_specs.py:1191
+#: superset/db_engine_specs.py:1233 superset/db_engine_specs.py:1333
+#: superset/db_engine_specs.py:1396 superset/db_engine_specs.py:1414
+msgid "second"
+msgstr "segundo"
+
+#: superset/db_engine_specs.py:346 superset/db_engine_specs.py:395
+#: superset/db_engine_specs.py:423 superset/db_engine_specs.py:452
+#: superset/db_engine_specs.py:566 superset/db_engine_specs.py:629
+#: superset/db_engine_specs.py:1194 superset/db_engine_specs.py:1236
+#: superset/db_engine_specs.py:1288 superset/db_engine_specs.py:1334
+#: superset/db_engine_specs.py:1366 superset/db_engine_specs.py:1397
+#: superset/db_engine_specs.py:1417
+msgid "minute"
+msgstr "minuto"
+
+#: superset/db_engine_specs.py:348 superset/db_engine_specs.py:396
+#: superset/db_engine_specs.py:424 superset/db_engine_specs.py:457
+#: superset/db_engine_specs.py:500 superset/db_engine_specs.py:569
+#: superset/db_engine_specs.py:632 superset/db_engine_specs.py:1203
+#: superset/db_engine_specs.py:1239 superset/db_engine_specs.py:1297
+#: superset/db_engine_specs.py:1335 superset/db_engine_specs.py:1367
+#: superset/db_engine_specs.py:1398 superset/db_engine_specs.py:1420
+msgid "hour"
+msgstr "hora"
+
+#: superset/db_engine_specs.py:350 superset/db_engine_specs.py:397
+#: superset/db_engine_specs.py:425 superset/db_engine_specs.py:463
+#: superset/db_engine_specs.py:503 superset/db_engine_specs.py:572
+#: superset/db_engine_specs.py:635 superset/db_engine_specs.py:1206
+#: superset/db_engine_specs.py:1242 superset/db_engine_specs.py:1300
+#: superset/db_engine_specs.py:1336 superset/db_engine_specs.py:1368
+#: superset/db_engine_specs.py:1399 superset/db_engine_specs.py:1423
+msgid "day"
+msgstr "dia"
+
+#: superset/db_engine_specs.py:352 superset/db_engine_specs.py:398
+#: superset/db_engine_specs.py:426 superset/db_engine_specs.py:470
+#: superset/db_engine_specs.py:504 superset/db_engine_specs.py:573
+#: superset/db_engine_specs.py:638 superset/db_engine_specs.py:1209
+#: superset/db_engine_specs.py:1245 superset/db_engine_specs.py:1337
+#: superset/db_engine_specs.py:1369 superset/db_engine_specs.py:1400
+#: superset/db_engine_specs.py:1426
+msgid "week"
+msgstr "semana"
+
+#~ msgid "month"
+#~ msgstr "mês"
+
+#~ msgid "quarter"
+#~ msgstr "trimestre"
+
+#~ msgid "year"
+#~ msgstr "ano"
+
+#~ msgid "week_start_monday"
+#~ msgstr "week_start_monday"
+
+#~ msgid "week_ending_saturday"
+#~ msgstr "week_ending_saturday"
+
+#~ msgid "week_start_sunday"
+#~ msgstr "week_start_sunday"
+
+#~ msgid "5 minute"
+#~ msgstr "5 minutos"
+
+#~ msgid "half hour"
+#~ msgstr "meia hora"
+
+#~ msgid "10 minute"
+#~ msgstr "10 minutos"
+
+#~ msgid "[Superset] Access to the datasource %(name)s was granted"
+#~ msgstr "[Superset] O acesso à fonte de dados %(name) s foi concedido"
+
+#~ msgid "Viz is missing a datasource"
+#~ msgstr "Viz está faltando uma fonte de dados"
+
+#~ msgid "From date cannot be larger than to date"
+#~ msgstr "Desde a data não pode ser maior do que até a data"
+
+#~ msgid "Table View"
+#~ msgstr "Vista de mesa"
+
+#~ msgid "Pick a granularity in the Time section or uncheck 'Include Time'"
+#~ msgstr "Escolha uma granularidade na seção Tempo ou desmarque 'Incluir hora'"
+
+#~ msgid "Choose either fields to [Group By] and [Metrics] or [Columns], not both"
+#~ msgstr ""
+#~ "Escolha os campos para [Agrupar por] "
+#~ "e [Métricas] ou [Colunas], nem ambos"
+
+#~ msgid "Time Table View"
+#~ msgstr "Visualização da tabela de tempo"
+
+#~ msgid "Pick at least one metric"
+#~ msgstr "Escolha pelo menos uma métrica"
+
+#~ msgid "When using 'Group By' you are limited to use a single metric"
+#~ msgstr "Ao usar 'Group By' você está limitado a usar uma única métrica"
+
+#~ msgid "Pivot Table"
+#~ msgstr "Pivot Table"
+
+#~ msgid "Please choose at least one \"Group by\" field "
+#~ msgstr "Escolha pelo menos um campo \"Agrupar por\""
+
+#~ msgid "Please choose at least one metric"
+#~ msgstr "Escolha pelo menos uma métrica"
+
+#~ msgid "'Group By' and 'Columns' can't overlap"
+#~ msgstr "'Group By' e 'Columns' não podem se sobrepor"
+
+#~ msgid "Markup"
+#~ msgstr "Marcação"
+
+#~ msgid "Separator"
+#~ msgstr "Separador"
+
+#~ msgid "Word Cloud"
+#~ msgstr "Palavra nuvem"
+
+#~ msgid "Treemap"
+#~ msgstr "Treemap"
+
+#~ msgid "Calendar Heatmap"
+#~ msgstr "Calendário Heatmap"
+
+#~ msgid "Box Plot"
+#~ msgstr "Parcela"
+
+#~ msgid "Bubble Chart"
+#~ msgstr "Gráfico de bolhas"
+
+#~ msgid "Pick a metric for x, y and size"
+#~ msgstr "Escolha uma métrica para x, y e tamanho"
+
+#~ msgid "Bullet Chart"
+#~ msgstr "Gráfico de bala"
+
+#~ msgid "Pick a metric to display"
+#~ msgstr "Escolha uma métrica para exibir"
+
+#~ msgid "Big Number with Trendline"
+#~ msgstr "Número grande com Trendline"
+
+#~ msgid "Pick a metric!"
+#~ msgstr "Escolha uma métrica!"
+
+#~ msgid "Big Number"
+#~ msgstr "Número grande"
+
+#~ msgid "Time Series - Line Chart"
+#~ msgstr "Série de tempo - Gráfico de linhas"
+
+#~ msgid "Pick a time granularity for your time series"
+#~ msgstr "Escolha uma granularidade de tempo para suas séries temporais"
+
+#~ msgid "Time Series - Dual Axis Line Chart"
+#~ msgstr "Série de tempo - Gráfico de linha de dois eixos"
+
+#~ msgid "Pick a metric for left axis!"
+#~ msgstr "Escolha uma métrica para o eixo esquerdo!"
+
+#~ msgid "Pick a metric for right axis!"
+#~ msgstr "Escolha uma métrica para o eixo direito!"
+
+#~ msgid "Please choose different metrics on left and right axis"
+#~ msgstr "Escolha diferentes métricas no eixo esquerdo e direito"
+
+#~ msgid "Time Series - Bar Chart"
+#~ msgstr "Série de tempo - Gráfico de barras"
+
+#~ msgid "Time Series - Percent Change"
+#~ msgstr "Série de tempo - Mudança de porcentagem"
+
+#~ msgid "Time Series - Stacked"
+#~ msgstr "Série de tempo - empilhadas"
+
+#~ msgid "Distribution - NVD3 - Pie Chart"
+#~ msgstr "Distribuição - NVD3 - Gráfico de torta"
+
+#~ msgid "Histogram"
+#~ msgstr "Histograma"
+
+#~ msgid "Must have one numeric column specified"
+#~ msgstr "Deve ter uma coluna numérica especificada"
+
+#~ msgid "Distribution - Bar Chart"
+#~ msgstr "Distribuição - Gráfico de barras"
+
+#~ msgid "Can't have overlap between Series and Breakdowns"
+#~ msgstr "Não pode haver sobreposição entre Series e Breakdowns"
+
+#~ msgid "Pick at least one field for [Series]"
+#~ msgstr "Escolha pelo menos um campo para [Series]"
+
+#~ msgid "Sunburst"
+#~ msgstr "Sunburst"
+
+#~ msgid "Sankey"
+#~ msgstr "Sankey"
+
+#~ msgid "Pick exactly 2 columns as [Source / Target]"
+#~ msgstr "Escolha exatamente 2 colunas como [Origem / Alvo]"
+
+#~ msgid ""
+#~ "There's a loop in your Sankey, "
+#~ "please provide a tree. Here's a "
+#~ "faulty link: {}"
+#~ msgstr ""
+#~ "Há um loop em seu Sankey, por "
+#~ "favor, forneça uma árvore. Aqui está "
+#~ "um link defeituoso: {}"
+
+#~ msgid "Directed Force Layout"
+#~ msgstr "Layout de Força Dirigida"
+
+#~ msgid "Pick exactly 2 columns to 'Group By'"
+#~ msgstr "Escolha exatamente 2 colunas para 'Agrupar por'"
+
+#~ msgid "Country Map"
+#~ msgstr "Mapa do País"
+
+#~ msgid "World Map"
+#~ msgstr "Mapa mundial"
+
+#~ msgid "Filters"
+#~ msgstr "Filtros"
+
+#~ msgid "Pick at least one filter field"
+#~ msgstr "Escolha pelo menos um campo de filtro"
+
+#~ msgid "iFrame"
+#~ msgstr "iFrame"
+
+#~ msgid "Parallel Coordinates"
+#~ msgstr "Coordenadas paralelas"
+
+#~ msgid "Heatmap"
+#~ msgstr "Mapa de calor"
+
+#~ msgid "Horizon Charts"
+#~ msgstr "Gráficos Horizon"
+
+#~ msgid "Mapbox"
+#~ msgstr "Mapbox"
+
+#~ msgid "Must have a [Group By] column to have 'count' as the [Label]"
+#~ msgstr "Deve ter uma coluna [Group By] para ter 'count' como [Label]"
+
+#~ msgid "Choice of [Label] must be present in [Group By]"
+#~ msgstr "A escolha de [Label] deve estar presente em [Group By]"
+
+#~ msgid "Choice of [Point Radius] must be present in [Group By]"
+#~ msgstr "A escolha de [Raio do ponto] deve estar presente em [Grupo]"
+
+#~ msgid "[Longitude] and [Latitude] columns must be present in [Group By]"
+#~ msgstr "[Longitude] e as colunas [Latitude] devem estar presentes em [Group By]"
+
+#~ msgid "Event flow"
+#~ msgstr "Fluxo de eventos"
+
+#~ msgid "Time Series - Paired t-test"
+#~ msgstr "Série temporal - teste emparelhado t"
+
+#~ msgid "Partition Diagram"
+#~ msgstr "Diagrama de Partição"
+
+#~ msgid "Your query was saved"
+#~ msgstr "Sua consulta foi salva"
+
+#~ msgid "Your query could not be saved"
+#~ msgstr "Sua consulta não pôde ser salva"
+
+#~ msgid "Failed at retrieving results from the results backend"
+#~ msgstr "Falha na recuperação de resultados do backend de resultados"
+
+#~ msgid "Could not connect to server"
+#~ msgstr "Não pode conectar ao servidor"
+
+#~ msgid "Your session timed out, please refresh your page and try again."
+#~ msgstr "Sua sessão expirou, atualize sua página e tente novamente."
+
+#~ msgid "Query was stopped."
+#~ msgstr "A consulta foi interrompida."
+
+#~ msgid "Failed at stopping query."
+#~ msgstr "Falha ao parar a consulta."
+
+#~ msgid "Error occurred while fetching table metadata"
+#~ msgstr "Ocorreu um erro ao buscar metadados na tabela"
+
+#~ msgid "shared query"
+#~ msgstr "consulta compartilhada"
+
+#~ msgid "The query couldn't be loaded"
+#~ msgstr "A consulta não pôde ser carregada"
+
+#~ msgid "An error occurred while creating the data source"
+#~ msgstr "Ocorreu um erro ao criar a fonte de dados"
+
+#~ msgid "Pick a chart type!"
+#~ msgstr "Escolha um tipo de gráfico!"
+
+#~ msgid "To use this chart type you need at least one column flagged as a date"
+#~ msgstr ""
+#~ "Para usar este tipo de gráfico, "
+#~ "você precisa de pelo menos uma "
+#~ "coluna marcada como data"
+
+#~ msgid "To use this chart type you need at least one dimension"
+#~ msgstr "Para usar este tipo de gráfico, você precisa de pelo menos uma dimensão"
+
+#~ msgid "To use this chart type you need at least one aggregation function"
+#~ msgstr ""
+#~ "Para usar este tipo de gráfico, "
+#~ "você precisa de pelo menos uma "
+#~ "função de agregação"
+
+#~ msgid "Untitled Query"
+#~ msgstr "Consulta sem título"
+
+#~ msgid "Copy of %s"
+#~ msgstr "Cópia de %s"
+
+#~ msgid "share query"
+#~ msgstr "compartilhar consulta"
+
+#~ msgid "copy URL to clipboard"
+#~ msgstr "copiar URL para a área de transferência"
+
+#~ msgid "Raw SQL"
+#~ msgstr "Raw SQL"
+
+#~ msgid "Source SQL"
+#~ msgstr "Fonte SQL"
+
+#~ msgid "SQL"
+#~ msgstr "SQL"
+
+#~ msgid "No query history yet..."
+#~ msgstr "Ainda não há histórico de consultas ..."
+
+#~ msgid "It seems you don't have access to any database"
+#~ msgstr "Parece que você não tem acesso a qualquer banco de dados"
+
+#~ msgid "Search Results"
+#~ msgstr "Procurar Resultados"
+
+#~ msgid "[From]-"
+#~ msgstr "[A partir de]-"
+
+#~ msgid "[To]-"
+#~ msgstr "[Para]-"
+
+#~ msgid "[Query Status]"
+#~ msgstr "[Status da consulta]"
+
+#~ msgid "Search"
+#~ msgstr "Pesquisa"
+
+#~ msgid "Open in SQL Editor"
+#~ msgstr "Abrir no Editor de SQL"
+
+#~ msgid "view results"
+#~ msgstr "Ver resultados"
+
+#~ msgid "Data preview"
+#~ msgstr "Visualização de dados"
+
+#~ msgid "Visualize the data out of this query"
+#~ msgstr "Visualize os dados desta consulta"
+
+#~ msgid "Overwrite text in editor with a query on this table"
+#~ msgstr "Substitua texto no editor com uma consulta nesta tabela"
+
+#~ msgid "Run query in a new tab"
+#~ msgstr "Executar consulta em uma nova guia"
+
+#~ msgid "Remove query from log"
+#~ msgstr "Remover consulta do log"
+
+#~ msgid ".CSV"
+#~ msgstr ".CSV"
+
+#~ msgid "Visualize"
+#~ msgstr "Visualize"
+
+#~ msgid "Table"
+#~ msgstr "Mesa"
+
+#~ msgid "was created"
+#~ msgstr "foi criado"
+
+#~ msgid "Query in a new tab"
+#~ msgstr "Consulta em uma nova guia"
+
+#~ msgid "Fetch data preview"
+#~ msgstr "Obter a visualização de dados"
+
+#~ msgid "Track Job"
+#~ msgstr "Acompanhe o emprego"
+
+#~ msgid "Loading..."
+#~ msgstr "Carregando..."
+
+#~ msgid "Run Selected Query"
+#~ msgstr "Executar consulta selecionada"
+
+#~ msgid "Run Query"
+#~ msgstr "Executar consulta"
+
+#~ msgid "Run query asynchronously"
+#~ msgstr "Execute a consulta de forma assíncrona"
+
+#~ msgid "Stop"
+#~ msgstr "Pare"
+
+#~ msgid "Undefined"
+#~ msgstr "Undefined"
+
+#~ msgid "Label"
+#~ msgstr "Rótulo"
+
+#~ msgid "Label for your query"
+#~ msgstr "Etiqueta para sua consulta"
+
+#~ msgid "Description"
+#~ msgstr "Descrição"
+
+#~ msgid "Write a description for your query"
+#~ msgstr "Escreva uma descrição para sua consulta"
+
+#~ msgid "Save"
+#~ msgstr "Salvar"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Save Query"
+#~ msgstr "Salvar Consulta"
+
+#~ msgid "Run a query to display results here"
+#~ msgstr "Execute uma consulta para exibir resultados aqui"
+
+#~ msgid "Preview for %s"
+#~ msgstr "Visualização para %s"
+
+#~ msgid "Results"
+#~ msgstr "Resultados"
+
+#~ msgid "Query History"
+#~ msgstr "Histórico de consultas"
+
+#~ msgid "Create table as with query results"
+#~ msgstr "Criar tabela como com resultados de consulta"
+
+#~ msgid "new table name"
+#~ msgstr "novo nome da tabela"
+
+#~ msgid "Error while fetching table list"
+#~ msgstr "Erro ao buscar a lista de tabelas"
+
+#~ msgid "Error while fetching schema list"
+#~ msgstr "Erro ao buscar a lista de esquema"
+
+#~ msgid "Error while fetching database list"
+#~ msgstr "Erro ao buscar a lista do banco de dados"
+
+#~ msgid "Database:"
+#~ msgstr "Base de dados:"
+
+#~ msgid "Select a database"
+#~ msgstr "Selecione um banco de dados"
+
+#~ msgid "Select a schema (%s)"
+#~ msgstr "Selecione um esquema (%s)"
+
+#~ msgid "Schema:"
+#~ msgstr "Esquema:"
+
+#~ msgid "Add a table (%s)"
+#~ msgstr "Adicionar uma tabela (%s)"
+
+#~ msgid "Type to search ..."
+#~ msgstr "Escreva para pesquisar ..."
+
+#~ msgid "Reset State"
+#~ msgstr "Repor Estado"
+
+#~ msgid "Enter a new title for the tab"
+#~ msgstr "Digite um novo título para a guia"
+
+#~ msgid "Untitled Query %s"
+#~ msgstr "Consulta sem título %s"
+
+#~ msgid "close tab"
+#~ msgstr "aba fechada"
+
+#~ msgid "rename tab"
+#~ msgstr "guia renomear"
+
+#~ msgid "expand tool bar"
+#~ msgstr "barra de ferramentas de expansão"
+
+#~ msgid "hide tool bar"
+#~ msgstr "ocultar barra de ferramentas"
+
+#~ msgid "Copy partition query to clipboard"
+#~ msgstr "Copie a consulta de partição para a área de transferência"
+
+#~ msgid "latest partition:"
+#~ msgstr "última partição:"
+
+#~ msgid "Keys for table"
+#~ msgstr "Chaves para mesa"
+
+#~ msgid "View keys & indexes (%s)"
+#~ msgstr "Ver chaves e índices (%s)"
+
+#~ msgid "Sort columns alphabetically"
+#~ msgstr "Classifique as colunas em ordem alfabética"
+
+#~ msgid "Original table column order"
+#~ msgstr "Ordem de coluna da tabela original"
+
+#~ msgid "Copy SELECT statement to clipboard"
+#~ msgstr "Copie a instrução SELECT para a área de transferência"
+
+#~ msgid "Remove table preview"
+#~ msgstr "Remover a visualização da tabela"
+
+#~ msgid ""
+#~ "%s is not right as a column "
+#~ "name, please alias it (as in "
+#~ "SELECT count(*) "
+#~ msgstr ""
+#~ "%s não está certo como um nome "
+#~ "de coluna, por favor, alias (como "
+#~ "na contagem SELECT (*)"
+
+#~ msgid "AS my_alias"
+#~ msgstr "AS my_alias"
+
+#~ msgid "using only alphanumeric characters and underscores"
+#~ msgstr "usando apenas caracteres alfanuméricos e sublinhados"
+
+#~ msgid "Creating a data source and popping a new tab"
+#~ msgstr "Criando uma fonte de dados e exibindo uma nova guia"
+
+#~ msgid "No results available for this query"
+#~ msgstr "Nenhum resultado disponível para esta consulta"
+
+#~ msgid "Chart Type"
+#~ msgstr "Tipo de gráfico"
+
+#~ msgid "[Chart Type]"
+#~ msgstr "[Tipo de gráfico]"
+
+#~ msgid "Datasource Name"
+#~ msgstr "Nome da fonte de dados"
+
+#~ msgid "datasource name"
+#~ msgstr "nome da fonte de dados"
+
+#~ msgid "Create a new slice"
+#~ msgstr "Crie uma nova fatia"
+
+#~ msgid "Choose a datasource"
+#~ msgstr "Escolha uma fonte de dados"
+
+#~ msgid "Choose a visualization type"
+#~ msgstr "Escolha um tipo de visualização"
+
+#~ msgid "Create new slice"
+#~ msgstr "Crie uma nova fatia"
+
+#~ msgid "Select ..."
+#~ msgstr "Selecione ..."
+
+#~ msgid "Loaded data cached"
+#~ msgstr "Dados carregados em cache"
+
+#~ msgid "Loaded from cache"
+#~ msgstr "Carregado do cache"
+
+#~ msgid "Click to force-refresh"
+#~ msgstr "Clique para forçar a atualização"
+
+#~ msgid "Copy to clipboard"
+#~ msgstr "Copiar para área de transferência"
+
+#~ msgid "Not successful"
+#~ msgstr "Não foi bem sucedido"
+
+#~ msgid "Sorry, your browser does not support copying. Use Ctrl / Cmd + C!"
+#~ msgstr "Desculpe, o seu navegador não suporta a cópia. Use Ctrl / Cmd + C!"
+
+#~ msgid "Copied!"
+#~ msgstr "Copiado!"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "click to edit title"
+#~ msgstr "Clique para editar o título"
+
+#~ msgid "You don't have the rights to alter this title."
+#~ msgstr "Você não tem os direitos de alterar este título."
+
+#~ msgid "Click to favorite/unfavorite"
+#~ msgstr "Clique para favoritar / desfavoritar"
+
+#~ msgid "You have unsaved changes."
+#~ msgstr "Você tem alterações não salvas."
+
+#~ msgid "Click the"
+#~ msgstr "Clique no"
+
+#~ msgid "button on the top right to save your changes."
+#~ msgstr "botão no canto superior direito para salvar suas alterações."
+
+#~ msgid "Served from data cached %s . Click to force refresh."
+#~ msgstr ""
+#~ "Servido a partir de dados em cache"
+#~ " %s. Clique para forçar a "
+#~ "atualização."
+
+#~ msgid "Click to force refresh"
+#~ msgstr "Clique para forçar a atualização"
+
+#~ msgid "Error"
+#~ msgstr "Erro"
+
+#~ msgid "Sorry, there was an error adding slices to this dashboard: %s"
+#~ msgstr "Desculpe, houve um erro ao adicionar fatias a este painel: %s"
+
+#~ msgid "Active Dashboard Filters"
+#~ msgstr "Filtros Active Dashboard"
+
+#~ msgid "Checkout this dashboard: %s"
+#~ msgstr "Marque este painel: %s"
+
+#~ msgid "Force refresh the whole dashboard"
+#~ msgstr "Forçar a atualização do painel inteiro"
+
+#~ msgid "Edit this dashboard's properties"
+#~ msgstr "Edite as propriedades deste painel"
+
+#~ msgid "Load a template"
+#~ msgstr "Carregue um modelo"
+
+#~ msgid "Load a CSS template"
+#~ msgstr "Carregue um modelo CSS"
+
+#~ msgid "CSS"
+#~ msgstr "CSS"
+
+#~ msgid "Live CSS Editor"
+#~ msgstr "Live CSS Editor"
+
+#~ msgid "Don't refresh"
+#~ msgstr "Não atualize"
+
+#~ msgid "10 seconds"
+#~ msgstr "10 segundos"
+
+#~ msgid "30 seconds"
+#~ msgstr "30 segundos"
+
+#~ msgid "1 minute"
+#~ msgstr "1 minuto"
+
+#~ msgid "5 minutes"
+#~ msgstr "5 minutos"
+
+#~ msgid "Refresh Interval"
+#~ msgstr "Intervalo de atualização"
+
+#~ msgid "Choose the refresh frequency for this dashboard"
+#~ msgstr "Escolha a frequência de atualização para este painel de controle"
+
+#~ msgid "This dashboard was saved successfully."
+#~ msgstr "Este painel de controle foi salvo com sucesso."
+
+#~ msgid "Sorry, there was an error saving this dashboard: "
+#~ msgstr "Desculpe, houve um erro ao salvar este painel:"
+
+#~ msgid "You must pick a name for the new dashboard"
+#~ msgstr "Você deve escolher um nome para o novo painel de controle"
+
+#~ msgid "Save Dashboard"
+#~ msgstr "Save Dashboard"
+
+#~ msgid "Overwrite Dashboard [%s]"
+#~ msgstr "Overwrite Dashboard [%s]"
+
+#~ msgid "Save as:"
+#~ msgstr "Salvar como:"
+
+#~ msgid "[dashboard name]"
+#~ msgstr "[Nome do painel]"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Viz"
+#~ msgstr "Veja"
+
+#~ msgid "Modified"
+#~ msgstr "Modificado"
+
+#~ msgid "Add Slices"
+#~ msgstr "Adicionar fatias"
+
+#~ msgid "Add a new slice to the dashboard"
+#~ msgstr "Adicione uma nova fatia ao painel"
+
+#~ msgid "Add Slices to Dashboard"
+#~ msgstr "Adicione fatias ao painel de instrumentos"
+
+#~ msgid "Move chart"
+#~ msgstr "Mover gráfico"
+
+#~ msgid "Force refresh data"
+#~ msgstr "Forçar dados de atualização"
+
+#~ msgid "Toggle chart description"
+#~ msgstr "Alternar descrição do gráfico"
+
+#~ msgid "Edit chart"
+#~ msgstr "Editar gráfico"
+
+#~ msgid "Export CSV"
+#~ msgstr "Exportar CSV"
+
+#~ msgid "Explore chart"
+#~ msgstr "Explore gráfico"
+
+#~ msgid "Remove chart from dashboard"
+#~ msgstr "Remova o gráfico do painel"
+
+#~ msgid "is expected to be a number"
+#~ msgstr "é esperado que seja um número"
+
+#~ msgid "is expected to be an integer"
+#~ msgstr "espera-se que seja um número inteiro"
+
+#~ msgid "cannot be empty"
+#~ msgstr "não pode estar vazio"
+
+#~ msgid "%s - untitled"
+#~ msgstr "%s - sem título"
+
+#~ msgid "Edit slice properties"
+#~ msgstr "Editar propriedades da fatia"
+
+#~ msgid "description"
+#~ msgstr "descrição"
+
+#~ msgid "bolt"
+#~ msgstr "parafuso"
+
+#~ msgid "Changing this control takes effect instantly"
+#~ msgstr "Alterar esse controle é efetivo instantaneamente"
+
+#~ msgid "Error..."
+#~ msgstr "Erro..."
+
+#~ msgid "Query"
+#~ msgstr "Inquerir"
+
+#~ msgid "Height"
+#~ msgstr "Altura"
+
+#~ msgid "Width"
+#~ msgstr "Largura"
+
+#~ msgid "Export to .json"
+#~ msgstr "Exportar para .json"
+
+#~ msgid "Export to .csv format"
+#~ msgstr "Exportar para o formato .csv"
+
+#~ msgid "Please enter a slice name"
+#~ msgstr "Digite um nome de fatia"
+
+#~ msgid "Please select a dashboard"
+#~ msgstr "Selecione um painel de controle"
+
+#~ msgid "Please enter a dashboard name"
+#~ msgstr "Digite um nome de painel"
+
+#~ msgid "Save A Slice"
+#~ msgstr "Salvar uma fatia"
+
+#~ msgid "Overwrite slice %s"
+#~ msgstr "Substitua a fatia %s"
+
+#~ msgid "Save as"
+#~ msgstr "Salvar como"
+
+#~ msgid "[slice name]"
+#~ msgstr "[nome da fatia]"
+
+#~ msgid "Do not add to a dashboard"
+#~ msgstr "Não adicione um painel"
+
+#~ msgid "Add slice to existing dashboard"
+#~ msgstr "Adicione uma fatia ao painel de controle existente"
+
+#~ msgid "Add to new dashboard"
+#~ msgstr "Adicionar ao novo painel"
+
+#~ msgid "Save & go to dashboard"
+#~ msgstr "Salve e vá para o painel de bordo"
+
+#~ msgid "Check out this slice: %s"
+#~ msgstr "Confira esta fatia: %s"
+
+#~ msgid "`Min` value should be numeric or empty"
+#~ msgstr "O valor `Min` deve ser numérico ou vazio"
+
+#~ msgid "`Max` value should be numeric or empty"
+#~ msgstr "O valor `Max` deve ser numérico ou vazio"
+
+#~ msgid "Min"
+#~ msgstr "Min"
+
+#~ msgid "Max"
+#~ msgstr "Max"
+
+#~ msgid "Something went wrong while fetching the datasource list"
+#~ msgstr "Algo deu errado ao buscar a lista de fontes de dados"
+
+#~ msgid "Click to point to another datasource"
+#~ msgstr "Clique para apontar para outra fonte de dados"
+
+#~ msgid "Edit the datasource's configuration"
+#~ msgstr "Edite a configuração da fonte de dados"
+
+#~ msgid "Select a datasource"
+#~ msgstr "Selecione uma fonte de dados"
+
+#~ msgid "Search / Filter"
+#~ msgstr "Pesquisa / Filtro"
+
+#~ msgid "Filter value"
+#~ msgstr "Valor de filtro"
+
+#~ msgid "Select metric"
+#~ msgstr "Selecione a métrica"
+
+#~ msgid "Select column"
+#~ msgstr "Selecione a coluna"
+
+#~ msgid "Select operator"
+#~ msgstr "Selecione o operador"
+
+#~ msgid "Add Filter"
+#~ msgstr "Adicionar filtro"
+
+#~ msgid "Error while fetching data"
+#~ msgstr "Erro ao buscar dados"
+
+#~ msgid "Select %s"
+#~ msgstr "Selecione %s"
+
+#~ msgid "textarea"
+#~ msgstr "textarea"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "in modal"
+#~ msgstr "em modal"
+
+#~ msgid "Select a visualization type"
+#~ msgstr "Selecione um tipo de visualização"
+
+#~ msgid "Updating chart was stopped"
+#~ msgstr "O mapa de atualização foi interrompido"
+
+#~ msgid "An error occurred while rendering the visualization: %s"
+#~ msgstr "Ocorreu um erro ao renderizar a visualização: %s"
+
+#~ msgid ""
+#~ "Perhaps your data has grown, your "
+#~ "database is under unusual load, or "
+#~ "you are simply querying a data "
+#~ "source that is to large to be "
+#~ "processed within the timeout range. If"
+#~ " that is the case, we recommend "
+#~ "that you summarize your data further."
+#~ msgstr ""
+#~ "Talvez seus dados tenham crescido, seu"
+#~ " banco de dados está sob carga "
+#~ "incomum, ou você está simplesmente "
+#~ "consultando uma fonte de dados que "
+#~ "seja grande para ser processada dentro"
+#~ " do intervalo de tempo limite. Se "
+#~ "for esse o caso, recomendamos que "
+#~ "você sintetize seus dados ainda mais."
+
+#~ msgid "Network error."
+#~ msgstr "Erro de rede."
+
+#~ msgid ""
+#~ "A reference to the [Time] configuration,"
+#~ " taking granularity into account"
+#~ msgstr ""
+#~ "Uma referência à configuração [Time], "
+#~ "levando em consideração a granularidade"
+
+#~ msgid "Group by"
+#~ msgstr "Agrupar por"
+
+#~ msgid "One or many controls to group by"
+#~ msgstr "Um ou vários controles para agrupar"
+
+#~ msgid "Datasource"
+#~ msgstr "Fonte de dados"
+
+#~ msgid "Visualization Type"
+#~ msgstr "Tipo de Visualização"
+
+#~ msgid "The type of visualization to display"
+#~ msgstr "O tipo de visualização a ser exibida"
+
+#~ msgid "Metrics"
+#~ msgstr "Métricas"
+
+#~ msgid "One or many metrics to display"
+#~ msgstr "Uma ou várias métricas para exibir"
+
+#~ msgid "Percentage Metrics"
+#~ msgstr "Métricas percentuais"
+
+#~ msgid "Metrics for which percentage of total are to be displayed"
+#~ msgstr "Métricas para qual porcentagem do total deve ser exibida"
+
+#~ msgid "Y Axis Bounds"
+#~ msgstr "Y Axis Bounds"
+
+#~ msgid ""
+#~ "Bounds for the Y axis. When left"
+#~ " empty, the bounds are dynamically "
+#~ "defined based on the min/max of "
+#~ "the data. Note that this feature "
+#~ "will only expand the axis range. "
+#~ "It won't narrow the data's extent."
+#~ msgstr ""
+#~ "Limites para o eixo Y. Quando "
+#~ "deixados vazios, os limites são "
+#~ "definidos dinamicamente com base no min"
+#~ " / max dos dados. Observe que "
+#~ "esse recurso expandirá apenas o alcance"
+#~ " do eixo. Não restringirá a extensão"
+#~ " dos dados."
+
+#~ msgid "Ordering"
+#~ msgstr "Encomenda"
+
+#~ msgid "Annotation Layers"
+#~ msgstr "Camadas de anotação"
+
+#~ msgid "Annotation layers to overlay on the visualization"
+#~ msgstr "Camadas de anotação para sobreposição na visualização"
+
+#~ msgid "Select a annotation layer"
+#~ msgstr "Selecione uma camada de anotação"
+
+#~ msgid "Error while fetching annotation layers"
+#~ msgstr "Erro ao buscar camadas de anotações"
+
+#~ msgid "Metric"
+#~ msgstr "Métrica"
+
+#~ msgid "Choose the metric"
+#~ msgstr "Escolha a métrica"
+
+#~ msgid "Right Axis Metric"
+#~ msgstr "Metric do Eixo Direito"
+
+#~ msgid "Choose a metric for right axis"
+#~ msgstr "Escolha uma métrica para o eixo direito"
+
+#~ msgid "Stacked Style"
+#~ msgstr "Estilo empilhado"
+
+#~ msgid "Sort X Axis"
+#~ msgstr "Classificar X Axis"
+
+#~ msgid "Sort Y Axis"
+#~ msgstr "Eixo de classificação Y"
+
+#~ msgid "Linear Color Scheme"
+#~ msgstr "Esquema de cores lineares"
+
+#~ msgid "Normalize Across"
+#~ msgstr "Normalize across"
+
+#~ msgid ""
+#~ "Color will be rendered based on a"
+#~ " ratio of the cell against the "
+#~ "sum of across this criteria"
+#~ msgstr ""
+#~ "A cor será renderizada com base em"
+#~ " uma proporção da célula contra a "
+#~ "soma de este critério"
+
+#~ msgid "Horizon Color Scale"
+#~ msgstr "Horizon Color Scale"
+
+#~ msgid "Defines how the color are attributed."
+#~ msgstr "Define como a cor é atribuída."
+
+#~ msgid "Rendering"
+#~ msgstr "Renderização"
+
+#~ msgid ""
+#~ "image-rendering CSS attribute of the "
+#~ "canvas object that defines how the "
+#~ "browser scales up the image"
+#~ msgstr ""
+#~ "atributo CSS de renderização de imagem"
+#~ " do objeto de tela que define "
+#~ "como o navegador aumenta a imagem"
+
+#~ msgid "XScale Interval"
+#~ msgstr "Intervalo XScale"
+
+#~ msgid "Number of steps to take between ticks when displaying the X scale"
+#~ msgstr "Número de passos a seguir entre os tiques ao exibir a escala X"
+
+#~ msgid "YScale Interval"
+#~ msgstr "YScale Interval"
+
+#~ msgid "Number of steps to take between ticks when displaying the Y scale"
+#~ msgstr "Número de passos a seguir entre os tiques ao exibir a escala Y"
+
+#~ msgid "Include Time"
+#~ msgstr "Incluir Hora"
+
+#~ msgid "Whether to include the time granularity as defined in the time section"
+#~ msgstr ""
+#~ "Se deve incluir a granularidade do "
+#~ "tempo conforme definido na seção de "
+#~ "tempo"
+
+#~ msgid "Show percentage"
+#~ msgstr "Mostrar porcentagem"
+
+#~ msgid "Whether to include the percentage in the tooltip"
+#~ msgstr "Se deve incluir a porcentagem na dica de ferramenta"
+
+#~ msgid "Stacked Bars"
+#~ msgstr "Barras empilhadas"
+
+#~ msgid "Show totals"
+#~ msgstr "Mostrar totais"
+
+#~ msgid "Display total row/column"
+#~ msgstr "Exibir linha / coluna total"
+
+#~ msgid "Show Markers"
+#~ msgstr "Mostrar marcadores"
+
+#~ msgid "Show data points as circle markers on the lines"
+#~ msgstr "Mostrar pontos de dados como marcadores de círculo nas linhas"
+
+#~ msgid "Bar Values"
+#~ msgstr "Valores do Bar"
+
+#~ msgid "Show the value on top of the bar"
+#~ msgstr "Mostre o valor em cima da barra"
+
+#~ msgid "Sort Bars"
+#~ msgstr "Classificar Bares"
+
+#~ msgid "Sort bars by x labels."
+#~ msgstr "Classifique barras por x etiquetas."
+
+#~ msgid "Combine Metrics"
+#~ msgstr "Métricas combinadas"
+
+#~ msgid ""
+#~ "Display metrics side by side within "
+#~ "each column, as opposed to each "
+#~ "column being displayed side by side "
+#~ "for each metric."
+#~ msgstr ""
+#~ "Exibir métricas lado a lado dentro "
+#~ "de cada coluna, em oposição a cada"
+#~ " coluna sendo exibida lado a lado "
+#~ "por cada métrica."
+
+#~ msgid "Extra Controls"
+#~ msgstr "Controles extras"
+
+#~ msgid ""
+#~ "Whether to show extra controls or "
+#~ "not. Extra controls include things like"
+#~ " making mulitBar charts stacked or "
+#~ "side by side."
+#~ msgstr ""
+#~ "Seja para mostrar controles extras ou"
+#~ " não. Os controles extras incluem "
+#~ "coisas como fazer quadros de mulitBar"
+#~ " empilhados ou lado a lado."
+
+#~ msgid "Reduce X ticks"
+#~ msgstr "Reduza os carrapatos X"
+
+#~ msgid ""
+#~ "Reduces the number of X axis ticks"
+#~ " to be rendered. If true, the x"
+#~ " axis wont overflow and labels may"
+#~ " be missing. If false, a minimum "
+#~ "width will be applied to columns "
+#~ "and the width may overflow into an"
+#~ " horizontal scroll."
+#~ msgstr ""
+#~ "Reduz o número de tiques do eixo"
+#~ " X a serem renderizados. Se for "
+#~ "verdade, o eixo x não irá "
+#~ "transbordar e rótulos podem estar "
+#~ "faltando. Se for falso, uma largura "
+#~ "mínima será aplicada às colunas e "
+#~ "a largura pode transbordar em um "
+#~ "pergaminho horizontal."
+
+#~ msgid "Include Series"
+#~ msgstr "Incluir Série"
+
+#~ msgid "Include series name as an axis"
+#~ msgstr "Inclua o nome da série como um eixo"
+
+#~ msgid "Color Metric"
+#~ msgstr "Métrica de cor"
+
+#~ msgid "A metric to use for color"
+#~ msgstr "Uma métrica para usar para cores"
+
+#~ msgid "Country Name"
+#~ msgstr "Nome do país"
+
+#~ msgid "The name of country that Superset should display"
+#~ msgstr "O nome do país que Superset deve exibir"
+
+#~ msgid "Country Field Type"
+#~ msgstr "Tipo de campo do país"
+
+#~ msgid ""
+#~ "The country code standard that Superset"
+#~ " should expect to find in the "
+#~ "[country] column"
+#~ msgstr ""
+#~ "O padrão do código do país que "
+#~ "Superset deve esperar encontrar na "
+#~ "coluna [country]"
+
+#~ msgid "Columns"
+#~ msgstr "Colunas"
+
+#~ msgid "One or many controls to pivot as columns"
+#~ msgstr "Um ou vários controles para girar como colunas"
+
+#~ msgid "Columns to display"
+#~ msgstr "Colunas para exibir"
+
+#~ msgid "Origin"
+#~ msgstr "Origem"
+
+#~ msgid ""
+#~ "Defines the origin where time buckets"
+#~ " start, accepts natural dates as in"
+#~ " `now`, `sunday` or `1970-01-01`"
+#~ msgstr ""
+#~ "Define a origem onde os baldes de"
+#~ " tempo começam, aceita datas naturais "
+#~ "como em `now`,` sunday` ou `1970-01-01`"
+
+#~ msgid "Bottom Margin"
+#~ msgstr "Margem inferior"
+
+#~ msgid "Bottom margin, in pixels, allowing for more room for axis labels"
+#~ msgstr ""
+#~ "Margem inferior, em pixels, permitindo "
+#~ "mais espaço para etiquetas de eixos"
+
+#~ msgid "Left Margin"
+#~ msgstr "Margem esquerda"
+
+#~ msgid "Left margin, in pixels, allowing for more room for axis labels"
+#~ msgstr ""
+#~ "Margem esquerda, em pixels, permitindo "
+#~ "mais espaço para rótulos de eixos"
+
+#~ msgid "Time Granularity"
+#~ msgstr "Granularidade do tempo"
+
+#~ msgid ""
+#~ "The time granularity for the "
+#~ "visualization. Note that you can type"
+#~ " and use simple natural language as"
+#~ " in `10 seconds`, `1 day` or "
+#~ "`56 weeks`"
+#~ msgstr ""
+#~ "O tempo de granularidade para a "
+#~ "visualização. Observe que você pode "
+#~ "digitar e usar linguagem natural simples"
+#~ " como \"10 segundos\", \"1 dia\" ou"
+#~ " \"56 semanas\"."
+
+#~ msgid "Domain"
+#~ msgstr "Domínio"
+
+#~ msgid "The time unit used for the grouping of blocks"
+#~ msgstr "A unidade de tempo usada para o agrupamento de blocos"
+
+#~ msgid "Subdomain"
+#~ msgstr "Subdomínio"
+
+#~ msgid ""
+#~ "The time unit for each block. "
+#~ "Should be a smaller unit than "
+#~ "domain_granularity. Should be larger or "
+#~ "equal to Time Grain"
+#~ msgstr ""
+#~ "A unidade de tempo para cada "
+#~ "bloco. Deve ser uma unidade menor "
+#~ "que domain_granularity. Deve ser maior "
+#~ "ou igual a Time Grain"
+
+#~ msgid "Link Length"
+#~ msgstr "Comprimento do link"
+
+#~ msgid "Link length in the force layout"
+#~ msgstr "Comprimento do link no layout da força"
+
+#~ msgid "Charge"
+#~ msgstr "Carregar"
+
+#~ msgid "Charge in the force layout"
+#~ msgstr "Cobrar no layout da força"
+
+#~ msgid ""
+#~ "The time column for the visualization."
+#~ " Note that you can define arbitrary"
+#~ " expression that return a DATETIME "
+#~ "column in the table or. Also note"
+#~ " that the filter below is applied "
+#~ "against this column or expression"
+#~ msgstr ""
+#~ "A coluna de tempo para a "
+#~ "visualização. Observe que você pode "
+#~ "definir uma expressão arbitrária que "
+#~ "retorna uma coluna DATETIME na tabela"
+#~ " ou. Observe também que o filtro "
+#~ "abaixo é aplicado contra esta coluna "
+#~ "ou expressão"
+
+#~ msgid "Time Grain"
+#~ msgstr "Tempo Grain"
+
+#~ msgid ""
+#~ "The time granularity for the "
+#~ "visualization. This applies a date "
+#~ "transformation to alter your time column"
+#~ " and defines a new time granularity."
+#~ " The options here are defined on "
+#~ "a per database engine basis in the"
+#~ " Superset source code."
+#~ msgstr ""
+#~ "O tempo de granularidade para a "
+#~ "visualização. Isso aplica uma transformação"
+#~ " de data para alterar sua coluna "
+#~ "de tempo e define uma nova "
+#~ "granularidade de tempo. As opções aqui"
+#~ " são definidas por base de banco "
+#~ "de dados por base no código-fonte"
+#~ " Superset."
+
+#~ msgid "Resample Rule"
+#~ msgstr "Regra de Repetição"
+
+#~ msgid "Pandas resample rule"
+#~ msgstr "Regra de resample de pandas"
+
+#~ msgid "Resample How"
+#~ msgstr "Resample How"
+
+#~ msgid "Pandas resample how"
+#~ msgstr "Pandas ressamam como"
+
+#~ msgid "Resample Fill Method"
+#~ msgstr "Método de preenchimento da rememplificação"
+
+#~ msgid "Pandas resample fill method"
+#~ msgstr "Método de preenchimento de reamalhamento de pandas"
+
+#~ msgid "Since"
+#~ msgstr "Desde a"
+
+#~ msgid "7 days ago"
+#~ msgstr "7 dias atrás"
+
+#~ msgid "Until"
+#~ msgstr "Até"
+
+#~ msgid "Max Bubble Size"
+#~ msgstr "Tamanho máximo da bolha"
+
+#~ msgid "Whisker/outlier options"
+#~ msgstr "Opções de Whisker / Outlier"
+
+#~ msgid "Determines how whiskers and outliers are calculated."
+#~ msgstr "Determina como são calculados os bigodes e outliers."
+
+#~ msgid "Ratio"
+#~ msgstr "Ratio"
+
+#~ msgid "Target aspect ratio for treemap tiles."
+#~ msgstr "Relação de aspecto do alvo para telhas de treemap."
+
+#~ msgid "Number format"
+#~ msgstr "Formato numérico"
+
+#~ msgid "Row limit"
+#~ msgstr "Limite de linha"
+
+#~ msgid "Series limit"
+#~ msgstr "Limite de série"
+
+#~ msgid "Limits the number of time series that get displayed"
+#~ msgstr "Limita o número de séries temporais que são exibidas"
+
+#~ msgid "Sort By"
+#~ msgstr "Ordenar por"
+
+#~ msgid "Metric used to define the top series"
+#~ msgstr "Métrica usada para definir a série superior"
+
+#~ msgid "Sort Descending"
+#~ msgstr "Ordenar decrescente"
+
+#~ msgid "Whether to sort descending or ascending"
+#~ msgstr "Quer classificar descendente ou ascendente"
+
+#~ msgid "Rolling"
+#~ msgstr "Rolling"
+
+#~ msgid ""
+#~ "Defines a rolling window function to "
+#~ "apply, works along with the [Periods]"
+#~ " text box"
+#~ msgstr ""
+#~ "Define uma função de janela rolante "
+#~ "para aplicar, funciona junto com a "
+#~ "caixa de texto [Períodos]"
+
+#~ msgid "Periods"
+#~ msgstr "Períodos"
+
+#~ msgid ""
+#~ "Defines the size of the rolling "
+#~ "window function, relative to the time"
+#~ " granularity selected"
+#~ msgstr ""
+#~ "Define o tamanho da função da "
+#~ "janela rolante, em relação à "
+#~ "granularidade de tempo selecionada"
+
+#~ msgid "Min Periods"
+#~ msgstr "Períodos mínimos"
+
+#~ msgid ""
+#~ "The minimum number of rolling periods"
+#~ " required to show a value. For "
+#~ "instance if you do a cumulative "
+#~ "sum on 7 days you may want "
+#~ "your \"Min Period\" to be 7, so"
+#~ " that all data points shown are "
+#~ "the total of 7 periods. This will"
+#~ " hide the \"ramp up\" taking place"
+#~ " over the first 7 periods"
+#~ msgstr ""
+#~ "O número mínimo de períodos de "
+#~ "rolamento necessários para mostrar um "
+#~ "valor. Por exemplo, se você fizer "
+#~ "uma soma cumulativa em 7 dias, "
+#~ "você pode querer que seu \"Período "
+#~ "Mínimo\" seja 7, de modo que todos"
+#~ " os pontos de dados mostrados sejam"
+#~ " o total de 7 períodos. Isso "
+#~ "irá esconder a \"aceleração\" ocorrendo "
+#~ "nos primeiros 7 períodos"
+
+#~ msgid "Series"
+#~ msgstr "Series"
+
+#~ msgid ""
+#~ "Defines the grouping of entities. Each"
+#~ " series is shown as a specific "
+#~ "color on the chart and has a "
+#~ "legend toggle"
+#~ msgstr ""
+#~ "Define o agrupamento de entidades. Cada"
+#~ " série é mostrada como uma cor "
+#~ "específica no gráfico e tem uma "
+#~ "alternância de legenda"
+
+#~ msgid "Entity"
+#~ msgstr "Entidade"
+
+#~ msgid "This defines the element to be plotted on the chart"
+#~ msgstr "Isso define o elemento a ser plotado no gráfico"
+
+#~ msgid "X Axis"
+#~ msgstr "X Axis"
+
+#~ msgid "Metric assigned to the [X] axis"
+#~ msgstr "Metric atribuído ao eixo [X]"
+
+#~ msgid "Y Axis"
+#~ msgstr "Eixo"
+
+#~ msgid "Metric assigned to the [Y] axis"
+#~ msgstr "Metric atribuído ao eixo [Y]"
+
+#~ msgid "Bubble Size"
+#~ msgstr "Tamanho da bolha"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid ""
+#~ "The URL, this control is templated, "
+#~ "so you can integrate {{ width }}"
+#~ " and/or {{ height }} in your "
+#~ "URL string."
+#~ msgstr ""
+#~ "O URL, este controle está modelado, "
+#~ "para que você possa integrar {{width}}"
+#~ " e / ou {{height}} em sua "
+#~ "string de URL."
+
+#~ msgid "X Axis Label"
+#~ msgstr "Etiqueta X Axis"
+
+#~ msgid "Y Axis Label"
+#~ msgstr "E Eixo Etiqueta"
+
+#~ msgid "Custom WHERE clause"
+#~ msgstr "Cláusula WHERE personalizada"
+
+#~ msgid ""
+#~ "The text in this box gets included"
+#~ " in your query's WHERE clause, as "
+#~ "an AND to other criteria. You can"
+#~ " include complex expression, parenthesis "
+#~ "and anything else supported by the "
+#~ "backend it is directed towards."
+#~ msgstr ""
+#~ "O texto nesta caixa é incluído na"
+#~ " cláusula WHERE da sua consulta, como"
+#~ " um AND para outros critérios. Você"
+#~ " pode incluir expressão complexa, "
+#~ "parênteses e qualquer outra coisa "
+#~ "suportada pelo backend para o qual "
+#~ "é direcionado."
+
+#~ msgid "Custom HAVING clause"
+#~ msgstr "Cláusula HAVING personalizada"
+
+#~ msgid ""
+#~ "The text in this box gets included"
+#~ " in your query's HAVING clause, as"
+#~ " an AND to other criteria. You "
+#~ "can include complex expression, parenthesis"
+#~ " and anything else supported by the"
+#~ " backend it is directed towards."
+#~ msgstr ""
+#~ "O texto nesta caixa é incluído na"
+#~ " cláusula HAVING da sua consulta, "
+#~ "como um AND para outros critérios. "
+#~ "Você pode incluir expressão complexa, "
+#~ "parênteses e qualquer outra coisa "
+#~ "suportada pelo backend para o qual "
+#~ "é direcionado."
+
+#~ msgid "Comparison Period Lag"
+#~ msgstr "Retardo do período de comparação"
+
+#~ msgid "Based on granularity, number of time periods to compare against"
+#~ msgstr ""
+#~ "Com base na granularidade, o número "
+#~ "de períodos de tempo para comparar "
+#~ "contra"
+
+#~ msgid "Comparison suffix"
+#~ msgstr "Sufixo de comparação"
+
+#~ msgid "Suffix to apply after the percentage display"
+#~ msgstr "Sufixo para aplicar após a exibição percentual"
+
+#~ msgid "Table Timestamp Format"
+#~ msgstr "Formato de data e hora da tabela"
+
+#~ msgid "Timestamp Format"
+#~ msgstr "Formato do carimbo de data / hora"
+
+#~ msgid "Series Height"
+#~ msgstr "Altura da série"
+
+#~ msgid "Pixel height of each series"
+#~ msgstr "Altura de pixel de cada série"
+
+#~ msgid "Page Length"
+#~ msgstr "Comprimento da página"
+
+#~ msgid "Rows per page, 0 means no pagination"
+#~ msgstr "Linhas por página, 0 significa que nenhuma paginação"
+
+#~ msgid "X Axis Format"
+#~ msgstr "Formato X Axis"
+
+#~ msgid "Y Axis Format"
+#~ msgstr "Y Eixo Formato"
+
+#~ msgid "Right Axis Format"
+#~ msgstr "Formato do Eixo Direito"
+
+#~ msgid "Date Time Format"
+#~ msgstr "Formato da hora da data"
+
+#~ msgid "Markup Type"
+#~ msgstr "Tipo de marcação"
+
+#~ msgid "Pick your favorite markup language"
+#~ msgstr "Escolha sua linguagem de marcação favorita"
+
+#~ msgid "Rotation"
+#~ msgstr "Rotação"
+
+#~ msgid "Rotation to apply to words in the cloud"
+#~ msgstr "Rotação para aplicar a palavras na nuvem"
+
+#~ msgid "Line Style"
+#~ msgstr "Estilo de linha"
+
+#~ msgid "Line interpolation as defined by d3.js"
+#~ msgstr "Interpolação de linha conforme definido por d3.js"
+
+#~ msgid "Label Type"
+#~ msgstr "Tipo de etiqueta"
+
+#~ msgid "What should be shown on the label?"
+#~ msgstr "O que deve ser mostrado no rótulo?"
+
+#~ msgid "Code"
+#~ msgstr "Código"
+
+#~ msgid "Put your code here"
+#~ msgstr "Coloque seu código aqui"
+
+#~ msgid "Aggregation function"
+#~ msgstr "Função de agregação"
+
+#~ msgid ""
+#~ "Aggregate function to apply when "
+#~ "pivoting and computing the total rows"
+#~ " and columns"
+#~ msgstr ""
+#~ "Função de agregação a ser aplicada "
+#~ "ao girar e calcular o total de "
+#~ "linhas e colunas"
+
+#~ msgid "Font Size From"
+#~ msgstr "Tamanho da fonte de"
+
+#~ msgid "Font size for the smallest value in the list"
+#~ msgstr "Tamanho da fonte para o menor valor na lista"
+
+#~ msgid "Font Size To"
+#~ msgstr "Tamanho da fonte para"
+
+#~ msgid "Font size for the biggest value in the list"
+#~ msgstr "Tamanho da fonte para o maior valor na lista"
+
+#~ msgid "Instant Filtering"
+#~ msgstr "Filtragem instantânea"
+
+#~ msgid "Range Filter"
+#~ msgstr "Filtro de intervalo"
+
+#~ msgid "Whether to display the time range interactive selector"
+#~ msgstr "Se deseja exibir o seletor interativo do intervalo de tempo"
+
+#~ msgid "Date Filter"
+#~ msgstr "Filtro de data"
+
+#~ msgid "Whether to include a time filter"
+#~ msgstr "Seja para incluir um filtro de tempo"
+
+#~ msgid "Show SQL Granularity Dropdown"
+#~ msgstr "Show SQL Granularity Dropdown"
+
+#~ msgid "Check to include SQL Granularity dropdown"
+#~ msgstr "Verifique para incluir o menu suspenso SQL Granularity"
+
+#~ msgid "Show SQL Time Column"
+#~ msgstr "Mostrar coluna de tempo SQL"
+
+#~ msgid "Check to include Time Column dropdown"
+#~ msgstr "Verifique para incluir o menu suspenso Coluna de tempo"
+
+#~ msgid "Show Druid Granularity Dropdown"
+#~ msgstr "Show Druid Granularity Dropdown"
+
+#~ msgid "Check to include Druid Granularity dropdown"
+#~ msgstr "Verifique para incluir o menu suspenso Druid Granularity"
+
+#~ msgid "Show Druid Time Origin"
+#~ msgstr "Show Druid Time Origin"
+
+#~ msgid "Check to include Time Origin dropdown"
+#~ msgstr "Verifique para incluir o menu suspenso Origem do tempo"
+
+#~ msgid "Data Table"
+#~ msgstr "Tabela de dados"
+
+#~ msgid "Whether to display the interactive data table"
+#~ msgstr "Se deseja exibir a tabela de dados interativos"
+
+#~ msgid "Search Box"
+#~ msgstr "Caixa de pesquisa"
+
+#~ msgid "Whether to include a client side search box"
+#~ msgstr "Se incluir uma caixa de pesquisa do lado do cliente"
+
+#~ msgid "Table Filter"
+#~ msgstr "Filtro de mesa"
+
+#~ msgid "Whether to apply filter when table cell is clicked"
+#~ msgstr "Se deseja aplicar o filtro quando a célula da tabela é clicada"
+
+#~ msgid "Show Bubbles"
+#~ msgstr "Show Bubbles"
+
+#~ msgid "Whether to display bubbles on top of countries"
+#~ msgstr "Seja para exibir bolhas em cima dos países"
+
+#~ msgid "Legend"
+#~ msgstr "lenda"
+
+#~ msgid "Whether to display the legend (toggles)"
+#~ msgstr "Se deseja exibir a legenda (alternar)"
+
+#~ msgid "Show Values"
+#~ msgstr "Mostrar valores"
+
+#~ msgid "Whether to display the numerical values within the cells"
+#~ msgstr "Se deseja exibir os valores numéricos dentro das células"
+
+#~ msgid "X bounds"
+#~ msgstr "X limites"
+
+#~ msgid "Whether to display the min and max values of the X axis"
+#~ msgstr "Se deseja exibir os valores mínimo e máximo do eixo X"
+
+#~ msgid "Y bounds"
+#~ msgstr "Y limites"
+
+#~ msgid "Whether to display the min and max values of the Y axis"
+#~ msgstr "Se deseja exibir os valores mínimo e máximo do eixo Y"
+
+#~ msgid "Rich Tooltip"
+#~ msgstr "Rich Tooltip"
+
+#~ msgid "The rich tooltip shows a list of all series for that point in time"
+#~ msgstr ""
+#~ "A ferramenta de informação rica mostra"
+#~ " uma lista de todas as séries "
+#~ "para esse ponto no tempo"
+
+#~ msgid "Y Log Scale"
+#~ msgstr "Y Escala de registro"
+
+#~ msgid "Use a log scale for the Y axis"
+#~ msgstr "Use uma escala de log para o eixo Y"
+
+#~ msgid "X Log Scale"
+#~ msgstr "X Log Scale"
+
+#~ msgid "Use a log scale for the X axis"
+#~ msgstr "Use uma escala de log para o eixo X"
+
+#~ msgid "Log Scale"
+#~ msgstr "Escala logarítmica"
+
+#~ msgid "Use a log scale"
+#~ msgstr "Use uma escala de registro"
+
+#~ msgid "Donut"
+#~ msgstr "Rosquinha"
+
+#~ msgid "Do you want a donut or a pie?"
+#~ msgstr "Você quer uma rosquinha ou uma torta?"
+
+#~ msgid "Put labels outside"
+#~ msgstr "Coloque rótulos fora"
+
+#~ msgid "Put the labels outside the pie?"
+#~ msgstr "Coloque as etiquetas fora da torta?"
+
+#~ msgid "Contribution"
+#~ msgstr "Contribuição"
+
+#~ msgid "Compute the contribution to the total"
+#~ msgstr "Calcule a contribuição para o total"
+
+#~ msgid "Period Ratio"
+#~ msgstr "Rácio de Período"
+
+#~ msgid ""
+#~ "[integer] Number of period to compare"
+#~ " against, this is relative to the "
+#~ "granularity selected"
+#~ msgstr ""
+#~ "[número inteiro] Número do período a "
+#~ "comparar contra, isto é relativo à "
+#~ "granularidade selecionada"
+
+#~ msgid "Period Ratio Type"
+#~ msgstr "Tipo de Rácio de Período"
+
+#~ msgid ""
+#~ "`factor` means (new/previous), `growth` is "
+#~ "((new/previous) - 1), `value` is "
+#~ "(new-previous)"
+#~ msgstr ""
+#~ "`factor 'significa (novo / anterior),` "
+#~ "crescimento' é ((novo / anterior) - "
+#~ "1), `valor` é (novo-anterior)"
+
+#~ msgid "Time Shift"
+#~ msgstr "Mudança de horário"
+
+#~ msgid ""
+#~ "Overlay a timeseries from a relative "
+#~ "time period. Expects relative time delta"
+#~ " in natural language (example:  24 "
+#~ "hours, 7 days, 56 weeks, 365 days)"
+#~ msgstr ""
+#~ "Superponha uma série de tempo de "
+#~ "um período de tempo relativo. Espera "
+#~ "tempo relativo delta em linguagem "
+#~ "natural (exemplo: 24 horas, 7 dias, "
+#~ "56 semanas, 365 dias)"
+
+#~ msgid "Subheader"
+#~ msgstr "Subtítulo"
+
+#~ msgid "Description text that shows up below your Big Number"
+#~ msgstr "Texto de descrição que aparece abaixo do seu grande número"
+
+#~ msgid "label"
+#~ msgstr "rótulo"
+
+#~ msgid ""
+#~ "`count` is COUNT(*) if a group by"
+#~ " is used. Numerical columns will be"
+#~ " aggregated with the aggregator. Non-"
+#~ "numerical columns will be used to "
+#~ "label points. Leave empty to get a"
+#~ " count of points in each cluster."
+#~ msgstr ""
+#~ "`count` é COUNT (*) se um grupo"
+#~ " for usado. As colunas numéricas "
+#~ "serão agregadas com o agregador. Colunas"
+#~ " não-numéricas serão usadas para "
+#~ "rotular pontos. Deixe vazio para obter"
+#~ " uma contagem de pontos em cada "
+#~ "cluster."
+
+#~ msgid "Map Style"
+#~ msgstr "Estilo do mapa"
+
+#~ msgid "Base layer map style"
+#~ msgstr "Estilo do mapa da camada base"
+
+#~ msgid "Clustering Radius"
+#~ msgstr "Raio de agrupamento"
+
+#~ msgid ""
+#~ "The radius (in pixels) the algorithm "
+#~ "uses to define a cluster. Choose 0"
+#~ " to turn off clustering, but beware"
+#~ " that a large number of points "
+#~ "(>1000) will cause lag."
+#~ msgstr ""
+#~ "O raio (em pixels) que o algoritmo"
+#~ " usa para definir um cluster. Escolha"
+#~ " 0 para desativar o cluster, mas "
+#~ "tenha cuidado com o fato de que"
+#~ " um grande número de pontos (> "
+#~ "1000) causará atraso."
+
+#~ msgid "Point Radius"
+#~ msgstr "Ponto Raio"
+
+#~ msgid ""
+#~ "The radius of individual points (ones"
+#~ " that are not in a cluster). "
+#~ "Either a numerical column or `Auto`, "
+#~ "which scales the point based on "
+#~ "the largest cluster"
+#~ msgstr ""
+#~ "O raio de pontos individuais (aqueles"
+#~ " que não estão em um cluster). "
+#~ "Ou uma coluna numérica ou `Auto ',"
+#~ " que escala o ponto com base no"
+#~ " maior cluster"
+
+#~ msgid "Point Radius Unit"
+#~ msgstr "Unidade de raio de ponto"
+
+#~ msgid "The unit of measure for the specified point radius"
+#~ msgstr "A unidade de medida para o raio de ponto especificado"
+
+#~ msgid "Opacity"
+#~ msgstr "Opacidade"
+
+#~ msgid "Opacity of all clusters, points, and labels. Between 0 and 1."
+#~ msgstr "Opacidade de todos os clusters, pontos e rótulos. Entre 0 e 1."
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Zoom level of the map"
+#~ msgstr "Nível de zoom do mapa"
+
+#~ msgid "Default latitude"
+#~ msgstr "Latitude padrão"
+
+#~ msgid "Latitude of default viewport"
+#~ msgstr "Latitude da janela de exibição padrão"
+
+#~ msgid "Default longitude"
+#~ msgstr "Longitude padrão"
+
+#~ msgid "Longitude of default viewport"
+#~ msgstr "Longitude da exibição padrão"
+
+#~ msgid "Live render"
+#~ msgstr "Live render"
+
+#~ msgid "Points and clusters will update as viewport is being changed"
+#~ msgstr ""
+#~ "Pontos e clusters serão atualizados à"
+#~ " medida que a viewport estiver sendo"
+#~ " alterada"
+
+#~ msgid "RGB Color"
+#~ msgstr "Cor RGB"
+
+#~ msgid "The color for points and clusters in RGB"
+#~ msgstr "A cor para pontos e clusters em RGB"
+
+#~ msgid "Color"
+#~ msgstr "Cor"
+
+#~ msgid "Pick a color"
+#~ msgstr "Escolha uma cor"
+
+#~ msgid "Ranges"
+#~ msgstr "Gamas"
+
+#~ msgid "Ranges to highlight with shading"
+#~ msgstr "Gira para destacar com sombreamento"
+
+#~ msgid "Range labels"
+#~ msgstr "Etiquetas de escala"
+
+#~ msgid "Labels for the ranges"
+#~ msgstr "Etiquetas para os intervalos"
+
+#~ msgid "Markers"
+#~ msgstr "Marcadores"
+
+#~ msgid "List of values to mark with triangles"
+#~ msgstr "Lista de valores a marcar com triângulos"
+
+#~ msgid "Marker labels"
+#~ msgstr "Marcadores de marcador"
+
+#~ msgid "Labels for the markers"
+#~ msgstr "Etiquetas para marcadores"
+
+#~ msgid "Marker lines"
+#~ msgstr "Linhas de marcador"
+
+#~ msgid "List of values to mark with lines"
+#~ msgstr "Lista de valores a marcar com linhas"
+
+#~ msgid "Marker line labels"
+#~ msgstr "Marcadores de linha de marcador"
+
+#~ msgid "Labels for the marker lines"
+#~ msgstr "Etiquetas para as linhas de marcação"
+
+#~ msgid "Slice ID"
+#~ msgstr "ID da fatia"
+
+#~ msgid "The id of the active slice"
+#~ msgstr "O id da fatia ativa"
+
+#~ msgid "Cache Timeout (seconds)"
+#~ msgstr "Tempo limite de cache (segundos)"
+
+#~ msgid "The number of seconds before expiring the cache"
+#~ msgstr "O número de segundos antes de expirar o cache"
+
+#~ msgid "Order by entity id"
+#~ msgstr "Encomendar por identificação de entidade"
+
+#~ msgid ""
+#~ "Important! Select this if the table "
+#~ "is not already sorted by entity "
+#~ "id, else there is no guarantee "
+#~ "that all events for each entity "
+#~ "are returned."
+#~ msgstr ""
+#~ "Importante! Selecione isso se a tabela"
+#~ " ainda não estiver classificada por "
+#~ "entidade, caso contrário, não há "
+#~ "garantia de que todos os eventos "
+#~ "para cada entidade sejam devolvidos."
+
+#~ msgid "Minimum leaf node event count"
+#~ msgstr "Contagem minima do evento do nó da folha"
+
+#~ msgid ""
+#~ "Leaf nodes that represent fewer than "
+#~ "this number of events will be "
+#~ "initially hidden in the visualization"
+#~ msgstr ""
+#~ "Os nós da folha que representam "
+#~ "menos do que este número de "
+#~ "eventos serão inicialmente ocultos na "
+#~ "visualização"
+
+#~ msgid "Color Scheme"
+#~ msgstr "Esquema de cores"
+
+#~ msgid "The color scheme for rendering chart"
+#~ msgstr "O esquema de cores para o gráfico de renderização"
+
+#~ msgid "Significance Level"
+#~ msgstr "Nível de significância"
+
+#~ msgid "Threshold alpha level for determining significance"
+#~ msgstr "Nível alfa limite para determinar o significado"
+
+#~ msgid "p-value precision"
+#~ msgstr "precisão de valor p"
+
+#~ msgid "Number of decimal places with which to display p-values"
+#~ msgstr "Número de casas decimais para exibir valores p"
+
+#~ msgid "Lift percent precision"
+#~ msgstr "Precisão percentual de elevação"
+
+#~ msgid "Number of decimal places with which to display lift values"
+#~ msgstr "Número de casas decimais com as quais exibir valores de elevação"
+
+#~ msgid "Time Series Columns"
+#~ msgstr "Colunas das séries temporais"
+
+#~ msgid "Options"
+#~ msgstr "Opções"
+
+#~ msgid "Not Time Series"
+#~ msgstr "Série não temporária"
+
+#~ msgid "Ignore time"
+#~ msgstr "Ignore o tempo"
+
+#~ msgid "Time Series"
+#~ msgstr "Série de tempo"
+
+#~ msgid "Standard time series"
+#~ msgstr "Série temporal"
+
+#~ msgid "Aggregate Mean"
+#~ msgstr "Média agregada"
+
+#~ msgid "Mean of values over specified period"
+#~ msgstr ""
+
+#~ msgid "Aggregate Sum"
+#~ msgstr "Soma Agregada"
+
+#~ msgid "Sum of values over specified period"
+#~ msgstr "Soma de valores ao longo do período especificado"
+
+#~ msgid "Difference"
+#~ msgstr "Diferença"
+
+#~ msgid "Metric change in value from `since` to `until`"
+#~ msgstr ""
+
+#~ msgid "Percent Change"
+#~ msgstr "Mudança percentual"
+
+#~ msgid "Metric percent change in value from `since` to `until`"
+#~ msgstr "Alteração de porcentagem métrica em valor de `desde 'para` até'"
+
+#~ msgid "Factor"
+#~ msgstr "Fator"
+
+#~ msgid "Metric factor change from `since` to `until`"
+#~ msgstr ""
+
+#~ msgid "Advanced Analytics"
+#~ msgstr ""
+
+#~ msgid "Use the Advanced Analytics options below"
+#~ msgstr "Use as opções Advanced Analytics abaixo"
+
+#~ msgid "Settings for time series"
+#~ msgstr "Configurações para séries temporais"
+
+#~ msgid "Equal Date Sizes"
+#~ msgstr ""
+
+#~ msgid "Check to force date partitions to have the same height"
+#~ msgstr "Verifique para forçar as partições da data a ter a mesma altura"
+
+#~ msgid "Partition Limit"
+#~ msgstr "Limite de partição"
+
+#~ msgid ""
+#~ "The maximum number of subdivisions of"
+#~ " each group; lower values are pruned"
+#~ " first"
+#~ msgstr ""
+#~ "O número máximo de subdivisões de "
+#~ "cada grupo; os valores mais baixos "
+#~ "são podados primeiro"
+
+#~ msgid "Partition Threshold"
+#~ msgstr "Limite de partição"
+
+#~ msgid ""
+#~ "Partitions whose height to parent height"
+#~ " proportions are below this value are"
+#~ " pruned"
+#~ msgstr ""
+#~ "As partições cuja altura para as "
+#~ "proporções de altura dos pais estão "
+#~ "abaixo desse valor são podadas"
+
+#~ msgid "Time"
+#~ msgstr "Tempo"
+
+#~ msgid "Time related form attributes"
+#~ msgstr "Atributos de formulário relacionados ao tempo"
+
+#~ msgid "Datasource & Chart Type"
+#~ msgstr "Fonte de dados e tipo de gráfico"
+
+#~ msgid "This section exposes ways to include snippets of SQL in your query"
+#~ msgstr "Esta seção expõe maneiras de incluir trechos de SQL em sua consulta"
+
+#~ msgid "Annotations"
+#~ msgstr "Anotações"
+
+#~ msgid ""
+#~ "This section contains options that allow"
+#~ " for advanced analytical post processing"
+#~ " of query results"
+#~ msgstr ""
+#~ "Esta seção contém opções que permitem"
+#~ " o processamento analítico avançado de "
+#~ "resultados de consulta"
+
+#~ msgid "Result Filters"
+#~ msgstr "Filtros de resultados"
+
+#~ msgid ""
+#~ "The filters to apply after post-"
+#~ "aggregation.Leave the value control empty "
+#~ "to filter empty strings or nulls"
+#~ msgstr ""
+#~ "Os filtros para aplicar após pós-"
+#~ "agregação. Deixe o controle de valor "
+#~ "vazio para filtrar cadeias vazias ou "
+#~ "nulos"
+
+#~ msgid "Chart Options"
+#~ msgstr "Opções do gráfico"
+
+#~ msgid "Breakdowns"
+#~ msgstr ""
+
+#~ msgid "Defines how each series is broken down"
+#~ msgstr ""
+
+#~ msgid "Pie Chart"
+#~ msgstr ""
+
+#~ msgid "Dual Axis Line Chart"
+#~ msgstr "Gráfico de linha de eixo duplo"
+
+#~ msgid "Y Axis 1"
+#~ msgstr "Eixo 1"
+
+#~ msgid "Y Axis 2"
+#~ msgstr ""
+
+#~ msgid "Left Axis Metric"
+#~ msgstr ""
+
+#~ msgid "Choose a metric for left axis"
+#~ msgstr "Escolha uma métrica para o eixo esquerdo"
+
+#~ msgid "Left Axis Format"
+#~ msgstr "Formato do eixo esquerdo"
+
+#~ msgid "Axes"
+#~ msgstr "Eixos"
+
+#~ msgid "GROUP BY"
+#~ msgstr ""
+
+#~ msgid "Use this section if you want a query that aggregates"
+#~ msgstr "Use esta seção se desejar uma consulta que agregue"
+
+#~ msgid "NOT GROUPED BY"
+#~ msgstr "NÃO GRUPADO POR"
+
+#~ msgid "Use this section if you want to query atomic rows"
+#~ msgstr "Use esta seção se desejar consultar linhas atômicas"
+
+#~ msgid "Time Series Table"
+#~ msgstr "Tabela de séries temporais"
+
+#~ msgid ""
+#~ "Templated link, it's possible to include"
+#~ " {{ metric }} or other values "
+#~ "coming from the controls."
+#~ msgstr ""
+#~ "Templated link, é possível incluir "
+#~ "{{metric}} ou outros valores provenientes "
+#~ "dos controles."
+
+#~ msgid "Pivot Options"
+#~ msgstr "Opções de pivô"
+
+#~ msgid "Bubbles"
+#~ msgstr "Bolhas"
+
+#~ msgid "Numeric Column"
+#~ msgstr "Coluna numérica"
+
+#~ msgid "Select the numeric column to draw the histogram"
+#~ msgstr ""
+
+#~ msgid "No of Bins"
+#~ msgstr "Número de embalagens"
+
+#~ msgid "Select number of bins for the histogram"
+#~ msgstr "Selecione o número de caixas para o histograma"
+
+#~ msgid "Primary Metric"
+#~ msgstr ""
+
+#~ msgid "The primary metric is used to define the arc segment sizes"
+#~ msgstr "A métrica primária é usada para definir o tamanho do segmento de arco"
+
+#~ msgid "Secondary Metric"
+#~ msgstr "Métrica secundária"
+
+#~ msgid ""
+#~ "This secondary metric is used to "
+#~ "define the color as a ratio "
+#~ "against the primary metric. If the "
+#~ "two metrics match, color is mapped "
+#~ "level groups"
+#~ msgstr ""
+#~ "Esta métrica secundária é usada para "
+#~ "definir a cor como uma relação "
+#~ "contra a métrica primária. Se as "
+#~ "duas métricas se combinarem, a cor "
+#~ "é grupos de nível mapeados"
+
+#~ msgid "Hierarchy"
+#~ msgstr "Hierarquia"
+
+#~ msgid "This defines the level of the hierarchy"
+#~ msgstr "Isso define o nível da hierarquia"
+
+#~ msgid "Source / Target"
+#~ msgstr "Fonte / alvo"
+
+#~ msgid "Choose a source and a target"
+#~ msgstr "Escolha uma fonte e um alvo"
+
+#~ msgid "Chord Diagram"
+#~ msgstr "Diagrama de acordes"
+
+#~ msgid "Choose a number format"
+#~ msgstr "Escolha um formato de número"
+
+#~ msgid "Source"
+#~ msgstr "Fonte"
+
+#~ msgid "Choose a source"
+#~ msgstr ""
+
+#~ msgid "Target"
+#~ msgstr "Alvo"
+
+#~ msgid "Choose a target"
+#~ msgstr "Escolha um alvo"
+
+#~ msgid "ISO 3166-2 codes of region/province/department"
+#~ msgstr "ISO 3166-2 códigos de região / província / departamento"
+
+#~ msgid ""
+#~ "It's ISO 3166-2 of your "
+#~ "region/province/department in your table. (see"
+#~ " documentation for list of ISO "
+#~ "3166-2)"
+#~ msgstr ""
+#~ "É ISO 3166-2 da sua região / "
+#~ "província / departamento em sua mesa."
+#~ " (ver documentação para a lista de"
+#~ " ISO 3166-2)"
+
+#~ msgid "Country Control"
+#~ msgstr "Controle nacional"
+
+#~ msgid "3 letter code of the country"
+#~ msgstr ""
+
+#~ msgid "Metric for color"
+#~ msgstr "Metric for color"
+
+#~ msgid "Metric that defines the color of the country"
+#~ msgstr "Métrica que define a cor do país"
+
+#~ msgid "Bubble size"
+#~ msgstr "Tamanho da bolha"
+
+#~ msgid "Metric that defines the size of the bubble"
+#~ msgstr "Métrica que define o tamanho da bolha"
+
+#~ msgid "Filter Box"
+#~ msgstr "Caixa de filtro"
+
+#~ msgid "Filter controls"
+#~ msgstr "Controles do filtro"
+
+#~ msgid ""
+#~ "The controls you want to filter "
+#~ "on. Note that only columns checked "
+#~ "as \"filterable\" will show up on "
+#~ "this list."
+#~ msgstr ""
+#~ "Os controles nos quais deseja filtrar."
+#~ " Observe que somente as colunas "
+#~ "marcadas como \"filtráveis\" aparecerão nesta"
+#~ " lista."
+
+#~ msgid "Heatmap Options"
+#~ msgstr "Opções de Heatmap"
+
+#~ msgid "Value bounds"
+#~ msgstr "Limites de valor"
+
+#~ msgid "Value Format"
+#~ msgstr "Formato de valor"
+
+#~ msgid "Horizon"
+#~ msgstr ""
+
+#~ msgid "Points"
+#~ msgstr "Pontos"
+
+#~ msgid "Labelling"
+#~ msgstr "Marcação"
+
+#~ msgid "Visual Tweaks"
+#~ msgstr "Visual Tweaks"
+
+#~ msgid "Viewport"
+#~ msgstr "Janela de exibição"
+
+#~ msgid "Longitude"
+#~ msgstr "Longitude"
+
+#~ msgid "Column containing longitude data"
+#~ msgstr "Coluna contendo dados de longitude"
+
+#~ msgid "Latitude"
+#~ msgstr "Latitude"
+
+#~ msgid "Column containing latitude data"
+#~ msgstr ""
+
+#~ msgid "Cluster label aggregator"
+#~ msgstr "Agrupador de rótulos de cluster"
+
+#~ msgid ""
+#~ "Aggregate function applied to the list"
+#~ " of points in each cluster to "
+#~ "produce the cluster label."
+#~ msgstr ""
+#~ "Função agregada aplicada à lista de "
+#~ "pontos em cada cluster para produzir "
+#~ "o rótulo do cluster."
+
+#~ msgid "Tooltip"
+#~ msgstr "Tooltip"
+
+#~ msgid ""
+#~ "Show a tooltip when hovering over "
+#~ "points and clusters describing the label"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "One or many controls to group by."
+#~ " If grouping, latitude and longitude "
+#~ "columns must be present."
+#~ msgstr ""
+
+#~ msgid "Event definition"
+#~ msgstr ""
+
+#~ msgid "Additional meta data"
+#~ msgstr "Metadados adicionais"
+
+#~ msgid "Column containing entity ids"
+#~ msgstr "Identificação de entidade contendo uma coluna"
+
+#~ msgid "e.g., a \"user id\" column"
+#~ msgstr "por exemplo, uma coluna de \"ID do usuário\""
+
+#~ msgid "Column containing event names"
+#~ msgstr "Coluna contendo nomes de eventos"
+
+#~ msgid "Event count limit"
+#~ msgstr "Limite de contagem de eventos"
+
+#~ msgid "The maximum number of events to return, equivalent to number of rows"
+#~ msgstr "O número máximo de eventos a retornar, equivalente ao número de linhas"
+
+#~ msgid "Meta data"
+#~ msgstr "Meta dados"
+
+#~ msgid "Select any columns for meta data inspection"
+#~ msgstr "Selecione qualquer colunas para a inspeção de meta-dados"
+
+#~ msgid "Paired t-test"
+#~ msgstr "Teste t pareado"
+
+#~ msgid "Time Series Options"
+#~ msgstr "Opções da série de tempo"
+
+#~ msgid ""
+#~ "The server could not be reached. "
+#~ "You may want to verify your "
+#~ "connection and try again."
+#~ msgstr ""
+#~ "O servidor não pôde ser alcançado. "
+#~ "Você pode querer verificar sua conexão"
+#~ " e tentar novamente."
+
+#~ msgid "An unknown error occurred. (Status: %s )"
+#~ msgstr "Ocorreu um erro desconhecido. (Status: %s)"
+
+#~ msgid "Favorites"
+#~ msgstr ""
+
+#~ msgid "Created Content"
+#~ msgstr "Conteúdo criado"
+
+#~ msgid "Recent Activity"
+#~ msgstr "Atividade recente"
+
+#~ msgid "Security & Access"
+#~ msgstr "Segurança e Acesso"
+
+#~ msgid "No slices"
+#~ msgstr "Sem fatias"
+
+#~ msgid "No dashboards"
+#~ msgstr "Sem painéis"
+
+#~ msgid "Dashboards"
+#~ msgstr ""
+
+#~ msgid "Slices"
+#~ msgstr "Fatias"
+
+#~ msgid "No favorite slices yet, go click on stars!"
+#~ msgstr "Ainda não há fatias favoritas, clique nas estrelas!"
+
+#~ msgid "No favorite dashboards yet, go click on stars!"
+#~ msgstr "Ainda não há painéis favoritos, clique nas estrelas!"
+
+#~ msgid "Roles"
+#~ msgstr "Roles"
+
+#~ msgid "Databases"
+#~ msgstr "Bases de dados"
+
+#~ msgid "Datasources"
+#~ msgstr ""
+
+#~ msgid "Profile picture provided by Gravatar"
+#~ msgstr "Foto do perfil fornecida por Gravatar"
+
+#~ msgid "joined"
+#~ msgstr ""
+
+#~ msgid "id:"
+#~ msgstr "identidade:"
+
+#~ msgid "Sorry, there appears to be no data"
+#~ msgstr ""
+
+#~ msgid "Select [%s]"
+#~ msgstr "Selecione [%s]"
+
+#~ msgid "No data was returned."
+#~ msgstr "Nenhum dado foi retornado."
+
+#~ msgid "List Druid Column"
+#~ msgstr "List Druid Column"
+
+#~ msgid "Show Druid Column"
+#~ msgstr ""
+
+#~ msgid "Add Druid Column"
+#~ msgstr ""
+
+#~ msgid "Edit Druid Column"
+#~ msgstr "Edit Druid Column"
+
+#~ msgid "Column"
+#~ msgstr "Coluna"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Groupable"
+#~ msgstr ""
+
+#~ msgid "Filterable"
+#~ msgstr "Filtravel"
+
+#~ msgid "Count Distinct"
+#~ msgstr ""
+
+#~ msgid "Sum"
+#~ msgstr "Soma"
+
+#~ msgid ""
+#~ "Whether this column is exposed in "
+#~ "the `Filters` section of the explore "
+#~ "view."
+#~ msgstr "Se esta coluna está exposta na seção `Filtros 'da vista de exploração."
+
+#~ msgid "List Druid Metric"
+#~ msgstr "List Druid Metric"
+
+#~ msgid "Show Druid Metric"
+#~ msgstr "Show Druid Metric"
+
+#~ msgid "Add Druid Metric"
+#~ msgstr "Adicionar Druid Metric"
+
+#~ msgid "Edit Druid Metric"
+#~ msgstr "Edit Druid Metric"
+
+#~ msgid ""
+#~ "Whether the access to this metric "
+#~ "is restricted to certain roles. Only "
+#~ "roles with the permission 'metric access"
+#~ " on XXX (the name of this "
+#~ "metric)' are allowed to access this "
+#~ "metric"
+#~ msgstr ""
+#~ "Se o acesso a esta métrica é "
+#~ "restrito a determinadas funções. Somente "
+#~ "os papéis com a permissão 'acesso "
+#~ "métrico em XXX (o nome desta "
+#~ "métrica)' estão autorizados a acessar "
+#~ "esta métrica"
+
+#~ msgid "Verbose Name"
+#~ msgstr ""
+
+#~ msgid "JSON"
+#~ msgstr ""
+
+#~ msgid "Druid Datasource"
+#~ msgstr "Druid Datasource"
+
+#~ msgid "Warning Message"
+#~ msgstr "Mensagem de aviso"
+
+#~ msgid "List Druid Cluster"
+#~ msgstr "List Druid Cluster"
+
+#~ msgid "Show Druid Cluster"
+#~ msgstr "Show Druid Cluster"
+
+#~ msgid "Add Druid Cluster"
+#~ msgstr "Adicionar Druid Cluster"
+
+#~ msgid "Edit Druid Cluster"
+#~ msgstr "Editar Druid Cluster"
+
+#~ msgid "Cluster"
+#~ msgstr "Grupo"
+
+#~ msgid "Broker Host"
+#~ msgstr "Host de corretor"
+
+#~ msgid "Broker Port"
+#~ msgstr "Porto do corretor"
+
+#~ msgid "Broker Endpoint"
+#~ msgstr "Ponto final do corretor"
+
+#~ msgid "Druid Clusters"
+#~ msgstr "Clusters Druidas"
+
+#~ msgid "Sources"
+#~ msgstr "Fontes"
+
+#~ msgid "List Druid Datasource"
+#~ msgstr "List Druid Datasource"
+
+#~ msgid "Show Druid Datasource"
+#~ msgstr "Mostrar Druid Datasource"
+
+#~ msgid "Add Druid Datasource"
+#~ msgstr ""
+
+#~ msgid "Edit Druid Datasource"
+#~ msgstr "Edit Druid Datasource"
+
+#~ msgid ""
+#~ "The list of slices associated with "
+#~ "this table. By altering this datasource,"
+#~ " you may change how these associated"
+#~ " slices behave. Also note that slices"
+#~ " need to point to a datasource, "
+#~ "so this form will fail at saving"
+#~ " if removing slices from a "
+#~ "datasource. If you want to change "
+#~ "the datasource for a slice, overwrite"
+#~ " the slice from the 'explore view'"
+#~ msgstr ""
+#~ "A lista de fatias associadas a "
+#~ "esta tabela. Ao alterar esta fonte "
+#~ "de dados, você pode alterar a "
+#~ "forma como essas fatias associadas se"
+#~ " comportam. Observe também que as "
+#~ "fatias precisam apontar para uma fonte"
+#~ " de dados, então este formulário "
+#~ "falhará na poupança se removerem fatias"
+#~ " de uma fonte de dados. Se "
+#~ "quiser alterar a fonte de dados "
+#~ "para uma fatia, substitua a fatia "
+#~ "da \"exibição de explorar\""
+
+#~ msgid "Timezone offset (in hours) for this datasource"
+#~ msgstr "Deslocamento do fuso horário (em horas) para esta fonte de dados"
+
+#~ msgid ""
+#~ "Time expression to use as a "
+#~ "predicate when retrieving distinct values "
+#~ "to populate the filter component. Only"
+#~ " applies when `Enable Filter Select` "
+#~ "is on. If you enter `7 days "
+#~ "ago`, the distinct list of values "
+#~ "in the filter will be populated "
+#~ "based on the distinct value over "
+#~ "the past week"
+#~ msgstr ""
+#~ "Expressão de tempo para usar como "
+#~ "um predicado ao recuperar valores "
+#~ "distintos para preencher o componente de"
+#~ " filtro. Aplica-se apenas quando "
+#~ "\"Ativar seleção de filtro\" estiver "
+#~ "ativado. Se você inserir `7 dias "
+#~ "atrás ', a lista distinta de "
+#~ "valores no filtro será preenchida com"
+#~ " base no valor distinto na semana "
+#~ "passada"
+
+#~ msgid ""
+#~ "Whether to populate the filter's "
+#~ "dropdown in the explore view's filter"
+#~ " section with a list of distinct "
+#~ "values fetched from the backend on "
+#~ "the fly"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Redirects to this endpoint when clicking"
+#~ " on the datasource from the "
+#~ "datasource list"
+#~ msgstr ""
+
+#~ msgid "Associated Slices"
+#~ msgstr "Fatias Associadas"
+
+#~ msgid "Data Source"
+#~ msgstr "Fonte de dados"
+
+#~ msgid "Owner"
+#~ msgstr "Proprietário"
+
+#~ msgid "Is Hidden"
+#~ msgstr "Está escondido"
+
+#~ msgid "Enable Filter Select"
+#~ msgstr "Ativar seleção de filtro"
+
+#~ msgid "Default Endpoint"
+#~ msgstr "Ponto final padrão"
+
+#~ msgid "Time Offset"
+#~ msgstr "Time Offset"
+
+#~ msgid "Cache Timeout"
+#~ msgstr "Tempo limite de cache"
+
+#~ msgid "Druid Datasources"
+#~ msgstr "Druid Datasources"
+
+#~ msgid "Scan New Datasources"
+#~ msgstr "Digitalizar novas fontes de dados"
+
+#~ msgid "Refresh Druid Metadata"
+#~ msgstr "Atualizar Metadados Druidas"
+
+#~ msgid ""
+#~ "Datetime column not provided as part "
+#~ "table configuration and is required by"
+#~ " this type of chart"
+#~ msgstr ""
+
+#~ msgid "Empty query?"
+#~ msgstr "Consulta vazia?"
+
+#~ msgid "Metric '{}' is not valid"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Table [{}] doesn't seem to exist "
+#~ "in the specified database, couldn't "
+#~ "fetch column information"
+#~ msgstr ""
+#~ "Tabela [{}] não parece existir no "
+#~ "banco de dados especificado, não foi "
+#~ "possível buscar informações da coluna"
+
+#~ msgid "List Columns"
+#~ msgstr "Colunas da Lista"
+
+#~ msgid "Show Column"
+#~ msgstr "Mostrar coluna"
+
+#~ msgid "Add Column"
+#~ msgstr "Adicionar coluna"
+
+#~ msgid "Edit Column"
+#~ msgstr "Editar coluna"
+
+#~ msgid ""
+#~ "Whether to make this column available"
+#~ " as a [Time Granularity] option, "
+#~ "column has to be DATETIME or "
+#~ "DATETIME-like"
+#~ msgstr ""
+#~ "Seja para disponibilizar esta coluna "
+#~ "como uma opção [Time Granularity], a "
+#~ "coluna deve ser DATETIME ou DATETIME"
+
+#~ msgid ""
+#~ "The data type that was inferred by"
+#~ " the database. It may be necessary"
+#~ " to input a type manually for "
+#~ "expression-defined columns in some cases."
+#~ " In most case users should not "
+#~ "need to alter this."
+#~ msgstr ""
+#~ "O tipo de dados que foi inferido"
+#~ " pelo banco de dados. Pode ser "
+#~ "necessário inserir um tipo manualmente "
+#~ "para colunas definidas por expressões em"
+#~ " alguns casos. Na maioria dos casos,"
+#~ " os usuários não precisam alterar "
+#~ "isso."
+
+#~ msgid "Expression"
+#~ msgstr "Expressão"
+
+#~ msgid "Is temporal"
+#~ msgstr "É temporal"
+
+#~ msgid "Datetime Format"
+#~ msgstr "Formato de data e hora"
+
+#~ msgid "Database Expression"
+#~ msgstr "Expressão de banco de dados"
+
+#~ msgid "List Metrics"
+#~ msgstr "Métricas de lista"
+
+#~ msgid "Show Metric"
+#~ msgstr "Mostrar métricas"
+
+#~ msgid "Add Metric"
+#~ msgstr "Adicionar métrica"
+
+#~ msgid "Edit Metric"
+#~ msgstr "Editar métrica"
+
+#~ msgid "SQL Expression"
+#~ msgstr "Expressão SQL"
+
+#~ msgid "D3 Format"
+#~ msgstr "Formato D3"
+
+#~ msgid "Is Restricted"
+#~ msgstr "É restrito"
+
+#~ msgid "List Tables"
+#~ msgstr ""
+
+#~ msgid "Show Table"
+#~ msgstr "Mostrar tabela"
+
+#~ msgid "Add Table"
+#~ msgstr "Adicionar tabela"
+
+#~ msgid "Edit Table"
+#~ msgstr "Editar tabela"
+
+#~ msgid "Name of the table that exists in the source database"
+#~ msgstr "Nome da tabela que existe no banco de dados de origem"
+
+#~ msgid "Schema, as used only in some databases like Postgres, Redshift and DB2"
+#~ msgstr ""
+#~ "Schema, usado apenas em alguns bancos"
+#~ " de dados, como Postgres, Redshift e"
+#~ " DB2"
+
+#~ msgid ""
+#~ "This fields acts a Superset view, "
+#~ "meaning that Superset will run a "
+#~ "query against this string as a "
+#~ "subquery."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Predicate applied when fetching distinct "
+#~ "value to populate the filter control "
+#~ "component. Supports jinja template syntax. "
+#~ "Applies only when `Enable Filter Select`"
+#~ " is on."
+#~ msgstr ""
+#~ "Predicado aplicado ao obter um valor "
+#~ "distinto para preencher o componente de"
+#~ " controle de filtro. Suporta a "
+#~ "sintaxe do modelo jinja. Aplica-se "
+#~ "somente quando \"Ativar seleção de "
+#~ "filtro\" está ativado."
+
+#~ msgid ""
+#~ "Redirects to this endpoint when clicking"
+#~ " on the table from the table "
+#~ "list"
+#~ msgstr ""
+#~ "Redireciona para este ponto final ao "
+#~ "clicar na tabela da lista da "
+#~ "tabela"
+
+#~ msgid "Changed By"
+#~ msgstr "Alterado por"
+
+#~ msgid "Database"
+#~ msgstr "Base de dados"
+
+#~ msgid "Last Changed"
+#~ msgstr "Modificado pela última vez"
+
+#~ msgid "Schema"
+#~ msgstr "Esquema"
+
+#~ msgid "Offset"
+#~ msgstr "Offset"
+
+#~ msgid "Table Name"
+#~ msgstr "Nome da mesa"
+
+#~ msgid "Fetch Values Predicate"
+#~ msgstr "Preconceito de valores de busca"
+
+#~ msgid "Main Datetime Column"
+#~ msgstr "Coluna de data inicial principal"
+
+#~ msgid ""
+#~ "Table [{}] could not be found, "
+#~ "please double check your database "
+#~ "connection, schema, and table name"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The table was created. As part of"
+#~ " this two phase configuration process, "
+#~ "you should now click the edit "
+#~ "button by the new table to "
+#~ "configure it."
+#~ msgstr ""
+#~ "A tabela foi criada. Como parte "
+#~ "deste processo de configuração de duas"
+#~ " fases, você deve agora clicar no "
+#~ "botão Editar pela nova tabela para "
+#~ "configurá-lo."
+
+#~ msgid "Refresh Metadata"
+#~ msgstr "Atualizar Metadados"
+
+#~ msgid "Refresh column metadata"
+#~ msgstr "Atualizar metadados de colunas"
+
+#~ msgid "Metadata refreshed for the following table(s): %(tables)s"
+#~ msgstr "Metadados atualizados para a seguinte tabela(s): %(tables)s"
+
+#~ msgid "Tables"
+#~ msgstr "Tabelas"
+
+#~ msgid "Profile"
+#~ msgstr "Perfil"
+
+#~ msgid "Logout"
+#~ msgstr "Sair"
+
+#~ msgid "Login"
+#~ msgstr "Login"
+
+#~ msgid "Record Count"
+#~ msgstr "Contagem de registros"
+
+#~ msgid "No records found"
+#~ msgstr "Nenhum registro foi encontrado"
+
+#~ msgid "Import"
+#~ msgstr "Importar"
+
+#~ msgid "No Access!"
+#~ msgstr "Não há acesso!"
+
+#~ msgid "You do not have permissions to access the datasource(s): %(name)s."
+#~ msgstr ""
+
+#~ msgid "Request Permissions"
+#~ msgstr ""
+
+#~ msgid "Welcome!"
+#~ msgstr "Bem vinda!"
+
+#~ msgid "Test Connection"
+#~ msgstr "Conexão de teste"
+
+#~ msgid "Manage"
+#~ msgstr "Gerir"
+
+#~ msgid "Datasource %(name)s already exists"
+#~ msgstr "Fonte de dados %(name)s já existe"
+
+#~ msgid "json isn't valid"
+#~ msgstr "json não é válido"
+
+#~ msgid "Delete"
+#~ msgstr "Excluir"
+
+#~ msgid "Delete all Really?"
+#~ msgstr ""
+
+#~ msgid "This endpoint requires the `all_datasource_access` permission"
+#~ msgstr "Este ponto final requer a permissão `all_datasource_access`"
+
+#~ msgid "The datasource seems to have been deleted"
+#~ msgstr "A fonte de dados parece ter sido excluída"
+
+#~ msgid "The access requests seem to have been deleted"
+#~ msgstr "Os pedidos de acesso parecem ter sido excluídos"
+
+#~ msgid "The user seems to have been deleted"
+#~ msgstr "O usuário parece ter sido excluído"
+
+#~ msgid "You don't have access to this datasource"
+#~ msgstr "Você não tem acesso a esta fonte de dados"
+
+#~ msgid ""
+#~ "This view requires the database %(name)s"
+#~ " or `all_datasource_access` permission"
+#~ msgstr ""
+#~ "Essa visualização requer o permissão do"
+#~ " banco de dados %(name) s ou "
+#~ "'all_datasource_access'"
+
+#~ msgid ""
+#~ "This endpoint requires the datasource "
+#~ "%(name)s, database or `all_datasource_access` "
+#~ "permission"
+#~ msgstr ""
+#~ "Este ponto final requer a fonte de"
+#~ " dados %(name)s, banco de dados ou"
+#~ " permissão 'all_datasource_access'"
+
+#~ msgid "List Databases"
+#~ msgstr "Listar bases de dados"
+
+#~ msgid "Show Database"
+#~ msgstr "Mostrar banco de dados"
+
+#~ msgid "Add Database"
+#~ msgstr "Adicionar banco de dados"
+
+#~ msgid "Edit Database"
+#~ msgstr "Editar banco de dados"
+
+#~ msgid "Expose this DB in SQL Lab"
+#~ msgstr "Expor este banco de dados no SQL Lab"
+
+#~ msgid ""
+#~ "Allow users to run synchronous queries,"
+#~ " this is the default and should "
+#~ "work well for queries that can be"
+#~ " executed within a web request scope"
+#~ " (<~1 minute)"
+#~ msgstr ""
+#~ "Permitir que os usuários executem "
+#~ "consultas síncronas, este é o padrão "
+#~ "e deve funcionar bem para consultas "
+#~ "que podem ser executadas dentro de "
+#~ "um escopo de solicitação na web "
+#~ "(<~ 1 minuto)"
+
+#~ msgid ""
+#~ "Allow users to run queries, against "
+#~ "an async backend. This assumes that "
+#~ "you have a Celery worker setup as"
+#~ " well as a results backend."
+#~ msgstr ""
+#~ "Permitir que os usuários executem "
+#~ "consultas, contra um backend assíncrono. "
+#~ "Isso pressupõe que você tenha uma "
+#~ "configuração do trabalhador de aipo, bem"
+#~ " como um backend de resultados."
+
+#~ msgid "Allow CREATE TABLE AS option in SQL Lab"
+#~ msgstr "Permitir a opção CREATE TABLE AS no SQL Lab"
+
+#~ msgid ""
+#~ "Allow users to run non-SELECT "
+#~ "statements (UPDATE, DELETE, CREATE, ...) "
+#~ "in SQL Lab"
+#~ msgstr ""
+#~ "Permitir que os usuários executem "
+#~ "instruções não-SELECT (UPDATE, DELETE, "
+#~ "CREATE, ...) no SQL Lab"
+
+#~ msgid ""
+#~ "When allowing CREATE TABLE AS option "
+#~ "in SQL Lab, this option forces the"
+#~ " table to be created in this "
+#~ "schema"
+#~ msgstr ""
+#~ "Ao permitir a opção CREATE TABLE "
+#~ "AS no SQL Lab, esta opção força"
+#~ " a tabela a ser criada neste "
+#~ "esquema"
+
+#~ msgid ""
+#~ "If Presto, all the queries in SQL"
+#~ " Lab are going to be executed "
+#~ "as the currently logged on user "
+#~ "who must have permission to run "
+#~ "them.<br/>If Hive and hive.server2.enable.doAs "
+#~ "is enabled, will run the queries "
+#~ "as service account, but impersonate the"
+#~ " currently logged on user via "
+#~ "hive.server2.proxy.user property."
+#~ msgstr ""
+#~ "Se Presto, todas as consultas no "
+#~ "SQL Lab serão executadas como o "
+#~ "usuário atualmente conectado que deve "
+#~ "ter permissão para executá-las. <br/> Se"
+#~ " hive e hive.server2.enable.doAs estiver "
+#~ "habilitado, será executado as consultas "
+#~ "como conta de serviço, mas personifique"
+#~ " o usuário atualmente conectado usando "
+#~ "a propriedade hive.server2.proxy.user."
+
+#~ msgid "Expose in SQL Lab"
+#~ msgstr "Exposé no SQL Lab"
+
+#~ msgid "Allow CREATE TABLE AS"
+#~ msgstr "Permitir CREATE TABLE AS"
+
+#~ msgid "Allow DML"
+#~ msgstr "Permitir DML"
+
+#~ msgid "CTAS Schema"
+#~ msgstr "Esquema CTAS"
+
+#~ msgid "Creator"
+#~ msgstr "O Criador"
+
+#~ msgid "SQLAlchemy URI"
+#~ msgstr "URI SQLAlchemy"
+
+#~ msgid "Extra"
+#~ msgstr "Extra"
+
+#~ msgid "Allow Run Sync"
+#~ msgstr "Permitir executar a sincronização"
+
+#~ msgid "Allow Run Async"
+#~ msgstr "Permitir executar async"
+
+#~ msgid "Impersonate the logged on user"
+#~ msgstr "Representar o usuário conectado"
+
+#~ msgid "Import Dashboards"
+#~ msgstr "Importar painéis"
+
+#~ msgid "User"
+#~ msgstr "Do utilizador"
+
+#~ msgid "User Roles"
+#~ msgstr "Funções do usuário"
+
+#~ msgid "Database URL"
+#~ msgstr "URL da base de dados"
+
+#~ msgid "Roles to grant"
+#~ msgstr ""
+
+#~ msgid "Created On"
+#~ msgstr "Criado em"
+
+#~ msgid "Access requests"
+#~ msgstr "Solicitações de acesso"
+
+#~ msgid "Security"
+#~ msgstr "Segurança"
+
+#~ msgid "List Slices"
+#~ msgstr "Lista de fatias"
+
+#~ msgid "Show Slice"
+#~ msgstr "Show Slice"
+
+#~ msgid "Add Slice"
+#~ msgstr "Adicionar fatia"
+
+#~ msgid "Edit Slice"
+#~ msgstr "Editar fatia"
+
+#~ msgid ""
+#~ "These parameters are generated dynamically "
+#~ "when clicking the save or overwrite "
+#~ "button in the explore view. This "
+#~ "JSON object is exposed here for "
+#~ "reference and for power users who "
+#~ "may want to alter specific parameters."
+#~ msgstr ""
+#~ "Esses parâmetros são gerados dinamicamente "
+#~ "ao clicar no botão Salvar ou "
+#~ "Substituir na vista de exibição. Este"
+#~ " objeto JSON é exposto aqui para "
+#~ "referência e para usuários avançados que"
+#~ " desejam alterar parâmetros específicos."
+
+#~ msgid "Duration (in seconds) of the caching timeout for this slice."
+#~ msgstr "Duração (em segundos) do tempo limite de cache para esta fatia."
+
+#~ msgid "Last Modified"
+#~ msgstr "Última modificação"
+
+#~ msgid "Owners"
+#~ msgstr "os Proprietários"
+
+#~ msgid "Parameters"
+#~ msgstr "Parâmetros"
+
+#~ msgid "Slice"
+#~ msgstr "Fatia"
+
+#~ msgid "List Dashboards"
+#~ msgstr "Lista de painéis"
+
+#~ msgid "Show Dashboard"
+#~ msgstr "Mostrar Painel"
+
+#~ msgid "Add Dashboard"
+#~ msgstr "Adicionar painel"
+
+#~ msgid "Edit Dashboard"
+#~ msgstr "Editar o painel de instrumentos"
+
+#~ msgid ""
+#~ "This json object describes the "
+#~ "positioning of the widgets in the "
+#~ "dashboard. It is dynamically generated "
+#~ "when adjusting the widgets size and "
+#~ "positions by using drag & drop in"
+#~ " the dashboard view"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The css for individual dashboards can"
+#~ " be altered here, or in the "
+#~ "dashboard view where changes are "
+#~ "immediately visible"
+#~ msgstr ""
+#~ "O css para painéis individuais pode "
+#~ "ser alterado aqui, ou na exibição "
+#~ "do painel onde as mudanças são "
+#~ "imediatamente visíveis"
+
+#~ msgid "To get a readable URL for your dashboard"
+#~ msgstr "Para obter um URL legível para o painel de controle"
+
+#~ msgid ""
+#~ "This JSON object is generated "
+#~ "dynamically when clicking the save or"
+#~ " overwrite button in the dashboard "
+#~ "view. It is exposed here for "
+#~ "reference and for power users who "
+#~ "may want to alter specific parameters."
+#~ msgstr ""
+#~ "Este objeto JSON é gerado dinamicamente"
+#~ " ao clicar no botão salvar ou "
+#~ "substituir na exibição do painel. É "
+#~ "exposto aqui para referência e para "
+#~ "usuários avançados que desejam alterar "
+#~ "parâmetros específicos."
+
+#~ msgid "Owners is a list of users who can alter the dashboard."
+#~ msgstr "Os proprietários são uma lista de usuários que podem alterar o painel."
+
+#~ msgid "Dashboard"
+#~ msgstr "painel de controle"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "Position JSON"
+#~ msgstr "Posição JSON"
+
+#~ msgid "JSON Metadata"
+#~ msgstr "Metadados da JSON"
+
+#~ msgid "Underlying Tables"
+#~ msgstr "Mesas subjacentes"
+
+#~ msgid "Export"
+#~ msgstr "Exportar"
+
+#~ msgid "Export dashboards?"
+#~ msgstr "Exportar painéis?"
+
+#~ msgid "Action"
+#~ msgstr "Açao"
+
+#~ msgid "dttm"
+#~ msgstr "DTIM"
+
+#~ msgid "Action Log"
+#~ msgstr "Registro de Ação"
+
+#~ msgid "Access was requested"
+#~ msgstr "O acesso foi solicitado"
+
+#~ msgid ""
+#~ "%(user)s was granted the role %(role)s"
+#~ " that gives access to the "
+#~ "%(datasource)s"
+#~ msgstr ""
+#~ "%(user)s foi concedida a função %(role)s"
+#~ " que dá acesso ao %(datasource)s"
+
+#~ msgid "Role %(r)s was extended to provide the access to the datasource %(ds)s"
+#~ msgstr ""
+
+#~ msgid "You have no permission to approve this request"
+#~ msgstr "Você não tem permissão para aprovar este pedido"
+
+#~ msgid ""
+#~ "Malformed request. slice_id or table_name "
+#~ "and db_name arguments are expected"
+#~ msgstr ""
+#~ "Pedido mal formado. Os argumentos "
+#~ "slice_id ou table_name e db_name são "
+#~ "esperados"
+
+#~ msgid "Slice %(id)s not found"
+#~ msgstr "Slice %(id)s não encontrado"
+
+#~ msgid "Table %(t)s wasn't found in the database %(d)s"
+#~ msgstr "A tabela %(t)s não foi encontrada no banco de dados %(d)s"
+
+#~ msgid "Can't find User '%(name)s', please ask your admin to create one."
+#~ msgstr ""
+
+#~ msgid "Can't find DruidCluster with cluster_name = '%(name)s'"
+#~ msgstr "Não é possível encontrar DruidCluster com cluster_name = '%(name)s'"
+
+#~ msgid "Query record was not created as expected."
+#~ msgstr "O registro de consulta não foi criado conforme o esperado."
+
+#~ msgid "Template Name"
+#~ msgstr "Nome do modelo"
+
+#~ msgid "CSS Templates"
+#~ msgstr "Modelos CSS"
+
+#~ msgid "SQL Editor"
+#~ msgstr "Editor de SQL"
+
+#~ msgid "SQL Lab"
+#~ msgstr "Laboratório SQL"
+
+#~ msgid "Query Search"
+#~ msgstr "Pesquisa de consulta"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Start Time"
+#~ msgstr "Hora de início"
+
+#~ msgid "End Time"
+#~ msgstr "Fim do tempo"
+
+#~ msgid "Queries"
+#~ msgstr "Consultas"
+
+#~ msgid "List Saved Query"
+#~ msgstr "Lista de Consulta Salva"
+
+#~ msgid "Show Saved Query"
+#~ msgstr "Mostrar consulta salva"
+
+#~ msgid "Add Saved Query"
+#~ msgstr "Adicionar consulta salva"
+
+#~ msgid "Edit Saved Query"
+#~ msgstr "Editar consulta salva"
+
+#~ msgid "Pop Tab Link"
+#~ msgstr "Link Tab Tab"
+
+#~ msgid "Changed on"
+#~ msgstr "Alterado em"
+
+#~ msgid "Saved Queries"
+#~ msgstr "Perguntas frequentes"

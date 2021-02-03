@@ -1,0 +1,26 @@
+.tag-cloud {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    color: #333;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.tag-cloud p {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: #333;
+    font-family: Arial;
+    text-decoration: none;
+    margin: 0 10px 15px 0;
+    text-align: center;
+    font-size: 16px;
+    padding: 4px 9px;
+    display: inline-block;
+    border-radius: 3px;
+    width: 100%;
+    overflow: hidden;
+    transform: translateZ(0);
+}

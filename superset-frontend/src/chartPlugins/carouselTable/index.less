@@ -1,0 +1,63 @@
+.carousel-table {
+    tr {
+        td, th {
+            padding:  0 5px;
+        }
+    }
+    overflow: auto;
+}
+
+.header-table, 
+.body-table {
+    width: 100%;
+    font-size: 12px;
+    color: inherit;
+}
+
+.header-table {
+    th {
+        // font-weight: normal;
+        height:  25px;
+    }
+}
+
+.body-table {
+    thead {
+        >tr {
+            height:  0;
+            line-height: 0;
+            border: none;
+            visibility: hidden;
+        }
+    }
+    tr {
+        border-top: 1px solid #eee;
+    }
+    .table-row {
+        animation-name: rotateRow;
+        animation-duration:  2.1s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+        animation-play-state: running paused running;
+        transform-origin: center center;
+    }
+}
+
+.body-table-wrapper {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: calc(100% - 30px);
+}
+
+@keyframes rotateRow {
+    0% {
+        transform: rotateX(0deg);
+    }
+
+    40% {
+        transform: rotateX(360deg);
+    }
+    100% {
+        transform: rotateX(360deg);
+    }
+}
