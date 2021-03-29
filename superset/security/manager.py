@@ -64,7 +64,6 @@ from flask import g
 from flask_appbuilder.security.sqla.models import User,Permission,Role,assoc_user_role,assoc_permissionview_role 
 from superset.extensions import security_manager;
 
-//
 class RolesFilter(BaseFilter):
     def apply(self, query, value):
        # query = query.join(User)
