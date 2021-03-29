@@ -16,7 +16,7 @@
 #
 x-superset-build: &superset-build
   args:
-    NPM_BUILD_CMD: build-dev
+    NPM_BUILD_CMD: build
   context: ./
   dockerfile: Dockerfile
 x-superset-depends-on: &superset-depends-on
@@ -27,9 +27,9 @@ x-superset-volumes: &superset-volumes
   # /app/pythonpath_docker will be appended to the PYTHONPATH in the final container
   - ./docker/docker-init.sh:/app/docker-init.sh
   - ./docker/pythonpath_dev:/app/pythonpath
-  - ./superset:/app/superset
-  - ./superset-frontend:/app/superset-frontend
-  - superset_home:/app/superset_home
+  # - ./superset:/app/superset
+  # - ./superset-frontend:/app/superset-frontend
+  # - superset_home:/app/superset_home
 
 version: "3.7"
 services:
@@ -41,21 +41,20 @@ services:
       - "0.0.0.0:6379:6379"
     volumes:
       - redis:/data
-  
+
   rabbitmq:
     image: rabbitmq:3.8
     container_name: superset_celery_broker
     restart: unless-stopped
     ports:
       - "0.0.0.0:5672:5672"
-      - "0.0.0.0:15692:15692"
     volumes:
       - rabbitmq:/var/lib/rabbitmq
-  
+
   postgres:
-    env_file: docker/.env
+    env_file: docker/.env.prod
     image: postgres:10
-    container_name: superset_db
+    # container_name: superset_db
     restart: unless-stopped
     ports:
       - "0.0.0.0:5432:5432"
@@ -63,10 +62,10 @@ services:
       - postgres:/var/lib/postgresql/data
 
   superset:
-    env_file: docker/.env
+    env_file: docker/.env.prod
     build: *superset-build
     container_name: superset_app
-    command: ["flask", "run", "-p", "8088", "--with-threads", "--reload", "--debugger", "--host=0.0.0.0"]
+    command: ["flask", "run", "-p", "8088", "--with-threads", "--reload", "--host=0.0.0.0"]
     restart: unless-stopped
     ports:
       - 8088:8088
@@ -77,23 +76,23 @@ services:
     build: *superset-build
     container_name: superset_init
     command: ["/app/docker-init.sh"]
-    env_file: docker/.env
+    env_file: docker/.env.prod
     depends_on: *superset-depends-on
     volumes: *superset-volumes
 
-  superset-node:
-    image: node:10-jessie
-    container_name: superset_node
-    # command: ["bash", "-c", "cd /app/superset-frontend && npm install --global webpack webpack-cli && npm install && npm run dev"]
-    env_file: docker/.env
-    depends_on: *superset-depends-on
-    volumes: *superset-volumes
+  # superset-node:
+  #   image: node:10-jessie
+  #   container_name: superset_node
+  #   command: ["bash", "-c", "cd /app/superset-frontend && npm install --global webpack webpack-cli && npm install && npm run dev"]
+  #   env_file: docker/.env
+  #   depends_on: *superset-depends-on
+  #   volumes: *superset-volumes
 
   superset-worker:
     build: *superset-build
     container_name: superset_worker
     command: bash -c "celery worker --app=superset.tasks.celery_app:app -Ofair -l INFO  --beat"
-    env_file: docker/.env
+    env_file: docker/.env.prod
     restart: unless-stopped
     ports: 
       - 7788:7788
@@ -102,7 +101,7 @@ services:
 
   # superset-beat:
   #   build: *superset-build
-  #   command: ["celery", "beat", "--app=superset.tasks.celery_app:app"]
+  #   command: ["celery", "beat", "--app=superset.tasks.celery_app:app", "--loglevel=debug"]
   #   env_file: docker/.env
   #   restart: unless-stopped
   #   depends_on: *superset-depends-on
@@ -132,3 +131,4 @@ volumes:
     external: false
   rabbitmq:
     external: false
+
